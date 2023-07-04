@@ -1,0 +1,151 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+summer <- read.csv("/home/RHHLab/Research/Buriganga/data/summer_data_all_param.csv")
+winter <- read.csv("/home/RHHLab/Research/Buriganga/data/winter_data_all_param.csv")
+
+```
+
+```{r}
+summer <- summer[, c(-1,-2)]
+winter <- winter[, c(-1,-2)]
+```
+
+```{r}
+
+```
+
+```{r}
+winscaled <- as.matrix(scale(winter))
+```
+
+```{r}
+# scale data to mean=0, sd=1 and convert to matrix
+sumscaled <- as.matrix(scale(summer))
+
+# create heatmap and don't reorder columns
+heatmap(sumscaled, Colv=F, scale='none')
+```
+
+```{r}
+# cluster rows
+hc.rows <- hclust(dist(sumscaled))
+plot(hc.rows)
+
+# transpose the matrix and cluster columns
+hc.cols <- hclust(dist(t(sumscaled)))
+
+# draw heatmap for first cluster
+heatmap(sumscaled[cutree(hc.rows,k=2)==1,], Colv=as.dendrogram(hc.cols), scale='none')
+
+# draw heatmap for second cluster
+heatmap(sumscaled[cutree(hc.rows,k=2)==2,], Colv=as.dendrogram(hc.cols), scale='none')
+```
+
+```{r}
+# scale data to mean=0, sd=1 and convert to matrix
+sumscaled <- as.matrix(scale(winter))
+
+# create heatmap and don't reorder columns
+heatmap(sumscaled, Colv=F, scale='none')
+```
+
+```{r}
+summer <- read.csv("/home/RHHLab/Research/Buriganga/data/all_param_full_form_summer.csv")
+winter <- read.csv("/home/RHHLab/Research/Buriganga/data/all_param_full_form_winter.csv")
+```
+
+```{r}
+summer <- summer[,-1]
+winter <- winter[,-1]
+```
+
+```{r}
+summer
+```
+
+```{r}
+winter
+```
+
+```{r}
+
+```
+
+```{r}
+wincaled <- as.matrix(scale(winter))
+
+# create heatmap and don't reorder columns
+heatmap(wincaled, Colv=F, scale='none')
+```
+
+```{r}
+sumscaled <- as.matrix(scale(summer))
+
+# create heatmap and don't reorder columns
+heatmap(sumscaled, Colv=F, scale='none')
+
+```
+
+```{r}
+average <- read.csv("/home/RHHLab/Research/Buriganga/data/summer_winter_average.csv")
+```
+
+```{r}
+average <- average[,-1]
+average
+```
+
+```{r}
+average
+```
+
+```{r}
+
+```
+
+```{r}
+avgscaled <- as.matrix(scale(average))
+
+# create heatmap and don't reorder columns
+heatmap(avgscaled, Colv=F, scale='none')
+```
+
+```{r}
+library(ggplot2)
+```
+
+```{r}
+
+avgscaled <- as.matrix(scale(average))
+
+# create heatmap and don't reorder columns
+heatmap(avgscaled, Colv=F, scale='none')+
+  theme(axis.text.x = element_text(size = 20))
+
+```
+
+```{r}
+?heatmap()
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.

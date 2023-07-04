@@ -1,0 +1,177 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+require(corrplot)
+df <- read.csv("MetalsRaw.csv")
+df <- df[,-1]
+corr_metals <- cor(df)
+corrplot(
+   corr_metals,
+   addCoef.col = "black",
+   number.cex = 1.5,
+   number.digits = 2,
+   tl.col = "black",
+   tl.cex = 1.4,
+   diag = FALSE,
+   bg = "grey",
+   outline = "black",
+   addgrid.col = "white",
+   mar = c(1,1,1,1))
+```
+
+```{r}
+require(corrplot)
+df <- read.csv("MetalsRaw.csv")
+df <- df[,-1]
+corr_metals <- cor(df)
+corrplot(corr_metals, method = "color", outline = T, addgrid.col = "darkgray", 
+         order="hclust", addrect = 4, 
+         rect.col = "black", rect.lwd = 5,cl.pos = "b", 
+         tl.col = "black", tl.cex = 1.5, cl.cex = 1.5, 
+         addCoef.col = "black", number.digits = 2, 
+         number.cex = 1.5, col = colorRampPalette(c("darkred","white","midnightblue"))(100))
+```
+
+```{r}
+require(corrplot)
+df <- read.csv("MetalsRaw.csv")
+df <- df[,-1]
+corr_metals <- cor(df)
+corrplot.mixed(corr_metals, lower = 'shade', upper = 'pie', 
+               tl.pos = "lt", tl.col = "black", tl.cex = 1.8)
+```
+
+```{r}
+require(corrplot)
+df <- read.csv("MetalsRaw.csv")
+df <- df[,-1]
+corr_metals <- cor(df)
+corrplot(corr_metals,title = "", method = "square", outline = T, 
+         addgrid.col = "darkgray", order="hclust", mar = c(4,0,4,0), 
+         addrect = 4, rect.col = "black", rect.lwd = 5,cl.pos = "b", 
+         tl.col = "black", tl.cex = 1.5, cl.cex = 1.5)
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+require(corrplot)
+df <- read.csv("/home/RHHLab/Research/Others/corr.csv")
+corr_metals <- cor(df)
+corrplot(
+   corr_metals,
+   addCoef.col = "black",
+   number.cex = 1.5,
+   number.digits = 2,
+   tl.col = "black",
+   tl.cex = 1.4,
+   diag = FALSE,
+   bg = "grey",
+   outline = "black",
+   addgrid.col = "white",
+   mar = c(1,1,1,1))
+```
+
+```{r}
+corrplot(corr_metals, method = "color", outline = T, addgrid.col = "darkgray", 
+         order="hclust", addrect = 4, 
+         rect.col = "black", rect.lwd = 5,cl.pos = "b", 
+         tl.col = "black", tl.cex = 1.5, cl.cex = 1.5, 
+         addCoef.col = "black", number.digits = 2, 
+         number.cex = 1.5, col = colorRampPalette(c("darkred","white","midnightblue"))(100))
+```
+
+```{r}
+corrplot.mixed(corr_metals, lower = 'shade', upper = 'pie', 
+               tl.pos = "lt", tl.col = "black", tl.cex = 1.8)
+```
+
+```{r}
+corrplot(corr_metals,title = "", method = "square", outline = T, 
+         addgrid.col = "darkgray", order="hclust", mar = c(4,0,4,0), 
+         addrect = 4, rect.col = "black", rect.lwd = 5,cl.pos = "b", 
+         tl.col = "black", tl.cex = 1.5, cl.cex = 1.5)
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.

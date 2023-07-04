@@ -1,0 +1,519 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+winter <- read.csv("data/Buriganga_W .csv")
+
+```
+
+```{r}
+winter
+```
+
+```{r}
+str(winter)
+```
+
+```{r}
+require(corrplot)
+```
+
+```{r}
+winter
+```
+
+```{r}
+dt_cor <- winter[, 1:10]
+dt_cor
+```
+
+```{r}
+str(dt_cor)
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+corrplot(
+   cor(dt_cor[,-1]),
+   addCoef.col = "white",
+   number.cex = 1.5,
+   number.digits = 2,
+   tl.col = "black",
+   tl.cex = 1.4,
+   diag = FALSE,
+   bg = "grey",
+   outline = "black",
+   addgrid.col = "white",
+   mar = c(1,1,1,1))
+```
+
+```{r}
+corrplot.mixed(cor(dt_cor[, -1]), lower = 'shade', upper = 'pie')
+```
+
+```{r}
+corrplot.mixed(cor(dt_cor[, -1]), lower = 'shade', upper = 'pie', tl.pos = "lt", tl.col = "black", tl.cex = .8)
+```
+
+```{r}
+winter
+```
+
+```{r}
+winter[,19:28]
+```
+
+```{r}
+dt1 <- winter[,19:28]
+dt1
+```
+
+```{r}
+corrplot(
+   cor(dt1),
+   addCoef.col = "white",
+   number.cex = 1.5,
+   number.digits = 2,
+   tl.col = "black",
+   tl.cex = 1.4,
+   diag = FALSE,
+   bg = "grey",
+   outline = "black",
+   addgrid.col = "white",
+   mar = c(1,1,1,1))
+```
+
+```{r}
+cor(dt1)
+```
+
+```{r}
+corrplot.mixed(cor(dt1), lower = 'shade', upper = 'pie', tl.pos = "lt", tl.col = "black", tl.cex = 1.8)
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+summer <- read.csv("data/Buriganga_S.csv")
+summer
+```
+
+```{r}
+sd1 <- summer[, 2:10]
+sd1
+```
+
+```{r}
+str(sd1)
+```
+
+```{r}
+corrplot(
+   cor(sd1),
+   addCoef.col = "white",
+   number.cex = 1.5,
+   number.digits = 2,
+   tl.col = "black",
+   tl.cex = 1.4,
+   diag = FALSE,
+   bg = "grey",
+   outline = "black",
+   addgrid.col = "white",
+   mar = c(1,1,1,1))
+```
+
+```{r}
+corrplot.mixed(cor(sd1), lower = 'shade', upper = 'pie', tl.pos = "lt", tl.col = "black", tl.cex = 1.8)
+```
+
+```{r}
+cor(sd1)
+```
+
+```{r}
+summer
+```
+
+```{r}
+sd2 <- summer[, 19:28]
+sd2
+```
+
+```{r}
+corrplot(
+   cor(sd2),
+   addCoef.col = "white",
+   number.cex = 1.5,
+   number.digits = 2,
+   tl.col = "black",
+   tl.cex = 1.4,
+   diag = FALSE,
+   bg = "grey",
+   outline = "black",
+   addgrid.col = "white",
+   mar = c(1,1,1,1))
+```
+
+```{r}
+corrplot.mixed(cor(sd2), lower = 'shade', upper = 'pie', tl.pos = "lt", tl.col = "black", tl.cex = 1.8)
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+summer
+```
+
+```{r}
+require(factoextra)
+require(FactoMineR)
+require(ggplot2)
+require(haven)
+require(psych)
+```
+
+```{r}
+sample1 <- PCA(data.frame(summer[2:28]), graph = FALSE, ncp = 10,  scale.unit = TRUE)
+eig.val <- get_eigenvalue(sample1)
+eig.val
+```
+
+```{r}
+write.csv(eig.val, "eig_val_summer.csv")
+```
+
+```{r}
+rotate1 <- pca(summer[,2:28], nfactors=5, rotate="varimax")
+rotate1
+```
+
+```{r}
+?pca
+```
+
+```{r}
+rotate1$loadings
+```
+
+```{r}
+rotate1$r.scores
+```
+
+```{r}
+write.csv(rotate1$loadings, "rotated_pca_summer.csv")
+```
+
+```{r}
+describe(winter)
+```
+
+```{r}
+install.packages("nFactors")
+```
+
+```{r}
+fitw <- factanal(winter[,2:28], factors= 3, rotation = "oblimin")
+fitw
+```
+
+```{r}
+require("psych")
+```
+
+```{r}
+fa(winter[,2:28], factors = 3, rotation = "varimax")
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+
+```{r}
+fcas <- pca(summer[, 2:28], nfactors = 5, rotate = F)
+fcas
+```
+
+```{r}
+fcas$loadings
+```
+
+```{r}
+write.csv(fcas$loadings, "pca_summer.csv")
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+sample2 <- PCA(data.frame(winter[2:28]), graph = FALSE, ncp = 10,  scale.unit = TRUE)
+eig.val <- get_eigenvalue(sample2)
+eig.val
+```
+
+```{r}
+write.csv(eig.val, "eig_val_winter.csv")
+```
+
+```{r}
+fcaw <- pca(winter[, 2:28], nfactors = 5, rotate = F)
+fcaw
+```
+
+```{r}
+write.csv(fcaw$loadings, "pca_winter.csv")
+```
+
+```{r}
+rotate2 <- pca(winter[, 2:28], nfactors = 5, rotate = "varimax")
+rotate2
+```
+
+```{r}
+write.csv(rotate2$loadings, "rotated_winter_pca.csv")
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+winter
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+KMO(summer[,2:28])
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+install.packages("readxl")
+```
+
+```{r}
+require(readxl)
+```
+
+```{r}
+summer <- read.csv("data/Buriganga_S.csv")
+winter <- read.csv("data/Buriganga_W .csv")
+```
+
+```{r}
+summer
+```
+
+```{r}
+winter
+```
+
+```{r}
+a = t.test(summer$pH, winter$pH, conf.level = 0.01)
+```
+
+```{r}
+a$p.value
+```
+
+```{r}
+a = t.test(summer$pH, winter$pH, conf.level = 0.05)
+a$p.value
+```
+
+```{r}
+
+```
+
+```{r}
+require(readxl)
+require(corrplot)
+```
+
+```{r}
+winter <- read_excel("/home/RHHLab/Research/Buriganga/data/microbio_winter.xlsx") 
+```
+
+```{r}
+summer <- read_excel("/home/RHHLab/Research/Buriganga/data/microbio_summer.xlsx")
+
+```
+
+```{r}
+winter
+```
+
+```{r}
+summer
+```
+
+```{r}
+winter <- winter[,-1]
+summer <- summer[,-1]
+winter
+summer
+```
+```{r}
+colnames(summer)[1] = "NH4+"
+colnames(summer)[2] = "NO3"
+colnames(summer)[3] = "PO4"
+colnames(summer)[4] = "SO4"
+colnames(summer)[5] = "THB"
+colnames(summer)[6] = "TC"
+colnames(summer)[7] = "FC"
+colnames(summer)[8] = "FS"
+colnames(summer)[9] = "Vibrio C"
+colnames(summer)[10] = "E coli"
+summer
+```
+
+```{r}
+colnames(winter)[1] = "NH4+"
+colnames(winter)[2] = "NO3"
+colnames(winter)[3] = "PO4"
+colnames(winter)[4] = "SO4"
+colnames(winter)[5] = "THB"
+colnames(winter)[6] = "TC"
+colnames(winter)[7] = "FC"
+colnames(winter)[8] = "FS"
+colnames(winter)[9] = "Vibrio C"
+colnames(winter)[10] = "E coli"
+winter
+```
+
+```{r}
+corr_winter <- cor(winter)
+corr_summer <- cor(summer)
+```
+
+```{r}
+corrplot(corr_winter,title = "", method = "square", outline = T, addgrid.col = "darkgray", order="hclust", mar = c(4,0,4,0), addrect = 4, rect.col = "black", rect.lwd = 5,cl.pos = "b", tl.col = "indianred4", tl.cex = 1.5, cl.cex = 1.5)
+```
+
+```{r}
+corrplot(corr_winter,title = "", method = "square", outline = T, addgrid.col = "darkgray", order="hclust", mar = c(4,0,4,0), addrect = 4, rect.col = "black", rect.lwd = 5,cl.pos = "d", tl.col = "indianred4", tl.cex = 1.5, cl.cex = 1.5)
+```
+
+```{r}
+corrplot(corr_winter, method = 'square', diag = FALSE, order = 'hclust',
+         addrect = 3, rect.col = 'blue', rect.lwd = 3, tl.pos = 'd')
+```
+
+```{r}
+corrplot(corr_winter, method = "color", outline = T, addgrid.col = "darkgray", order="hclust", addrect = 4, rect.col = "black", rect.lwd = 5,cl.pos = "b", tl.col = "indianred4", tl.cex = 1.5, cl.cex = 1.5, addCoef.col = "white", number.digits = 2, number.cex = 1.5, col = colorRampPalette(c("darkred","white","midnightblue"))(100))
+```
+
+```{r}
+corrplot.mixed(corr_winter, lower = 'shade', upper = 'pie', tl.pos = "lt", tl.col = "black", tl.cex = 1.8)
+```
+
+```{r}
+corrplot(corr_summer,title = "", method = "square", outline = T, addgrid.col = "darkgray", order="hclust", mar = c(4,0,4,0), addrect = 4, rect.col = "black", rect.lwd = 5,cl.pos = "b", tl.col = "indianred4", tl.cex = 1.5, cl.cex = 1.5)
+```
+
+```{r}
+corrplot(corr_summer, method = "color", outline = T, addgrid.col = "darkgray", order="hclust", addrect = 4, rect.col = "black", rect.lwd = 5,cl.pos = "b", tl.col = "indianred4", tl.cex = 1.5, cl.cex = 1.5, addCoef.col = "white", number.digits = 2, number.cex = 1.5, col = colorRampPalette(c("darkred","white","midnightblue"))(100))
+```
+
+```{r}
+corrplot.mixed(corr_summer, lower = 'shade', upper = 'pie', tl.pos = "lt", tl.col = "black", tl.cex = 1.8)
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.

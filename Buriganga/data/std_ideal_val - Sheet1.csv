@@ -1,0 +1,4 @@
+Temperature,pH,EC (μS/cm),TSS (mg/l),Turbidity (NTU),Salinity (mg/l),TDS (mg/l),DO (mg/l),COD (mg/l),NH4+  (mg/l),NO3 (mg/l),Phosphate(mg/l),Sulfates(mg/l),K (mg/l),Ca (mg/l),Mg (mg/l),Cl- (mg/l),Br (mg/l),Cd (mg/l),Cr (mg/l),Ni (mg/l),Cu (mg/l),Zn (mg/l),Mn(mg/l),Hg(mg/l),As(mg/l),Pb(mg/l)
+30,7.5,1000,30,20,250,1000,6,200,4,15,4,400,100,170,120,600,3,0.01,0.1,0.1,2,5,0.2,0.002,0.1,0.1
+25,7,600,20,10,200,600,4,100,1,10,1,200,12,75,35,250,1,0.005,0.05,0.07,1,0.5,0.05,0.001,0.05,0.02
+,,,,,,,,,,,,,,,,,1,0.005,0.05,0.02,0.05,5,0.15,0.002,0.1,0.1
