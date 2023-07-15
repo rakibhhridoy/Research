@@ -1,0 +1,391 @@
+<!DOCTYPE qgis-layer-definition>
+<qlr>
+  <layer-tree-group expanded="1" groupLayer="" checked="Qt::Checked" name="">
+    <customproperties>
+      <Option/>
+    </customproperties>
+    <layer-tree-layer source="../../../../Rampal.shp" patch_size="-1,-1" legend_exp="" expanded="1" checked="Qt::Checked" name="Rampal" id="Rampal_0ff64cc6_091f_42cc_b768_ad1cc2eccb14" providerKey="ogr" legend_split_behavior="0">
+      <customproperties>
+        <Option/>
+      </customproperties>
+    </layer-tree-layer>
+  </layer-tree-group>
+  <maplayers>
+    <maplayer wkbType="MultiPolygon" readOnly="0" autoRefreshEnabled="0" refreshOnNotifyMessage="" labelsEnabled="0" legendPlaceholderImage="" styleCategories="AllStyleCategories" minScale="100000000" simplifyAlgorithm="0" symbologyReferenceScale="-1" autoRefreshTime="0" refreshOnNotifyEnabled="0" simplifyMaxScale="1" simplifyLocal="1" simplifyDrawingHints="1" hasScaleBasedVisibilityFlag="0" simplifyDrawingTol="1" geometry="Polygon" maxScale="0" type="vector">
+      <extent>
+        <xmin>90.47260946900007639</xmin>
+        <ymin>23.52701137700006484</ymin>
+        <xmax>90.51032341800004133</xmax>
+        <ymax>23.5547679280000466</ymax>
+      </extent>
+      <wgs84extent>
+        <xmin>90.47260946900007639</xmin>
+        <ymin>23.52701137700006484</ymin>
+        <xmax>90.51032341800004133</xmax>
+        <ymax>23.5547679280000466</ymax>
+      </wgs84extent>
+      <id>Rampal_0ff64cc6_091f_42cc_b768_ad1cc2eccb14</id>
+      <datasource>../../../../Rampal.shp</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Rampal</layername>
+      <srs>
+        <spatialrefsys nativeFormat="Wkt">
+          <wkt>GEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["World."],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys nativeFormat="Wkt">
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider encoding="UTF-8">ogr</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <dataDependencies/>
+      <expressionfields/>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <auxiliaryLayer/>
+      <metadataUrls/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal mode="0" startExpression="" accumulate="0" endExpression="" durationUnit="min" enabled="0" startField="" endField="validTo" fixedDuration="0" limitMode="0" durationField="">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <renderer-v2 type="singleSymbol" enableorderby="0" symbollevels="0" forceraster="0" referencescale="-1">
+        <symbols>
+          <symbol clip_to_extent="1" type="fill" alpha="1" name="0" force_rhr="0">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+            <layer pass="0" enabled="1" locked="0" class="SimpleFill">
+              <Option type="Map">
+                <Option type="QString" name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+                <Option type="QString" name="color" value="133,182,111,255"/>
+                <Option type="QString" name="joinstyle" value="bevel"/>
+                <Option type="QString" name="offset" value="0,0"/>
+                <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+                <Option type="QString" name="offset_unit" value="MM"/>
+                <Option type="QString" name="outline_color" value="35,35,35,255"/>
+                <Option type="QString" name="outline_style" value="solid"/>
+                <Option type="QString" name="outline_width" value="0.26"/>
+                <Option type="QString" name="outline_width_unit" value="MM"/>
+                <Option type="QString" name="style" value="solid"/>
+              </Option>
+              <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="color" v="133,182,111,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="35,35,35,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option type="QString" name="name" value=""/>
+                  <Option name="properties"/>
+                  <Option type="QString" name="type" value="collection"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale/>
+      </renderer-v2>
+      <customproperties>
+        <Option/>
+      </customproperties>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerOpacity>1</layerOpacity>
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
+        <activeChecks type="StringList">
+          <Option type="QString" value=""/>
+        </activeChecks>
+        <checkConfiguration/>
+      </geometryOptions>
+      <legend type="default-vector" showLabelLegend="0"/>
+      <referencedLayers/>
+      <fieldConfiguration>
+        <field configurationFlags="None" name="Shape_Leng">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="Shape_Area">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="ADM4_EN">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="ADM4_PCODE">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="ADM4_REF">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="ADM4ALT1EN">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="ADM4ALT2EN">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="ADM3_EN">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="ADM3_PCODE">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="ADM2_EN">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="ADM2_PCODE">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="ADM1_EN">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="ADM1_PCODE">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="ADM0_EN">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="ADM0_PCODE">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="date">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="validOn">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="validTo">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+      </fieldConfiguration>
+      <aliases>
+        <alias field="Shape_Leng" name="" index="0"/>
+        <alias field="Shape_Area" name="" index="1"/>
+        <alias field="ADM4_EN" name="" index="2"/>
+        <alias field="ADM4_PCODE" name="" index="3"/>
+        <alias field="ADM4_REF" name="" index="4"/>
+        <alias field="ADM4ALT1EN" name="" index="5"/>
+        <alias field="ADM4ALT2EN" name="" index="6"/>
+        <alias field="ADM3_EN" name="" index="7"/>
+        <alias field="ADM3_PCODE" name="" index="8"/>
+        <alias field="ADM2_EN" name="" index="9"/>
+        <alias field="ADM2_PCODE" name="" index="10"/>
+        <alias field="ADM1_EN" name="" index="11"/>
+        <alias field="ADM1_PCODE" name="" index="12"/>
+        <alias field="ADM0_EN" name="" index="13"/>
+        <alias field="ADM0_PCODE" name="" index="14"/>
+        <alias field="date" name="" index="15"/>
+        <alias field="validOn" name="" index="16"/>
+        <alias field="validTo" name="" index="17"/>
+      </aliases>
+      <defaults>
+        <default field="Shape_Leng" expression="" applyOnUpdate="0"/>
+        <default field="Shape_Area" expression="" applyOnUpdate="0"/>
+        <default field="ADM4_EN" expression="" applyOnUpdate="0"/>
+        <default field="ADM4_PCODE" expression="" applyOnUpdate="0"/>
+        <default field="ADM4_REF" expression="" applyOnUpdate="0"/>
+        <default field="ADM4ALT1EN" expression="" applyOnUpdate="0"/>
+        <default field="ADM4ALT2EN" expression="" applyOnUpdate="0"/>
+        <default field="ADM3_EN" expression="" applyOnUpdate="0"/>
+        <default field="ADM3_PCODE" expression="" applyOnUpdate="0"/>
+        <default field="ADM2_EN" expression="" applyOnUpdate="0"/>
+        <default field="ADM2_PCODE" expression="" applyOnUpdate="0"/>
+        <default field="ADM1_EN" expression="" applyOnUpdate="0"/>
+        <default field="ADM1_PCODE" expression="" applyOnUpdate="0"/>
+        <default field="ADM0_EN" expression="" applyOnUpdate="0"/>
+        <default field="ADM0_PCODE" expression="" applyOnUpdate="0"/>
+        <default field="date" expression="" applyOnUpdate="0"/>
+        <default field="validOn" expression="" applyOnUpdate="0"/>
+        <default field="validTo" expression="" applyOnUpdate="0"/>
+      </defaults>
+      <constraints>
+        <constraint field="Shape_Leng" notnull_strength="0" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint field="Shape_Area" notnull_strength="0" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint field="ADM4_EN" notnull_strength="0" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint field="ADM4_PCODE" notnull_strength="0" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint field="ADM4_REF" notnull_strength="0" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint field="ADM4ALT1EN" notnull_strength="0" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint field="ADM4ALT2EN" notnull_strength="0" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint field="ADM3_EN" notnull_strength="0" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint field="ADM3_PCODE" notnull_strength="0" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint field="ADM2_EN" notnull_strength="0" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint field="ADM2_PCODE" notnull_strength="0" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint field="ADM1_EN" notnull_strength="0" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint field="ADM1_PCODE" notnull_strength="0" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint field="ADM0_EN" notnull_strength="0" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint field="ADM0_PCODE" notnull_strength="0" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint field="date" notnull_strength="0" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint field="validOn" notnull_strength="0" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint field="validTo" notnull_strength="0" unique_strength="0" constraints="0" exp_strength="0"/>
+      </constraints>
+      <constraintExpressions>
+        <constraint field="Shape_Leng" desc="" exp=""/>
+        <constraint field="Shape_Area" desc="" exp=""/>
+        <constraint field="ADM4_EN" desc="" exp=""/>
+        <constraint field="ADM4_PCODE" desc="" exp=""/>
+        <constraint field="ADM4_REF" desc="" exp=""/>
+        <constraint field="ADM4ALT1EN" desc="" exp=""/>
+        <constraint field="ADM4ALT2EN" desc="" exp=""/>
+        <constraint field="ADM3_EN" desc="" exp=""/>
+        <constraint field="ADM3_PCODE" desc="" exp=""/>
+        <constraint field="ADM2_EN" desc="" exp=""/>
+        <constraint field="ADM2_PCODE" desc="" exp=""/>
+        <constraint field="ADM1_EN" desc="" exp=""/>
+        <constraint field="ADM1_PCODE" desc="" exp=""/>
+        <constraint field="ADM0_EN" desc="" exp=""/>
+        <constraint field="ADM0_PCODE" desc="" exp=""/>
+        <constraint field="date" desc="" exp=""/>
+        <constraint field="validOn" desc="" exp=""/>
+        <constraint field="validTo" desc="" exp=""/>
+      </constraintExpressions>
+      <expressionfields/>
+      <attributeactions>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+      </attributeactions>
+      <attributetableconfig sortOrder="0" actionWidgetStyle="dropDown" sortExpression="">
+        <columns/>
+      </attributetableconfig>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <storedexpressions/>
+      <editform tolerant="1"></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <editable/>
+      <labelOnTop/>
+      <reuseLastValue/>
+      <dataDefinedFieldProperties/>
+      <widgets/>
+      <previewExpression></previewExpression>
+      <mapTip></mapTip>
+    </maplayer>
+  </maplayers>
+</qlr>
