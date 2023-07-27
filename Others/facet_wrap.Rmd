@@ -271,7 +271,7 @@ ggplot(df, aes(x = Metals, y = y)) +
 ```
 
 ```{r}
-
+require(ggplot2)
 ```
 
 ```{r}
@@ -299,11 +299,11 @@ ggplot(hi, aes(x = Metals, y = y)) +
   theme_classic()+
   theme(panel.border = element_blank(), panel.grid.major = element_blank(),
         panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"))+
-  theme( axis.text = element_text( size = 16, face = "bold", family= "Times" ),
-           axis.text.y = element_text(size = 16, face = "bold" ),
-           axis.text.x = element_text(size= 16, face = "bold"), 
+  theme( axis.text = element_text( size = 25, face = "bold", family= "Times Bold" ),
+           axis.text.y = element_text(size = 25, face = "bold" ),
+           axis.text.x = element_text(size= 24, face = "bold"), 
            legend.position="none",
-           strip.text = element_text(size = 12, face = "bold", colour = "black"))
+           strip.text = element_text(size = 35, face = "bold", colour = "black"))
 ```
 
 ```{r}
@@ -337,11 +337,11 @@ ggplot(cr, aes(x = Metals, y = y)) +
   theme_classic()+
   theme(panel.border = element_blank(), panel.grid.major = element_blank(),
         panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"))+
-  theme( axis.text = element_text( size = 16, face = "bold", family = "Times" ),
-           axis.text.y = element_text(size = 16, face = "bold"),
-           axis.text.x = element_text(size= 16, face = "bold"), 
+  theme( axis.text = element_text( size = 25, face = "bold", family = "Times Bold" ),
+           axis.text.y = element_text(size = 25, face = "bold"),
+           axis.text.x = element_text(size= 25, face = "bold"), 
            legend.position="none",
-           strip.text = element_text(size = 12, face = "bold", colour = "black"))
+           strip.text = element_text(size = 35, face = "bold", colour = "black"))
 ```
 
 ```{r}
