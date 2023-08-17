@@ -97,7 +97,11 @@ fviz_pca_ind(sample, axes = c(1, 2), geom = c("point", "text"),
 ```
 
 ```{r}
+df <- read.csv("/home/RHHLab/Research/Others/datapca.csv")
+```
 
+```{r}
+df
 ```
 
 ```{r}
@@ -105,11 +109,35 @@ fviz_pca_ind(sample, axes = c(1, 2), geom = c("point", "text"),
 ```
 
 ```{r}
+pca.df <- PCA(data.frame(df), graph = FALSE, ncp = 3,scale.unit = TRUE)
+eig.val <- get_eigenvalue(pca.df)
+eig.val
+```
 
+```{r}
+rotate <- pca(df, nfactors = 3, rotate = "varimax")
+rotate
+```
+
+```{r}
+pca.df$var$coord
+```
+
+```{r}
+pca.df$eig
+```
+
+```{r}
+rotate$loadings
 ```
 
 ```{r}
 
+```
+
+```{r}
+write.csv(pca.df$var$coord, "/home/RHHLab/Research/Others/18-08-23/pca.csv")
+write.csv(rotate$loadings, "/home/RHHLab/Research/Others/18-08-23/rotate_pca.csv")
 ```
 
 ```{r}
