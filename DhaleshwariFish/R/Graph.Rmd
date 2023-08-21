@@ -107,19 +107,25 @@ corrplot(corr_metals,title = "", method = "square", outline = T,
 ```
 
 ```{r}
-
+require(corrplot)
+df <- read.csv("/home/RHHLab/Research/Others/datapca.csv")
+corr_metals <- cor(df)
+corrplot.mixed(corr_metals, lower = 'shade', upper = 'pie', 
+               tl.pos = "lt", tl.col = "black", tl.cex = 1.8)
+ggsave(filename = "/home/RHHLab/Research/Others/CorrMetals.png", dpi = 1000)
 ```
 
 ```{r}
-
+require(ggplot2)
 ```
 
 ```{r}
-
+df <- read.csv("/home/RHHLab/Research/Others/datapca.csv")
+df
 ```
 
 ```{r}
-
+?ggsave
 ```
 
 ```{r}
