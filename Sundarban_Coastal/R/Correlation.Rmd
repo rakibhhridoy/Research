@@ -8,7 +8,81 @@ This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute
 Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
 
 ```{r}
-plot(cars)
+require(corrplot)
+df <- read.csv("MetalsRaw.csv")
+df <- df[,-1]
+corr_metals <- cor(df)
+corrplot.mixed(corr_metals, lower = 'shade', upper = 'pie', 
+               tl.pos = "lt", tl.col = "black", tl.cex = 1.8)
+```
+
+```{r}
+require(corrplot)
+```
+
+```{r}
+df <- read.csv("/home/RHHLab/Research/Sundarban_Coastal/data/SundarbanCastalForCorrelation.csv")
+
+```
+
+```{r}
+df
+```
+
+```{r}
+corr_metals <- cor(df)
+corrplot.mixed(corr_metals, lower = 'shade', upper = 'pie', 
+               tl.pos = "lt", tl.col = "black", tl.cex = 1.8)
+```
+
+```{r}
+kj <- read.csv("/home/RHHLab/Research/Sundarban_Coastal/data/KaramjalCorr.csv")
+hb <- read.csv("/home/RHHLab/Research/Sundarban_Coastal/data/HarbariaCorr.csv")
+hn <- read.csv("/home/RHHLab/Research/Sundarban_Coastal/data/HironCorr.csv")
+kat <- read.csv("/home/RHHLab/Research/Sundarban_Coastal/data/KatkaCorr.csv")
+```
+
+```{r}
+corr_metals <- cor(kj)
+corrplot(corr_metals, method = "color", outline = T, addgrid.col = "darkgray", 
+         order="hclust", addrect = 4, 
+         rect.col = "black", rect.lwd = 5,cl.pos = "b", 
+         tl.col = "black", tl.cex = 1.5, cl.cex = 1.5, 
+         addCoef.col = "black", number.digits = 2, 
+         number.cex = 1.5, col = colorRampPalette(c("darkred","white","midnightblue"))(100))
+```
+
+```{r}
+corr_metals <- cor(hb)
+corrplot(corr_metals, method = "color", outline = T, addgrid.col = "darkgray", 
+         order="hclust", addrect = 4, 
+         rect.col = "black", rect.lwd = 5,cl.pos = "b", 
+         tl.col = "black", tl.cex = 1.5, cl.cex = 1.5, 
+         addCoef.col = "black", number.digits = 2, 
+         number.cex = 1.5, col = colorRampPalette(c("darkred","white","midnightblue"))(100))
+
+```
+
+```{r}
+corr_metals <- cor(hn)
+corrplot(corr_metals, method = "color", outline = T, addgrid.col = "darkgray", 
+         order="hclust", addrect = 4, 
+         rect.col = "black", rect.lwd = 5,cl.pos = "b", 
+         tl.col = "black", tl.cex = 1.5, cl.cex = 1.5, 
+         addCoef.col = "black", number.digits = 2, 
+         number.cex = 1.5, col = colorRampPalette(c("darkred","white","midnightblue"))(100))
+
+```
+
+```{r}
+corr_metals <- cor(kat)
+corrplot(corr_metals, method = "color", outline = T, addgrid.col = "darkgray", 
+         order="hclust", addrect = 4, 
+         rect.col = "black", rect.lwd = 5,cl.pos = "b", 
+         tl.col = "black", tl.cex = 1.5, cl.cex = 1.5, 
+         addCoef.col = "black", number.digits = 2, 
+         number.cex = 1.5, col = colorRampPalette(c("darkred","white","midnightblue"))(100))
+
 ```
 
 Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.

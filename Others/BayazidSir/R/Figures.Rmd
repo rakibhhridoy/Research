@@ -8,7 +8,160 @@ This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute
 Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
 
 ```{r}
-plot(cars)
+require(ggplot2)
+require(ggrain)
+```
+
+
+## Data Load
+
+
+```{r}
+plantdf <- read.csv("/home/RHHLab/Research/Others/BayazidSir/plantDataT.csv")
+percentdf <- read.csv("/home/RHHLab/Research/Others/BayazidSir/PercentContent.csv")
+nutrientdf <- read.csv("/home/RHHLab/Research/Others/BayazidSir/NutrientContent.csv")
+majordf <- read.csv("/home/RHHLab/Research/Others/BayazidSir/MajorNutrient.csv")
+```
+
+```{r}
+plantdf
+```
+
+```{r}
+ggplot(plantdf, aes(1, Height, fill = Treatment, color = Treatment)) +
+  geom_rain(alpha = .6,
+            boxplot.args = list(color = "black", outlier.shape = NA)) +
+  theme_classic() +
+  scale_fill_brewer(palette = 'Dark2') +
+  scale_color_brewer(palette = 'Dark2')
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
 ```
 
 Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.

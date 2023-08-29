@@ -223,17 +223,178 @@ pre code {
 <p>Try executing this chunk by clicking the <em>Run</em> button within the chunk or by placing your cursor inside it and pressing <em>Ctrl+Shift+Enter</em>.</p>
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxucGxvdChjYXJzKVxuYGBgIn0= -->
-<pre class="r"><code>plot(cars)</code></pre>
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxucmVxdWlyZShnZ3Bsb3QyKVxucmVxdWlyZShnZ3JhaW4pXG5gYGAifQ== -->
+<pre class="r"><code>require(ggplot2)
+require(ggrain)</code></pre>
 <!-- rnb-source-end -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<div id="data-load" class="section level2">
+<h2>Data Load</h2>
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxucGxhbnRkZiA8LSByZWFkLmNzdihcIi9ob21lL1JISExhYi9SZXNlYXJjaC9PdGhlcnMvQmF5YXppZFNpci9wbGFudERhdGFULmNzdlwiKVxucGVyY2VudGRmIDwtIHJlYWQuY3N2KFwiL2hvbWUvUkhITGFiL1Jlc2VhcmNoL090aGVycy9CYXlhemlkU2lyL1BlcmNlbnRDb250ZW50LmNzdlwiKVxubnV0cmllbnRkZiA8LSByZWFkLmNzdihcIi9ob21lL1JISExhYi9SZXNlYXJjaC9PdGhlcnMvQmF5YXppZFNpci9OdXRyaWVudENvbnRlbnQuY3N2XCIpXG5tYWpvcmRmIDwtIHJlYWQuY3N2KFwiL2hvbWUvUkhITGFiL1Jlc2VhcmNoL090aGVycy9CYXlhemlkU2lyL01ham9yTnV0cmllbnQuY3N2XCIpXG5gYGAifQ== -->
+<pre class="r"><code>plantdf &lt;- read.csv(&quot;/home/RHHLab/Research/Others/BayazidSir/plantDataT.csv&quot;)
+percentdf &lt;- read.csv(&quot;/home/RHHLab/Research/Others/BayazidSir/PercentContent.csv&quot;)
+nutrientdf &lt;- read.csv(&quot;/home/RHHLab/Research/Others/BayazidSir/NutrientContent.csv&quot;)
+majordf &lt;- read.csv(&quot;/home/RHHLab/Research/Others/BayazidSir/MajorNutrient.csv&quot;)</code></pre>
+<!-- rnb-source-end -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxucGxhbnRkZlxuYGBgIn0= -->
+<pre class="r"><code>plantdf</code></pre>
+<!-- rnb-source-end -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuZ2dwbG90KHBsYW50ZGYsIGFlcygxLCBIZWlnaHQsIGZpbGwgPSBUcmVhdG1lbnQsIGNvbG9yID0gVHJlYXRtZW50KSkgK1xuICBnZW9tX3JhaW4oYWxwaGEgPSAuNixcbiAgICAgICAgICAgIGJveHBsb3QuYXJncyA9IGxpc3QoY29sb3IgPSBcImJsYWNrXCIsIG91dGxpZXIuc2hhcGUgPSBOQSkpICtcbiAgdGhlbWVfY2xhc3NpYygpICtcbiAgc2NhbGVfZmlsbF9icmV3ZXIocGFsZXR0ZSA9ICdEYXJrMicpICtcbiAgc2NhbGVfY29sb3JfYnJld2VyKHBhbGV0dGUgPSAnRGFyazInKVxuYGBgIn0= -->
+<pre class="r"><code>ggplot(plantdf, aes(1, Height, fill = Treatment, color = Treatment)) +
+  geom_rain(alpha = .6,
+            boxplot.args = list(color = &quot;black&quot;, outlier.shape = NA)) +
+  theme_classic() +
+  scale_fill_brewer(palette = &#39;Dark2&#39;) +
+  scale_color_brewer(palette = &#39;Dark2&#39;)</code></pre>
+<!-- rnb-source-end -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <p>Add a new chunk by clicking the <em>Insert Chunk</em> button on the toolbar or by pressing <em>Ctrl+Alt+I</em>.</p>
 <p>When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the <em>Preview</em> button or press <em>Ctrl+Shift+K</em> to preview the HTML file).</p>
 <p>The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike <em>Knit</em>, <em>Preview</em> does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.</p>
 <!-- rnb-text-end -->
+</div>
 
-<div id="rmd-source-code">LS0tCnRpdGxlOiAiUiBOb3RlYm9vayIKb3V0cHV0OiBodG1sX25vdGVib29rCi0tLQoKVGhpcyBpcyBhbiBbUiBNYXJrZG93bl0oaHR0cDovL3JtYXJrZG93bi5yc3R1ZGlvLmNvbSkgTm90ZWJvb2suIFdoZW4geW91IGV4ZWN1dGUgY29kZSB3aXRoaW4gdGhlIG5vdGVib29rLCB0aGUgcmVzdWx0cyBhcHBlYXIgYmVuZWF0aCB0aGUgY29kZS4gCgpUcnkgZXhlY3V0aW5nIHRoaXMgY2h1bmsgYnkgY2xpY2tpbmcgdGhlICpSdW4qIGJ1dHRvbiB3aXRoaW4gdGhlIGNodW5rIG9yIGJ5IHBsYWNpbmcgeW91ciBjdXJzb3IgaW5zaWRlIGl0IGFuZCBwcmVzc2luZyAqQ3RybCtTaGlmdCtFbnRlciouIAoKYGBge3J9CnBsb3QoY2FycykKYGBgCgpBZGQgYSBuZXcgY2h1bmsgYnkgY2xpY2tpbmcgdGhlICpJbnNlcnQgQ2h1bmsqIGJ1dHRvbiBvbiB0aGUgdG9vbGJhciBvciBieSBwcmVzc2luZyAqQ3RybCtBbHQrSSouCgpXaGVuIHlvdSBzYXZlIHRoZSBub3RlYm9vaywgYW4gSFRNTCBmaWxlIGNvbnRhaW5pbmcgdGhlIGNvZGUgYW5kIG91dHB1dCB3aWxsIGJlIHNhdmVkIGFsb25nc2lkZSBpdCAoY2xpY2sgdGhlICpQcmV2aWV3KiBidXR0b24gb3IgcHJlc3MgKkN0cmwrU2hpZnQrSyogdG8gcHJldmlldyB0aGUgSFRNTCBmaWxlKS4KClRoZSBwcmV2aWV3IHNob3dzIHlvdSBhIHJlbmRlcmVkIEhUTUwgY29weSBvZiB0aGUgY29udGVudHMgb2YgdGhlIGVkaXRvci4gQ29uc2VxdWVudGx5LCB1bmxpa2UgKktuaXQqLCAqUHJldmlldyogZG9lcyBub3QgcnVuIGFueSBSIGNvZGUgY2h1bmtzLiBJbnN0ZWFkLCB0aGUgb3V0cHV0IG9mIHRoZSBjaHVuayB3aGVuIGl0IHdhcyBsYXN0IHJ1biBpbiB0aGUgZWRpdG9yIGlzIGRpc3BsYXllZC4K</div>
+<div id="rmd-source-code">LS0tCnRpdGxlOiAiUiBOb3RlYm9vayIKb3V0cHV0OiBodG1sX25vdGVib29rCi0tLQoKVGhpcyBpcyBhbiBbUiBNYXJrZG93bl0oaHR0cDovL3JtYXJrZG93bi5yc3R1ZGlvLmNvbSkgTm90ZWJvb2suIFdoZW4geW91IGV4ZWN1dGUgY29kZSB3aXRoaW4gdGhlIG5vdGVib29rLCB0aGUgcmVzdWx0cyBhcHBlYXIgYmVuZWF0aCB0aGUgY29kZS4gCgpUcnkgZXhlY3V0aW5nIHRoaXMgY2h1bmsgYnkgY2xpY2tpbmcgdGhlICpSdW4qIGJ1dHRvbiB3aXRoaW4gdGhlIGNodW5rIG9yIGJ5IHBsYWNpbmcgeW91ciBjdXJzb3IgaW5zaWRlIGl0IGFuZCBwcmVzc2luZyAqQ3RybCtTaGlmdCtFbnRlciouIAoKYGBge3J9CnJlcXVpcmUoZ2dwbG90MikKcmVxdWlyZShnZ3JhaW4pCmBgYAoKCiMjIERhdGEgTG9hZAoKCmBgYHtyfQpwbGFudGRmIDwtIHJlYWQuY3N2KCIvaG9tZS9SSEhMYWIvUmVzZWFyY2gvT3RoZXJzL0JheWF6aWRTaXIvcGxhbnREYXRhVC5jc3YiKQpwZXJjZW50ZGYgPC0gcmVhZC5jc3YoIi9ob21lL1JISExhYi9SZXNlYXJjaC9PdGhlcnMvQmF5YXppZFNpci9QZXJjZW50Q29udGVudC5jc3YiKQpudXRyaWVudGRmIDwtIHJlYWQuY3N2KCIvaG9tZS9SSEhMYWIvUmVzZWFyY2gvT3RoZXJzL0JheWF6aWRTaXIvTnV0cmllbnRDb250ZW50LmNzdiIpCm1ham9yZGYgPC0gcmVhZC5jc3YoIi9ob21lL1JISExhYi9SZXNlYXJjaC9PdGhlcnMvQmF5YXppZFNpci9NYWpvck51dHJpZW50LmNzdiIpCmBgYAoKYGBge3J9CnBsYW50ZGYKYGBgCgpgYGB7cn0KZ2dwbG90KHBsYW50ZGYsIGFlcygxLCBIZWlnaHQsIGZpbGwgPSBUcmVhdG1lbnQsIGNvbG9yID0gVHJlYXRtZW50KSkgKwogIGdlb21fcmFpbihhbHBoYSA9IC42LAogICAgICAgICAgICBib3hwbG90LmFyZ3MgPSBsaXN0KGNvbG9yID0gImJsYWNrIiwgb3V0bGllci5zaGFwZSA9IE5BKSkgKwogIHRoZW1lX2NsYXNzaWMoKSArCiAgc2NhbGVfZmlsbF9icmV3ZXIocGFsZXR0ZSA9ICdEYXJrMicpICsKICBzY2FsZV9jb2xvcl9icmV3ZXIocGFsZXR0ZSA9ICdEYXJrMicpCmBgYAoKYGBge3J9CgpgYGAKCmBgYHtyfQoKYGBgCgpgYGB7cn0KCmBgYAoKYGBge3J9CgpgYGAKCmBgYHtyfQoKYGBgCgpgYGB7cn0KCmBgYAoKYGBge3J9CgpgYGAKCmBgYHtyfQoKYGBgCgpgYGB7cn0KCmBgYAoKYGBge3J9CgpgYGAKCmBgYHtyfQoKYGBgCgpgYGB7cn0KCmBgYAoKYGBge3J9CgpgYGAKCmBgYHtyfQoKYGBgCgpgYGB7cn0KCmBgYAoKYGBge3J9CgpgYGAKCmBgYHtyfQoKYGBgCgpgYGB7cn0KCmBgYAoKYGBge3J9CgpgYGAKCmBgYHtyfQoKYGBgCgpgYGB7cn0KCmBgYAoKYGBge3J9CgpgYGAKCmBgYHtyfQoKYGBgCgpgYGB7cn0KCmBgYAoKYGBge3J9CgpgYGAKCmBgYHtyfQoKYGBgCgpgYGB7cn0KCmBgYAoKYGBge3J9CgpgYGAKCmBgYHtyfQoKYGBgCgpgYGB7cn0KCmBgYAoKYGBge3J9CgpgYGAKCmBgYHtyfQoKYGBgCgpBZGQgYSBuZXcgY2h1bmsgYnkgY2xpY2tpbmcgdGhlICpJbnNlcnQgQ2h1bmsqIGJ1dHRvbiBvbiB0aGUgdG9vbGJhciBvciBieSBwcmVzc2luZyAqQ3RybCtBbHQrSSouCgpXaGVuIHlvdSBzYXZlIHRoZSBub3RlYm9vaywgYW4gSFRNTCBmaWxlIGNvbnRhaW5pbmcgdGhlIGNvZGUgYW5kIG91dHB1dCB3aWxsIGJlIHNhdmVkIGFsb25nc2lkZSBpdCAoY2xpY2sgdGhlICpQcmV2aWV3KiBidXR0b24gb3IgcHJlc3MgKkN0cmwrU2hpZnQrSyogdG8gcHJldmlldyB0aGUgSFRNTCBmaWxlKS4KClRoZSBwcmV2aWV3IHNob3dzIHlvdSBhIHJlbmRlcmVkIEhUTUwgY29weSBvZiB0aGUgY29udGVudHMgb2YgdGhlIGVkaXRvci4gQ29uc2VxdWVudGx5LCB1bmxpa2UgKktuaXQqLCAqUHJldmlldyogZG9lcyBub3QgcnVuIGFueSBSIGNvZGUgY2h1bmtzLiBJbnN0ZWFkLCB0aGUgb3V0cHV0IG9mIHRoZSBjaHVuayB3aGVuIGl0IHdhcyBsYXN0IHJ1biBpbiB0aGUgZWRpdG9yIGlzIGRpc3BsYXllZC4K</div>
 
 
 

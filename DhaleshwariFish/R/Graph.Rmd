@@ -111,8 +111,8 @@ require(corrplot)
 df <- read.csv("/home/RHHLab/Research/Others/datapca.csv")
 corr_metals <- cor(df)
 corrplot.mixed(corr_metals, lower = 'shade', upper = 'pie', 
-               tl.pos = "lt", tl.col = "black", tl.cex = 1.8)
-ggsave(filename = "/home/RHHLab/Research/Others/CorrMetals.png", dpi = 1000)
+               tl.pos = "lt", tl.col = "black", tl.cex = 4)
+
 ```
 
 ```{r}
