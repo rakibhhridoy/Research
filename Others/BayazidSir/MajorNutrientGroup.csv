@@ -1,4 +1,4 @@
-Treatment (t/ha),N content (mg/pot),Element
+Treatment,Values,Element
 TA,7.56,N (mg/pot)
 TC,5.28,N (mg/pot)
 T0M,15.97,N (mg/pot)
@@ -14,7 +14,7 @@ T0M,4.63,P (mg/pot)
 T1,9.8,P (mg/pot)
 T2,13.61,P (mg/pot)
 T3,14.87,P (mg/pot)
-T4,13,P (mg/pot)
+T4,13.0,P (mg/pot)
 T5,14.68,P (mg/pot)
 T6,10.1,P (mg/pot)
 TA,9.02,K (mg/pot)

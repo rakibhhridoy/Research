@@ -18,6 +18,11 @@ require(ggrain)
 
 ```{r}
 plantdf <- read.csv("/home/RHHLab/Research/Others/BayazidSir/plantDataT.csv")
+plantGrouped <- read.csv("/home/RHHLab/Research/Others/BayazidSir/plantDataGroup.csv")
+majorGrouped <- read.csv("/home/RHHLab/Research/Others/BayazidSir/MajorNutrientGroup.csv")
+nutrientGrouped <- read.csv("/home/RHHLab/Research/Others/BayazidSir/NutrientContentGroup.csv")
+percentGrouped <- read.csv("/home/RHHLab/Research/Others/BayazidSir/PercentContentGroup.csv")
+
 percentdf <- read.csv("/home/RHHLab/Research/Others/BayazidSir/PercentContent.csv")
 nutrientdf <- read.csv("/home/RHHLab/Research/Others/BayazidSir/NutrientContent.csv")
 majordf <- read.csv("/home/RHHLab/Research/Others/BayazidSir/MajorNutrient.csv")
@@ -37,27 +42,42 @@ ggplot(plantdf, aes(1, Height, fill = Treatment, color = Treatment)) +
 ```
 
 ```{r}
+plantGrouped
+```
+
+```{r}
+ggplot(plantGrouped, aes(1, Values, fill = Treatment, color = Param)) +
+  geom_rain(alpha = .6,
+            boxplot.args = list(color = "black", outlier.shape = NA)) +
+  theme_classic() +
+  scale_fill_brewer(palette = 'Dark2') +
+  scale_color_brewer(palette = 'Dark2')
+```
+
+```{r}
+majorGrouped
+```
+
+```{r}
+ggplot(majorGrouped, aes(x = majorGrouped$Treatment..t.ha., y = majorGrouped$N.content..mg.pot., fill = majorGrouped$Element)) +
+  geom_col(position = "dodge") +
+  coord_polar() + 
+  ylim(-17, 17) + 
+  scale_fill_viridis_d()+
+  scale_y_continuous(
+    limits = c(-10, 50),
+    expand = c(0, 0),
+    breaks = c(0, 0, 10, 20, 30, 40, 50))
 
 ```
 
 ```{r}
+ggplot(plantGrouped, aes(fill=Param, y=Values, x=Treatment)) + geom_bar(position="dodge", stat="identity")
 
 ```
 
 ```{r}
-
-```
-
-```{r}
-
-```
-
-```{r}
-
-```
-
-```{r}
-
+plantGrouped
 ```
 
 ```{r}
