@@ -46,7 +46,7 @@ plantGrouped
 ```
 
 ```{r}
-ggplot(plantGrouped, aes(1, Values, fill = Treatment, color = Param)) +
+ggplot(plantGrouped, aes(1, Values, fill = Treatment, color = Ele)) +
   geom_rain(alpha = .6,
             boxplot.args = list(color = "black", outlier.shape = NA)) +
   theme_classic() +
@@ -59,16 +59,26 @@ majorGrouped
 ```
 
 ```{r}
-ggplot(majorGrouped, aes(x = majorGrouped$Treatment..t.ha., y = majorGrouped$N.content..mg.pot., fill = majorGrouped$Element)) +
-  geom_col(position = "dodge") +
-  coord_polar() + 
-  ylim(-17, 17) + 
-  scale_fill_viridis_d()+
-  scale_y_continuous(
-    limits = c(-10, 50),
-    expand = c(0, 0),
-    breaks = c(0, 0, 10, 20, 30, 40, 50))
-
+p <- ggplot(majorGrouped, aes(x=as.factor(majorGrouped$Treatment), y=majorGrouped$Values)) +       # Note that id is a factor. If x is numeric, there is some space between the first bar
+  
+  # This add the bars with a blue color
+  geom_bar(stat="identity", fill=alpha("blue", 0.3)) +
+  
+  # Limits of the plot = very important. The negative value controls the size of the inner circle, the positive one is useful to add size over each bar
+  ylim(-100,120) +
+  
+  # Custom the theme: no axis title and no cartesian grid
+  theme_minimal() +
+  theme(
+    axis.text = element_blank(),
+    axis.title = element_blank(),
+    panel.grid = element_blank(),
+    plot.margin = unit(rep(-2,4), "cm")     # This remove unnecessary margin around plot
+  ) +
+  
+  # This makes the coordinate polar instead of cartesian.
+  coord_polar(start = 0)
+p
 ```
 
 ```{r}
@@ -85,6 +95,47 @@ plantGrouped
 ```
 
 ```{r}
+ggparcoord(majordf,
+    columns = 2:7, groupColumn = 1
+    ) 
+
+```
+
+```{r}
+ggparcoord(majordf,
+    columns = 2:7, groupColumn = 1,
+    scale = "globalminmax",
+    showPoints = TRUE, 
+    alphaLines = 0.3
+    ) + 
+  scale_color_viridis(discrete=TRUE) +
+  theme(
+    plot.title = element_text(size=10)
+  )
+```
+
+```{r}
+ggparcoord(data,
+    columns = 2:7, groupColumn = 5, order = "anyClass",
+    scale="globalminmax",
+    showPoints = TRUE, 
+    title = "No scaling",
+    alphaLines = 0.3
+    ) + 
+  scale_color_viridis(discrete=TRUE) +
+  theme_ipsum()+
+  theme(
+    legend.position="none",
+    plot.title = element_text(size=13)
+  ) +
+  xlab("")
+```
+
+```{r}
+
+```
+
+```{r}
 
 ```
 
@@ -94,6 +145,17 @@ plantGrouped
 
 ```{r}
 
+```
+
+```{r}
+#library(hrbrthemes)
+library(GGally)
+library(viridis)
+
+```
+
+```{r}
+install.packages("hrbrthemes")
 ```
 
 ```{r}
