@@ -1,7 +1,4 @@
-Location,"Bulk Density (g/cm3)
-",Sand %,Silt %,Clay %,Moisture %,pH,EC (dS/m),Organic Carbon %,"Nitrogen
-%",CEC meq/100g
-Karamjol1,1.59,5.97,50.81,43.21,33.95,8.28,3.44,0.95,0.1,29.96
+Location,Bulk Density,Sand,Silt,Clay,Moisture,pH,EC,Organic Carbon,Nitrogen,CEC
 Karamjol2,1.52,4.96,52.95,42.07,38.49,8.48,3.12,0.74,0.09,28.3
 Karamjol3,1.39,3.95,55.06,40.98,36.36,8.51,2.7,0.52,0.09,28.11
 Karamjol4,1.39,5.77,52.83,41.39,39.76,8.5,2.98,0.46,0.08,29.73

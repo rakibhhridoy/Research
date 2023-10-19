@@ -36,6 +36,26 @@ corrplot.mixed(corr_metals, lower = 'shade', upper = 'pie',
 ```
 
 ```{r}
+dfraw <- read.csv("~/Research/Sundarban_Coastal/data/Sundarban.csv")
+df <- read.csv("~/Research/Sundarban_Coastal/data/SundarbanVal.csv")
+```
+
+```{r}
+df
+```
+
+```{r}
+val <- df[, -1]
+val
+```
+
+```{r}
+corr_metals <- cor(val)
+corrplot.mixed(corr_metals, lower = 'shade', upper = 'pie', 
+               tl.pos = "lt", tl.col = "black", tl.cex = 1.8)
+```
+
+```{r}
 kj <- read.csv("/home/RHHLab/Research/Sundarban_Coastal/data/KaramjalCorr.csv")
 hb <- read.csv("/home/RHHLab/Research/Sundarban_Coastal/data/HarbariaCorr.csv")
 hn <- read.csv("/home/RHHLab/Research/Sundarban_Coastal/data/HironCorr.csv")
