@@ -45,7 +45,7 @@ df
 ```
 
 ```{r}
-val <- df[, -1]
+val <- df
 val
 ```
 

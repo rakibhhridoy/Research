@@ -1,0 +1,451 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+sdf <- read.csv("/home/RHHLab/Research/Sundarban_Coastal/data/CarbonStockBar.csv")
+```
+
+```{r}
+sdf
+```
+
+```{r}
+require(ggplot2)
+```
+
+```{r}
+par(mar=c(6,4,4,4))
+
+
+# Basic Barplot
+my_bar <- barplot(sdf$BulkDensity, border=F , names.arg=sdf$Location , 
+                  las=2 , 
+                  col=c(rgb(0.3,0.1,0.4,0.6) , rgb(0.3,0.5,0.4,0.6) , rgb(0.3,0.9,0.4,0.6) ,  rgb(0.3,0.9,0.4,0.6)) , 
+                  ylim=c(0,2) , 
+                  main="" )
+
+# Add abline
+abline(v=c(4.9 , 9.7) , col="grey")
+ 
+```
+
+```{r}
+se=sd(sdf$BulkDensity)/sqrt(length(sdf$BulkDensity))
+mean = mean(sdf$BulkDensity)
+
+ggplot(sdf, aes(fill=Depth, y=BulkDensity, x=Location)) + 
+    geom_bar(position="stack", stat="identity") +
+    geom_errorbar(aes(x=Location,ymin=mean-se,ymax=mean+se),width=0.4,
+                colour="orange",alpha=0.9,size=1.5)+
+    ggtitle("Studying 4 species..") +
+    xlab("")
+```
+
+```{r}
+ggplot(sdf) +
+  geom_bar(aes(x=Location, y=sdf$BulkDensity, fill = Depth), stat="identity", fill="skyblue", alpha=0.5) +
+  geom_pointrange( aes(x=Location, y=sdf$BulkDensity, ymin=Bulk ymax=value+sd), colour="orange", alpha=0.9, size=1.3)
+
+```
+
+```{r}
+sd = sd(sdf$BulkDensity)
+ggplot(sdf) +
+  geom_bar(aes(x=Location, y=BulkDensity, fill = Depth), stat="identity", fill="skyblue", alpha=0.5) +
+  geom_pointrange( aes(x=Location, y=BulkDensity, ymin=BulkDensity-sd, ymax=BulkDensity+sd), colour="orange", alpha=0.9, size=1.3)
+
+```
+
+```{r}
+ggplot(sdf, aes(fill=Depth, y=BulkDensity, x=Location)) + 
+    geom_bar(position="dodge", stat="identity")
+```
+
+```{r}
+library(ggplot2)
+library(viridis)
+library(theme_ipsum)
+library(hrbrthemes)
+```
+
+```{r}
+install.packages("theme_ipsum")
+```
+
+```{r}
+require("hrbrthemes")
+```
+
+```{r}
+ggplot(sdf, aes(fill=Depth, y=BulkDensity, x=Location)) + 
+    geom_bar(position="dodge", stat="identity") +
+    scale_fill_viridis(discrete = T) +
+    ggtitle("Studying 4 species..")+
+    xlab("")
+```
+
+```{r}
+ggplot(sdf, aes(fill=Depth, y=BulkDensity, x=Location)) + 
+    geom_bar(position="dodge", stat="identity") +
+    scale_fill_viridis(discrete = T) +
+    ggtitle("Studying 4 species..")+
+    xlab("") +
+    geom_pointrange( aes(x=Location, y=BulkDensity, ymin=BulkDensity-sd, ymax=BulkDensity+sd), colour="orange", alpha=0.9, size=1.3)
+
+```
+
+```{r}
+ggplot(sdf, aes(fill=Depth, y=BulkDensity, x=Location)) + 
+    geom_bar(position="dodge", stat="identity") +
+    scale_fill_viridis(discrete = T) +
+    ggtitle("Studying 4 species..")+
+    xlab("") +
+    geom_errorbar(aes(ymin=sdf$BulkDensity-sd, ymax=sdf$BulkDenstiy+sd), width=.2,
+                 position=position_dodge(.9))
+```
+
+```{r}
+ggplot(sdf, aes(x=Location, y=BulkDensity, fill=Depth)) + 
+  geom_bar(stat="identity", color="black", position=position_dodge(), width = .9) +
+  geom_errorbar(aes(ymin=sdf$BulkDensity, ymax=sdf$BulkDensity+sd), width=.2,
+                 position=position_dodge(.9)) +
+  scale_fill_viridis(discrete = T) +
+  xlab("")+
+  geom_col(width = .5, position = position_dodge(1.5))
+```
+
+```{r}
+ggplot(sdf, aes(x=Location, y=BulkDensity, fill=Depth)) + 
+  geom_bar(stat="identity", color="black", position=position_dodge(), width = .9) +
+  geom_errorbar(aes(ymin=sdf$BulkDensity, ymax=sdf$BulkDensity+sd), width=.2,
+                 position=position_dodge(.9)) +
+  scale_fill_viridis(discrete = T) +
+  xlab("")+
+  ylab("SBD (g cm-3)")+
+  ylim(0, 2)+
+  theme_classic()
+```
+
+```{r}
+ggplot(sdf, aes(x=Location, y=BulkDensity, fill=Depth)) + 
+  geom_bar(stat="identity", color="black", position=position_dodge(), width = .9) +
+  geom_errorbar(aes(ymin=sdf$BulkDensity, ymax=sdf$BulkDensity+sd), width=.2,
+                 position=position_dodge(.9)) +
+  scale_fill_viridis(discrete = T) +
+  xlab("")+
+  ylab("SBD (g cm-3)")+
+  ylim(0, 2)+
+  theme_classic()+
+  theme(legend.position = "bottom")
+```
+
+```{r}
+ggplot(sdf, aes(x=Location, y=BulkDensity, fill=Depth)) + 
+  geom_bar(stat="identity", color="black", position=position_dodge(), width = .9) +
+  geom_errorbar(aes(ymin=sdf$BulkDensity, ymax=sdf$BulkDensity+sd), width=.2,
+                 position=position_dodge(.9)) +
+  scale_fill_viridis(discrete = T) +
+  xlab("")+
+  ylab("SBD (g cm-3)")+
+  ylim(0, 2)+
+  theme_classic()+
+  theme(legend.position = "bottom",legend.box.background = element_rect(color="black", size=0.4),
+    legend.box.margin = margin(1,1,1,1))
+```
+
+```{r}
+
+ggplot(sdf, aes(x=Location, y=BulkDensity, fill=Depth)) + 
+  geom_bar(stat="identity", color="black", position=position_dodge(), width = .9) +
+  geom_errorbar(aes(ymin=sdf$BulkDensity, ymax=sdf$BulkDensity+sd), width=.2,
+                 position=position_dodge(.9)) +
+  scale_fill_viridis(discrete = T) +
+  xlab("")+
+  ylab("SBD (g cm-3)")+
+  ylim(0, 2)+
+  theme_classic()+
+  theme(legend.position = "bottom",legend.title = element_text(face = "bold"))
+```
+
+```{r}
+sd <- sd(sdf$BulkDensity)
+ggplot(sdf, aes(x=Location, y=BulkDensity, fill=Depth)) + 
+  geom_bar(stat="identity", color="black", position=position_dodge(), width = .9) +
+  geom_errorbar(aes(ymin=sdf$BulkDensity, ymax=sdf$BulkDensity+sd), width=.3,
+                 position=position_dodge(.9)) +
+  scale_fill_viridis(discrete = T) +
+  xlab("")+
+  ylab("SBD (g cm-3)")+
+  ylim(0, 2)+
+  theme_classic()+
+  theme(legend.position = "bottom",legend.box.background = element_rect(color="black", size=0.4),
+    legend.box.margin = margin(1,1,1,1), axis.text.x = element_text(face="bold", size = 13),axis.text.y = element_text(face="bold", size = 10))
+```
+
+```{r}
+sdf
+```
+
+```{r}
+sd <- sd(sdf$OrganicCarbon)
+ggplot(sdf, aes(x=Location, y=OrganicCarbon, fill=Depth)) + 
+  geom_bar(stat="identity", color="black", position=position_dodge(), width = .9) +
+  geom_errorbar(aes(ymin=sdf$OrganicCarbon, ymax=sdf$OrganicCarbon+sd), width=.3,
+                 position=position_dodge(.9)) +
+  scale_fill_viridis(discrete = T) +
+  xlab("")+
+  ylab("SOCC (%)")+
+  ylim(0, 14)+
+  theme_classic()+
+  theme(legend.position = "bottom",legend.box.background = element_rect(color="black", size=0.4),
+    legend.box.margin = margin(1,1,1,1), axis.text.x = element_text(face="bold", size = 13),axis.text.y = element_text(face="bold", size = 10))
+
+```
+
+```{r}
+sd <- sd(sdf$SOCD)
+ggplot(sdf, aes(x=Location, y=SOCD, fill=Depth)) + 
+  geom_bar(stat="identity", color="black", position=position_dodge(), width = .9) +
+  geom_errorbar(aes(ymin=sdf$SOCD, ymax=sdf$SOCD+sd), width=.3,
+                 position=position_dodge(.9)) +
+  scale_fill_viridis(discrete = T) +
+  xlab("")+
+  ylab("SOCD (g C cm-3)")+
+  ylim(0, 0.2)+
+  theme_classic()+
+  theme(legend.position = "bottom",legend.box.background = element_rect(color="black", size=0.4),
+    legend.box.margin = margin(1,1,1,1), axis.text.x = element_text(face="bold", size = 13),axis.text.y = element_text(face="bold", size = 10))
+
+```
+
+```{r}
+sd <- sd(sdf$SOC)
+ggplot(sdf, aes(x=Location, y=SOC, fill=Depth)) + 
+  geom_bar(stat="identity", color="black", position=position_dodge(), width = .9) +
+  geom_errorbar(aes(ymin=sdf$SOC, ymax=sdf$SOC+sd), width=.3,
+                 position=position_dodge(.9)) +
+  scale_fill_viridis(discrete = T) +
+  xlab("")+
+  ylab("SOC (Mg C ha-1)")+
+  ylim(0, 400)+
+  theme_classic()+
+  theme(legend.position = "bottom",legend.box.background = element_rect(color="black", size=0.4),
+    legend.box.margin = margin(1,1,1,1), axis.text.x = element_text(face="bold", size = 13),axis.text.y = element_text(face="bold", size = 10))
+
+```
+
+```{r}
+library("gridExtra")
+```
+
+```{r}
+sdb <- sd(sdf$BulkDensity)
+sdsocc <- sd(sdf$OrganicCarbon)
+sdsocd <- sd(sdf$SOCD)
+sdsoc <- sd(sdf$SOC)
+
+a <- ggplot(sdf, aes(x=Location, y=BulkDensity, fill=Depth)) + 
+  geom_bar(stat="identity", color="black", position=position_dodge(), width = .9) +
+  geom_errorbar(aes(ymin=sdf$BulkDensity, ymax=sdf$BulkDensity+sdb), width=.3,
+                 position=position_dodge(.9)) +
+  scale_fill_viridis(discrete = T) +
+  xlab("")+
+  ylab("SBD (g cm-3)")+
+  ylim(0, 2)+
+  theme_classic()+
+  theme(legend.position = "bottom",legend.box.background = element_rect(color="black", size=0.4),
+    legend.box.margin = margin(1,1,1,1), axis.text.x = element_text(face="bold", size = 13),axis.text.y = element_text(face="bold", size = 10))
+
+b <- ggplot(sdf, aes(x=Location, y=OrganicCarbon, fill=Depth)) + 
+  geom_bar(stat="identity", color="black", position=position_dodge(), width = .9) +
+  geom_errorbar(aes(ymin=sdf$OrganicCarbon, ymax=sdf$OrganicCarbon+sdsocc), width=.3,
+                 position=position_dodge(.9)) +
+  scale_fill_viridis(discrete = T) +
+  xlab("")+
+  ylab("SOCC (%)")+
+  ylim(0, 14)+
+  theme_classic()+
+  theme(legend.position = "bottom",legend.box.background = element_rect(color="black", size=0.4),
+    legend.box.margin = margin(1,1,1,1), axis.text.x = element_text(face="bold", size = 13),axis.text.y = element_text(face="bold", size = 10))
+
+c <- ggplot(sdf, aes(x=Location, y=SOCD, fill=Depth)) + 
+  geom_bar(stat="identity", color="black", position=position_dodge(), width = .9) +
+  geom_errorbar(aes(ymin=sdf$SOCD, ymax=sdf$SOCD+sdsocd), width=.3,
+                 position=position_dodge(.9)) +
+  scale_fill_viridis(discrete = T) +
+  xlab("")+
+  ylab("SOCD (g C cm-3)")+
+  ylim(0, 0.2)+
+  theme_classic()+
+  theme(legend.position = "bottom",legend.box.background = element_rect(color="black", size=0.4),
+    legend.box.margin = margin(1,1,1,1), axis.text.x = element_text(face="bold", size = 13),axis.text.y = element_text(face="bold", size = 10))
+
+d <- ggplot(sdf, aes(x=Location, y=SOC, fill=Depth)) + 
+  geom_bar(stat="identity", color="black", position=position_dodge(), width = .9) +
+  geom_errorbar(aes(ymin=sdf$SOC, ymax=sdf$SOC+sdsoc), width=.3,
+                 position=position_dodge(.9)) +
+  scale_fill_viridis(discrete = T) +
+  xlab("")+
+  ylab("SOC (Mg C ha-1)")+
+  ylim(0, 400)+
+  theme_classic()+
+  theme(legend.position = "bottom",legend.box.background = element_rect(color="black", size=0.4),
+    legend.box.margin = margin(1,1,1,1), axis.text.x = element_text(face="bold", size = 13),axis.text.y = element_text(face="bold", size = 10))
+
+
+grid.arrange(a,b,c,d,ncol= 2)
+```
+
+```{r}
+a <- ggplot(sdf, aes(x=Location, y=SOC, fill=Depth)) + 
+  geom_bar(stat="identity", color="black", position=position_dodge(), width = .9) +
+  geom_errorbar(aes(ymin=sdf$SOC, ymax=sdf$SOC+sd), width=.3,
+                 position=position_dodge(.9)) +
+  scale_fill_viridis(discrete = T) +
+  xlab("")+
+  ylab("SOC (Mg C ha-1)")+
+  ylim(0, 400)+
+  theme_classic()+
+  theme(legend.position = "bottom",legend.box.background = element_rect(color="black", size=0.4),
+    legend.box.margin = margin(1,1,1,1), axis.text.x = element_text(face="bold", size = 13),axis.text.y = element_text(face="bold", size = 10))
+
+b <- ggplot(sdf, aes(x=Location, y=SOC, fill=Depth)) + 
+  geom_bar(stat="identity", color="black", position=position_dodge(), width = .9) +
+  geom_errorbar(aes(ymin=sdf$SOC, ymax=sdf$SOC+sd), width=.3,
+                 position=position_dodge(.9)) +
+  scale_fill_viridis(discrete = T) +
+  xlab("")+
+  ylab("SOC (Mg C ha-1)")+
+  ylim(0, 400)+
+  theme_classic()+
+  theme(legend.position = "bottom",legend.box.background = element_rect(color="black", size=0.4),
+    legend.box.margin = margin(1,1,1,1), axis.text.x = element_text(face="bold", size = 13),axis.text.y = element_text(face="bold", size = 10))
+
+c <- ggplot(sdf, aes(x=Location, y=SOC, fill=Depth)) + 
+  geom_bar(stat="identity", color="black", position=position_dodge(), width = .9) +
+  geom_errorbar(aes(ymin=sdf$SOC, ymax=sdf$SOC+sd), width=.3,
+                 position=position_dodge(.9)) +
+  scale_fill_viridis(discrete = T) +
+  xlab("")+
+  ylab("SOC (Mg C ha-1)")+
+  ylim(0, 400)+
+  theme_classic()+
+  theme(legend.position = "bottom",legend.box.background = element_rect(color="black", size=0.4),
+    legend.box.margin = margin(1,1,1,1), axis.text.x = element_text(face="bold", size = 13),axis.text.y = element_text(face="bold", size = 10))
+
+d <- ggplot(sdf, aes(x=Location, y=SOC, fill=Depth)) + 
+  geom_bar(stat="identity", color="black", position=position_dodge(), width = .9) +
+  geom_errorbar(aes(ymin=sdf$SOC, ymax=sdf$SOC+sd), width=.3,
+                 position=position_dodge(.9)) +
+  scale_fill_viridis(discrete = T) +
+  xlab("")+
+  ylab("SOC (Mg C ha-1)")+
+  ylim(0, 400)+
+  theme_classic()+
+  theme(legend.position = "bottom",legend.box.background = element_rect(color="black", size=0.4),
+    legend.box.margin = margin(1,1,1,1), axis.text.x = element_text(face="bold", size = 13),axis.text.y = element_text(face="bold", size = 10))
+
+
+grid.arrange(a,b,c,d,ncol= 2)
+```
+
+```{r}
+par(mfrow=c(2,2))
+
+ggplot(sdf, aes(x=Location, y=SOC, fill=Depth)) + 
+  geom_bar(stat="identity", color="black", position=position_dodge(), width = .9) +
+  geom_errorbar(aes(ymin=sdf$SOC, ymax=sdf$SOC+sd), width=.3,
+                 position=position_dodge(.9)) +
+  scale_fill_viridis(discrete = T) +
+  xlab("")+
+  ylab("SOC (Mg C ha-1)")+
+  ylim(0, 400)+
+  theme_classic()+
+  theme(legend.position = "bottom",legend.box.background = element_rect(color="black", size=0.4),
+    legend.box.margin = margin(1,1,1,1), axis.text.x = element_text(face="bold", size = 13),axis.text.y = element_text(face="bold", size = 10))
+
+ggplot(sdf, aes(x=Location, y=SOC, fill=Depth)) + 
+  geom_bar(stat="identity", color="black", position=position_dodge(), width = .9) +
+  geom_errorbar(aes(ymin=sdf$SOC, ymax=sdf$SOC+sd), width=.3,
+                 position=position_dodge(.9)) +
+  scale_fill_viridis(discrete = T) +
+  xlab("")+
+  ylab("SOC (Mg C ha-1)")+
+  ylim(0, 400)+
+  theme_classic()+
+  theme(legend.position = "bottom",legend.box.background = element_rect(color="black", size=0.4),
+    legend.box.margin = margin(1,1,1,1), axis.text.x = element_text(face="bold", size = 13),axis.text.y = element_text(face="bold", size = 10))
+
+ggplot(sdf, aes(x=Location, y=SOC, fill=Depth)) + 
+  geom_bar(stat="identity", color="black", position=position_dodge(), width = .9) +
+  geom_errorbar(aes(ymin=sdf$SOC, ymax=sdf$SOC+sd), width=.3,
+                 position=position_dodge(.9)) +
+  scale_fill_viridis(discrete = T) +
+  xlab("")+
+  ylab("SOC (Mg C ha-1)")+
+  ylim(0, 400)+
+  theme_classic()+
+  theme(legend.position = "bottom",legend.box.background = element_rect(color="black", size=0.4),
+    legend.box.margin = margin(1,1,1,1), axis.text.x = element_text(face="bold", size = 13),axis.text.y = element_text(face="bold", size = 10))
+
+ggplot(sdf, aes(x=Location, y=SOC, fill=Depth)) + 
+  geom_bar(stat="identity", color="black", position=position_dodge(), width = .9) +
+  geom_errorbar(aes(ymin=sdf$SOC, ymax=sdf$SOC+sd), width=.3,
+                 position=position_dodge(.9)) +
+  scale_fill_viridis(discrete = T) +
+  xlab("")+
+  ylab("SOC (Mg C ha-1)")+
+  ylim(0, 400)+
+  theme_classic()+
+  theme(legend.position = "bottom",legend.box.background = element_rect(color="black", size=0.4),
+    legend.box.margin = margin(1,1,1,1), axis.text.x = element_text(face="bold", size = 13),axis.text.y = element_text(face="bold", size = 10))
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
