@@ -70,8 +70,6 @@ ggplot(sdf, aes(fill=Depth, y=BulkDensity, x=Location)) +
 ```{r}
 library(ggplot2)
 library(viridis)
-library(theme_ipsum)
-library(hrbrthemes)
 ```
 
 ```{r}
