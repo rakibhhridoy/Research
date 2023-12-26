@@ -1,5 +1,15 @@
 #!/usr/bin/python3
 
+import numpy as np
+import pandas as pd
+from tensorflow.keras.losses import MeanSquaredError
+from tensorflow.keras.optimizers import Adam
+from tensorflow.keras.metrics import RootMeanSquaredError
+from tensorflow.keras.models import load_model
+import matplotlib.pyplot as plt
+from sklearn.metrics import mean_squared_error as mse
+
+
 def df_to_X_y(df, window_size=5):
   df_as_np = df.to_numpy()
   X = []
@@ -18,34 +28,42 @@ def load_data(file):
     df = df.set_index("Date")
     return df
 
-def plot_val(model,Nsample):
-    val_predictions = model.predict(x_val).flatten()
-    val_results = pd.DataFrame(data={'Val Predictions':val_predictions, 'Actuals':y_val})
-    plt.plot(val_results['Val Predictions'][:Nsample])
-    plt.plot(val_results['Actuals'][:Nsample])
-    
-def plot_test(model, Nsample):
-    test_predictions = model.predict(x_test).flatten()
-    test_results = pd.DataFrame(data={'Test Predictions':test_predictions, 'Actuals':y_test})
-    plt.plot(test_results['Test Predictions'][:Nsample])
-    plt.plot(test_results['Actuals'][:Nsample])
-    
-def plot_predictions1(model, X, y, start=0, end=100):
-  predictions = model.predict(X).flatten()
-  df = pd.DataFrame(data={'Predictions':predictions, 'Actuals':y})
-  plt.plot(df['Predictions'][start:end])
-  plt.plot(df['Actuals'][start:end])
-  return df, mse(y, predictions)
-
-def fit_model(model, cp, epochs):
+def fit_model(model, cp, epochs, xt, yt, xv, yv):
     model.compile(loss=MeanSquaredError(), optimizer=Adam(learning_rate=0.0001), metrics=[RootMeanSquaredError()])
-    model.fit(x_train, y_train, validation_data=(x_val, y_val), epochs=epochs, callbacks=[cp])
+    model.fit(xt, yt, validation_data=(xv, yv), epochs=epochs, callbacks=[cp])
     return model
 
+def plot_val(model,Nsample, xv, yv):
+    val_predictions = model.predict(xv).flatten()
+    val_results = pd.DataFrame(data={'Val Predictions':val_predictions, 'Actuals':yv})
+    plt.plot(val_results['Val Predictions'][:Nsample])
+    plt.plot(val_results['Actuals'][:Nsample])
+    plt.title("Validation")
+    plt.show()
+    
+def plot_test(model, Nsample, xtt, ytt):
+    test_predictions = model.predict(xtt).flatten()
+    test_results = pd.DataFrame(data={'Test Predictions':test_predictions, 'Actuals':ytt})
+    plt.plot(test_results['Test Predictions'][:Nsample])
+    plt.plot(test_results['Actuals'][:Nsample])
+    plt.title("Test")
+    plt.show()
+    
+def plot_predictions1(model, X, y, start=0, end=100):
+    predictions = model.predict(X).flatten()
+    df = pd.DataFrame(data={'Predictions':predictions, 'Actuals':y})
+    plt.plot(df['Predictions'][start:end])
+    plt.plot(df['Actuals'][start:end])
+    plt.title("Predictions")
+    plt.show()
+    return df, mse(y, predictions)
 
-def plot_train(modelname, Nsample):
+
+def plot_train(modelname, Nsample, xt, yt):
     model = load_model(modelname)
-    train_predictions = model.predict(x_train).flatten()
-    train_results = pd.DataFrame(data={'Train Predictions': train_predictions, 'Actuals':y_train})
+    train_predictions = model.predict(xt).flatten()
+    train_results = pd.DataFrame(data={'Train Predictions': train_predictions, 'Actuals':yt})
     plt.plot(train_results['Train Predictions'][:Nsample])
     plt.plot(train_results['Actuals'][:Nsample])
+    plt.title("Train")
+    plt.show()

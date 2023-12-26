@@ -32,18 +32,15 @@ x_train, x_val, y_train, y_val = train_test_split(x_train, y_train, test_size=0.
 
 model = Sequential()
 model.add(InputLayer((3, 1)))
-model.add(Conv1D(64, kernel_size=2))
-model.add(Flatten())
+model.add(LSTM(64))
 model.add(Dense(8, 'relu'))
 model.add(Dense(1, 'linear'))
 
-
-
-cp = ModelCheckpoint('cnn/', save_best_only=True)
-
+cp = ModelCheckpoint('lstm/', save_best_only=True)
 model = fit_model(model, cp, 10, x_train, y_train, x_val, y_val)
 
-plot_train("cnn", 50, x_train, y_train)
+
+plot_train("lstm", 50, x_train, y_train)
 plot_val(model, 50, x_val, y_val)
 plot_test(model, 50, x_test, y_test)
 plot_predictions1(model,x_test, y_test)
