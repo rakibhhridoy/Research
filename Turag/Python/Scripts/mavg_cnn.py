@@ -18,9 +18,8 @@ from sklearn.metrics import mean_squared_error as mse
 from functions_learning import *
 from feed_data import data_extract
 
+
 x_train, x_test, y_train, y_test, x_val, y_val = data_extract()
-
-
 window_size = 3
 
 def moving_average(data, window_size):
