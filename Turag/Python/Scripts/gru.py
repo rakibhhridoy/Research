@@ -19,19 +19,9 @@ from sklearn.metrics import mean_squared_error as mse
 from functions_learning import *
 from tensorflow import keras
 from keras import layers
+from feed_data import data_extract
 
-
-locA = pd.read_csv("../data/LocationA.csv")
-locA = locA.set_index("Date")
-
-doA = locA["DOA"]
-WINDOW_SIZE = 3
-X1, y1 = df_to_X_y(doA, WINDOW_SIZE)
-
-x_train, x_test, y_train, y_test = train_test_split(X1, y1, test_size=0.2, random_state=1)
-
-x_train, x_val, y_train, y_val = train_test_split(x_train, y_train, test_size=0.2, random_state=1)
-
+x_train, x_test, y_train, y_test, x_val, y_val = data_extract()
 
 
 model = keras.Sequential([

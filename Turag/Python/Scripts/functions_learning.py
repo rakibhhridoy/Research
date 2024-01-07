@@ -50,8 +50,9 @@ def plot_test(model, Nsample, xtt, ytt):
     plt.show()
     
 def plot_predictions1(model, X, y, start=0, end=100):
+    mse_val = mse(y, predictions)
     predictions = model.predict(X).flatten()
-    df = pd.DataFrame(data={'Predictions':predictions, 'Actuals':y})
+    prediction_data = pd.DataFrame(data={'Predictions':predictions, 'Actuals':y})
     plt.plot(df['Predictions'][start:end])
     plt.plot(df['Actuals'][start:end])
     plt.title("Predictions")
