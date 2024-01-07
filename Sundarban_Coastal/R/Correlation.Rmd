@@ -104,6 +104,49 @@ corrplot(corr_metals, method = "color", outline = T, addgrid.col = "darkgray",
          number.cex = 1.5, col = colorRampPalette(c("darkred","white","midnightblue"))(100))
 
 ```
+```{r}
+df <- read.csv("/home/RHHLab/Research/Others/Aquatic Mangrove Sediment of Sundarbans.csv")
+df
+```
+
+```{r}
+df <- df[, -1]
+df
+```
+
+```{r}
+corr_metals <- cor(df)
+corrplot.mixed(corr_metals, lower = 'shade', upper = 'pie', 
+               tl.pos = "lt", tl.col = "black", tl.cex = 1.8)
+```
+```{r}
+require(factoextra)
+require(FactoMineR)
+require(psych)
+```
+
+```{r}
+pca.df <- PCA(data.frame(df), graph = FALSE, ncp = 3,scale.unit = TRUE)
+eig.val <- get_eigenvalue(pca.df)
+eig.val
+```
+```{r}
+pca.df$var$coord
+```
+
+```{r}
+rotate <- pca(df, nfactors = 3, rotate = "varimax")
+rotate
+```
+
+```{r}
+rotate$loadings
+```
+
+```{r}
+write.csv(pca.df$var$coord, "/home/RHHLab/Research/Others/pca.csv")
+write.csv(rotate$loadings, "/home/RHHLab/Research/Others/rotate_pca.csv")
+```
 
 Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
 
