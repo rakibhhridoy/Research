@@ -8,7 +8,7 @@ This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute
 Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
 
 ```{r}
-df <- read.csv("/home/RHHLab/Research/Buriganga/SeasonalMicrobio.csv")
+df <- read.csv("/home/RHHLab/Research/Buriganga/data/SeasonalMicrobio.csv")
 ```
 
 ```{r}
@@ -80,11 +80,11 @@ library(dplyr)
 ```
 
 ```{r}
-
+install.packages("ggplot2", dependencies=TRUE)
 ```
 
 ```{r}
-
+require(ggplot2)
 ```
 
 ```{r}
@@ -98,7 +98,7 @@ df %>% ggplot2(aes(x=Season,y=THB, fill = Season)) +
 ```
 
 ```{r}
-require(ggplot)
+
 ```
 
 ```{r}
