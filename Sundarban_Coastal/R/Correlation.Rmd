@@ -105,7 +105,7 @@ corrplot(corr_metals, method = "color", outline = T, addgrid.col = "darkgray",
 
 ```
 ```{r}
-df <- read.csv("/home/RHHLab/Research/Others/Aquatic Mangrove Sediment of Sundarbans.csv")
+df <- read.csv("/home/RHHLab/Research/SundarbanAquatic/data/Aquatic Mangrove Sediment of Sundarbans.csv")
 df
 ```
 
@@ -119,10 +119,18 @@ corr_metals <- cor(df)
 corrplot.mixed(corr_metals, lower = 'shade', upper = 'pie', 
                tl.pos = "lt", tl.col = "black", tl.cex = 1.8)
 ```
+
+```{r}
+write.csv(corr_metals, "/home/RHHLab/Research/SundarbanAquatic/data/CorrData.csv")
+```
+
 ```{r}
 require(factoextra)
 require(FactoMineR)
 require(psych)
+```
+```{r}
+
 ```
 
 ```{r}
