@@ -9,17 +9,16 @@ from tensorflow.keras.models import load_model
 import matplotlib.pyplot as plt
 from sklearn.metrics import mean_squared_error as mse
 
-
 def df_to_X_y(df, window_size=5):
-  df_as_np = df.to_numpy()
-  X = []
-  y = []
-  for i in range(len(df_as_np)-window_size):
-    row = [[a] for a in df_as_np[i:i+window_size]]
-    X.append(row)
-    label = df_as_np[i+window_size]
-    y.append(label)
-  return np.array(X), np.array(y)
+    df_as_np = df.to_numpy()
+    X = []
+    y = []
+    for i in range(len(df_as_np)-window_size):
+        row = [[a] for a in df_as_np[i:i+window_size]]
+        X.append(row)
+        label = df_as_np[i+window_size]
+        y.append(label)
+    return np.array(X), np.array(y)
 
 
 def load_data(file):
@@ -50,14 +49,13 @@ def plot_test(model, Nsample, xtt, ytt):
     plt.show()
     
 def plot_predictions1(model, X, y, start=0, end=100):
-    mse_val = mse(y, predictions)
-    predictions = model.predict(X).flatten()
-    prediction_data = pd.DataFrame(data={'Predictions':predictions, 'Actuals':y})
+    prediction = model.predict(X).flatten()
+    df = pd.DataFrame(data={'Predictions':prediction, 'Actuals':y})
     plt.plot(df['Predictions'][start:end])
     plt.plot(df['Actuals'][start:end])
     plt.title("Predictions")
     plt.show()
-    return df, mse(y, predictions)
+    return mse(y, prediction)
 
 
 def plot_train(modelname, Nsample, xt, yt):
