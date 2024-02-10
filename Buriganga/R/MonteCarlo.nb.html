@@ -546,16 +546,10 @@ childCR &lt;- read.csv(&quot;/home/RHHLab/Research/Buriganga/monteData/simul/crA
 <!-- rnb-text-begin -->
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuYWR1bHRISVxuYGBgIn0= -->
-<pre class="r"><code>adultHI</code></pre>
-<!-- rnb-source-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxubWVhbihhZHVsdEhJJFZhbHVlc1sxOjEwMDAwXSlcbmBgYCJ9 -->
-<pre class="r"><code>mean(adultHI$Values[1:10000])</code></pre>
-<!-- rnb-source-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <!-- rnb-text-end -->
@@ -732,278 +726,50 @@ ggdraw(aligned_plots[[1]]) + draw_plot(aligned_plots[[2]])</code></pre>
 <!-- rnb-text-begin -->
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxucGVySGlBIDwtIHJlYWQuY3N2KFwiL2hvbWUvUkhITGFiL1Jlc2VhcmNoL0J1cmlnYW5nYS9tb250ZURhdGEvc2ltdWwvcGVyY2VudF9IaUEuY3N2XCIpXG5wZXJIaUMgPC0gcmVhZC5jc3YoXCIvaG9tZS9SSEhMYWIvUmVzZWFyY2gvQnVyaWdhbmdhL21vbnRlRGF0YS9zaW11bC9wZXJjZW50X0hpQy5jc3ZcIilcbnBlcmNyQSA8LSByZWFkLmNzdihcIi9ob21lL1JISExhYi9SZXNlYXJjaC9CdXJpZ2FuZ2EvbW9udGVEYXRhL3NpbXVsL3BlcmNlbnRfY3JBLmNzdlwiKVxucGVyY3JDIDwtIHJlYWQuY3N2KFwiL2hvbWUvUkhITGFiL1Jlc2VhcmNoL0J1cmlnYW5nYS9tb250ZURhdGEvc2ltdWwvcGVyY2VudF9jckMuY3N2XCIpXG5gYGAifQ== -->
-<pre class="r"><code>perHiA &lt;- read.csv(&quot;/home/RHHLab/Research/Buriganga/monteData/simul/percent_HiA.csv&quot;)
-perHiC &lt;- read.csv(&quot;/home/RHHLab/Research/Buriganga/monteData/simul/percent_HiC.csv&quot;)
-percrA &lt;- read.csv(&quot;/home/RHHLab/Research/Buriganga/monteData/simul/percent_crA.csv&quot;)
-percrC &lt;- read.csv(&quot;/home/RHHLab/Research/Buriganga/monteData/simul/percent_crC.csv&quot;)</code></pre>
-<!-- rnb-source-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxucGVySGlBXG5gYGAifQ== -->
-<pre class="r"><code>perHiA</code></pre>
-<!-- rnb-source-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuZ2dwbG90KGRhdGE9cGVySGlBLFxuICAgICAgIGFlcyh4PXBlcmNlbnQsIHk9bWV0YWxzLFxuICAgICAgICAgICBmaWxsPVNlYXNvbnMpKStcbiAgZ2VvbV9iYXIoc3RhdD1cImlkZW50aXR5XCIsXG4gICAgICAgICAgIHBvc2l0aW9uPVwiZG9kZ2VcIikrXG4gIHNjYWxlX3lfZGlzY3JldGUobGltaXRzID0gYyhcIlBiXCIsIFwiSGdcIiwgXCJDZFwiLCBcIkFzXCIsIFwiWm5cIiwgXCJDdVwiLCBcIk5pXCIsIFwiTW5cIiwgXCJDclwiKSkrXG4gIHJlbW92ZUdyaWQoKStcbiAgdGhlbWVfY2xhc3NpYzIoKStcbiAgdGhlbWUoYXhpcy50ZXh0LnggPSBlbGVtZW50X3RleHQoZmFjZSA9IFwiYm9sZFwiLCBzaXplID0gMTUpLFxuICAgICAgYXhpcy50ZXh0LnkgPSBlbGVtZW50X3RleHQoZmFjZSA9IFwiYm9sZFwiLCBzaXplID0gMTUpLFxuICAgICAgdGV4dCA9IGVsZW1lbnRfdGV4dChzaXplID0gMjAsIGZhY2UgPSBcImJvbGRcIikpK1xuICB4bGltKDAsIDEwMCkrXG4gIGxhYnMoeD0gXCJQZXJjZW50XCIsIHkgPSBcIlwiLCB0aXRsZSA9IFwiKGEpIFNlbnNpdGl2aXR5IEhJIEFkdWx0XCIpK1xuICB0aGVtZShsZWdlbmQucG9zaXRpb24gPSBcIm5vbmVcIilcbmBgYCJ9 -->
-<pre class="r"><code>ggplot(data=perHiA,
-       aes(x=percent, y=metals,
-           fill=Seasons))+
-  geom_bar(stat=&quot;identity&quot;,
-           position=&quot;dodge&quot;)+
-  scale_y_discrete(limits = c(&quot;Pb&quot;, &quot;Hg&quot;, &quot;Cd&quot;, &quot;As&quot;, &quot;Zn&quot;, &quot;Cu&quot;, &quot;Ni&quot;, &quot;Mn&quot;, &quot;Cr&quot;))+
-  removeGrid()+
-  theme_classic2()+
-  theme(axis.text.x = element_text(face = &quot;bold&quot;, size = 15),
-      axis.text.y = element_text(face = &quot;bold&quot;, size = 15),
-      text = element_text(size = 20, face = &quot;bold&quot;))+
-  xlim(0, 100)+
-  labs(x= &quot;Percent&quot;, y = &quot;&quot;, title = &quot;(a) Sensitivity HI Adult&quot;)+
-  theme(legend.position = &quot;none&quot;)</code></pre>
-<!-- rnb-source-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuZ2dwbG90KGRhdGE9cGVySGlDLFxuICAgICAgIGFlcyh4PXBlcmNlbnQsIHk9bWV0YWxzLFxuICAgICAgICAgICBmaWxsPVNlYXNvbnMpKStcbiAgZ2VvbV9iYXIoc3RhdD1cImlkZW50aXR5XCIsXG4gICAgICAgICAgIHBvc2l0aW9uPVwiZG9kZ2VcIikrXG4gIHNjYWxlX3lfZGlzY3JldGUobGltaXRzID0gYyhcIlBiXCIsIFwiSGdcIiwgXCJDZFwiLCBcIkFzXCIsIFwiWm5cIiwgXCJDdVwiLCBcIk5pXCIsIFwiTW5cIiwgXCJDclwiKSkrXG4gIHJlbW92ZUdyaWQoKStcbiAgdGhlbWVfY2xhc3NpYzIoKStcbiAgdGhlbWUoYXhpcy50ZXh0LnggPSBlbGVtZW50X3RleHQoZmFjZSA9IFwiYm9sZFwiLCBzaXplID0gMTUpLFxuICAgICAgYXhpcy50ZXh0LnkgPSBlbGVtZW50X3RleHQoZmFjZSA9IFwiYm9sZFwiLCBzaXplID0gMTUpLFxuICAgICAgdGV4dCA9IGVsZW1lbnRfdGV4dChzaXplID0gMjAsIGZhY2UgPSBcImJvbGRcIikpK1xuICB4bGltKDAsIDEwMCkrXG4gIGxhYnMoeD0gXCJQZXJjZW50XCIsIHkgPSBcIlwiLCB0aXRsZSA9IFwiKGIpIFNlbnNpdGl2aXR5IEhJIENoaWxkXCIpXG5gYGAifQ== -->
-<pre class="r"><code>ggplot(data=perHiC,
-       aes(x=percent, y=metals,
-           fill=Seasons))+
-  geom_bar(stat=&quot;identity&quot;,
-           position=&quot;dodge&quot;)+
-  scale_y_discrete(limits = c(&quot;Pb&quot;, &quot;Hg&quot;, &quot;Cd&quot;, &quot;As&quot;, &quot;Zn&quot;, &quot;Cu&quot;, &quot;Ni&quot;, &quot;Mn&quot;, &quot;Cr&quot;))+
-  removeGrid()+
-  theme_classic2()+
-  theme(axis.text.x = element_text(face = &quot;bold&quot;, size = 15),
-      axis.text.y = element_text(face = &quot;bold&quot;, size = 15),
-      text = element_text(size = 20, face = &quot;bold&quot;))+
-  xlim(0, 100)+
-  labs(x= &quot;Percent&quot;, y = &quot;&quot;, title = &quot;(b) Sensitivity HI Child&quot;)</code></pre>
-<!-- rnb-source-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuZ2dwbG90KGRhdGE9cGVyY3JBLFxuICAgICAgIGFlcyh4PXBlcmNlbnQsIHk9bWV0YWxzLFxuICAgICAgICAgICBmaWxsPVNlYXNvbnMpKStcbiAgZ2VvbV9iYXIoc3RhdD1cImlkZW50aXR5XCIsXG4gICAgICAgICAgIHBvc2l0aW9uPVwiZG9kZ2VcIikrXG4gIHNjYWxlX3lfZGlzY3JldGUobGltaXRzID0gYyhcIlBiXCIsIFwiQ2RcIiwgXCJBc1wiLCBcIk5pXCIsIFwiQ3JcIikpK1xuICByZW1vdmVHcmlkKCkrXG4gIHRoZW1lX2NsYXNzaWMyKCkrXG4gIHRoZW1lKGF4aXMudGV4dC54ID0gZWxlbWVudF90ZXh0KGZhY2UgPSBcImJvbGRcIiwgc2l6ZSA9IDE1KSxcbiAgICAgIGF4aXMudGV4dC55ID0gZWxlbWVudF90ZXh0KGZhY2UgPSBcImJvbGRcIiwgc2l6ZSA9IDE1KSxcbiAgICAgIHRleHQgPSBlbGVtZW50X3RleHQoc2l6ZSA9IDIwLCBmYWNlID0gXCJib2xkXCIpKStcbiAgeGxpbSgwLCAxMDApK1xuICBsYWJzKHg9IFwiUGVyY2VudFwiLCB5ID0gXCJcIiwgdGl0bGUgPSBcIihjKSBTZW5zaXRpdml0eSBDUiBBZHVsdFwiKStcbiAgdGhlbWUobGVnZW5kLnBvc2l0aW9uID0gXCJub25lXCIpXG5gYGAifQ== -->
-<pre class="r"><code>ggplot(data=percrA,
-       aes(x=percent, y=metals,
-           fill=Seasons))+
-  geom_bar(stat=&quot;identity&quot;,
-           position=&quot;dodge&quot;)+
-  scale_y_discrete(limits = c(&quot;Pb&quot;, &quot;Cd&quot;, &quot;As&quot;, &quot;Ni&quot;, &quot;Cr&quot;))+
-  removeGrid()+
-  theme_classic2()+
-  theme(axis.text.x = element_text(face = &quot;bold&quot;, size = 15),
-      axis.text.y = element_text(face = &quot;bold&quot;, size = 15),
-      text = element_text(size = 20, face = &quot;bold&quot;))+
-  xlim(0, 100)+
-  labs(x= &quot;Percent&quot;, y = &quot;&quot;, title = &quot;(c) Sensitivity CR Adult&quot;)+
-  theme(legend.position = &quot;none&quot;)</code></pre>
-<!-- rnb-source-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuZ2dwbG90KGRhdGE9cGVyY3JDLFxuICAgICAgIGFlcyh4PXBlcmNlbnQsIHk9bWV0YWxzLFxuICAgICAgICAgICBmaWxsPVNlYXNvbnMpKStcbiAgZ2VvbV9iYXIoc3RhdD1cImlkZW50aXR5XCIsXG4gICAgICAgICAgIHBvc2l0aW9uPVwiZG9kZ2VcIikrXG4gIHNjYWxlX3lfZGlzY3JldGUobGltaXRzID0gYyhcIlBiXCIsIFwiQ2RcIiwgXCJBc1wiLCBcIk5pXCIsIFwiQ3JcIikpK1xuICByZW1vdmVHcmlkKCkrXG4gIHRoZW1lX2NsYXNzaWMyKCkrXG4gIHRoZW1lKGF4aXMudGV4dC54ID0gZWxlbWVudF90ZXh0KGZhY2UgPSBcImJvbGRcIiwgc2l6ZSA9IDE1KSxcbiAgICAgIGF4aXMudGV4dC55ID0gZWxlbWVudF90ZXh0KGZhY2UgPSBcImJvbGRcIiwgc2l6ZSA9IDE1KSxcbiAgICAgIHRleHQgPSBlbGVtZW50X3RleHQoc2l6ZSA9IDIwLCBmYWNlID0gXCJib2xkXCIpKStcbiAgeGxpbSgwLCAxMDApK1xuICBsYWJzKHg9IFwiUGVyY2VudFwiLCB5ID0gXCJcIiwgdGl0bGUgPSBcIihkKSBTZW5zaXRpdml0eSBDUiBDaGlsZFwiKVxuYGBgIn0= -->
-<pre class="r"><code>ggplot(data=percrC,
-       aes(x=percent, y=metals,
-           fill=Seasons))+
-  geom_bar(stat=&quot;identity&quot;,
-           position=&quot;dodge&quot;)+
-  scale_y_discrete(limits = c(&quot;Pb&quot;, &quot;Cd&quot;, &quot;As&quot;, &quot;Ni&quot;, &quot;Cr&quot;))+
-  removeGrid()+
-  theme_classic2()+
-  theme(axis.text.x = element_text(face = &quot;bold&quot;, size = 15),
-      axis.text.y = element_text(face = &quot;bold&quot;, size = 15),
-      text = element_text(size = 20, face = &quot;bold&quot;))+
-  xlim(0, 100)+
-  labs(x= &quot;Percent&quot;, y = &quot;&quot;, title = &quot;(d) Sensitivity CR Child&quot;)</code></pre>
-<!-- rnb-source-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxucGVyY3JBXG5gYGAifQ== -->
-<pre class="r"><code>percrA</code></pre>
-<!-- rnb-source-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuZ2dwbG90KGRhdGE9cGVySGlBLFxuICAgICAgIGFlcyh4PXBlcmNlbnQsIHk9bWV0YWxzLFxuICAgICAgICAgICBmaWxsPVNlYXNvbnMpKStcbiAgZ2VvbV9iYXIoc3RhdD1cImlkZW50aXR5XCIsXG4gICAgICAgICAgIHBvc2l0aW9uPVwiZG9kZ2VcIikrXG4gIHNjYWxlX3lfZGlzY3JldGUobGltaXRzID0gYyhcIlBiXCIsIFwiSGdcIiwgXCJDZFwiLCBcIkFzXCIsIFwiWm5cIiwgXCJDdVwiLCBcIk5pXCIsIFwiTW5cIiwgXCJDclwiKSkrXG4gIHJlbW92ZUdyaWQoKStcbiAgdGhlbWVfY2xhc3NpYzIoKStcbiAgdGhlbWUoYXhpcy50ZXh0LnggPSBlbGVtZW50X3RleHQoZmFjZSA9IFwiYm9sZFwiLCBzaXplID0gMTUpLFxuICAgICAgYXhpcy50ZXh0LnkgPSBlbGVtZW50X3RleHQoZmFjZSA9IFwiYm9sZFwiLCBzaXplID0gMTUpLFxuICAgICAgdGV4dCA9IGVsZW1lbnRfdGV4dChzaXplID0gMjAsIGZhY2UgPSBcImJvbGRcIikpK1xuICB4bGltKDAsIDEwMCkrXG4gIGxhYnMoeD0gXCJQZXJjZW50XCIsIHkgPSBcIlwiLCB0aXRsZSA9IFwiKGEpIFNlbnNpdGl2aXR5IEhJIEFkdWx0XCIpK1xuICB0aGVtZShsZWdlbmQucG9zaXRpb24gPSBcIm5vbmVcIikrXG4gIGFubm90YXRlKFwidGV4dFwiLCB4PSAxMSwgeSA9IDkuMiwgbGFiZWwgPSBwYXN0ZTAocm91bmQocGVySGlBJHBlcmNlbnRbMl0sMiksIFwiICVcIiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDkuMywgeSA9IDguNzcsIGxhYmVsID0gcGFzdGUwKHJvdW5kKHBlckhpQSRwZXJjZW50WzExXSwyKSwgXCIgJVwiKSwgc2l6ZSA9IDMpK1xuICBhbm5vdGF0ZShcInRleHRcIiwgeD0gNiwgeSA9IDguMiwgbGFiZWwgPSByb3VuZChwZXJIaUEkcGVyY2VudFsxXSwyKSwgc2l6ZSA9IDMpK1xuICBhbm5vdGF0ZShcInRleHRcIiwgeD0gNS40LCB5ID0gNy43LCBsYWJlbCA9IHJvdW5kKHBlckhpQSRwZXJjZW50WzEwXSwyKSwgc2l6ZSA9IDMpK1xuICBhbm5vdGF0ZShcInRleHRcIiwgeD0gNCwgeSA9IDcuMSwgbGFiZWwgPSByb3VuZChwZXJIaUEkcGVyY2VudFszXSwyKSwgc2l6ZSA9IDMpK1xuICBhbm5vdGF0ZShcInRleHRcIiwgeD0gNCwgeSA9IDYuNywgbGFiZWwgPSByb3VuZChwZXJIaUEkcGVyY2VudFsxMl0sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDQuMiwgeSA9IDYuMTUsIGxhYmVsID0gcm91bmQocGVySGlBJHBlcmNlbnRbNF0sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDQuMiwgeSA9IDUuOCwgbGFiZWwgPSByb3VuZChwZXJIaUEkcGVyY2VudFsxM10sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDMsIHkgPSA1LjIsIGxhYmVsID0gcm91bmQocGVySGlBJHBlcmNlbnRbNV0sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDMsIHkgPSA0LjgsIGxhYmVsID0gcm91bmQocGVySGlBJHBlcmNlbnRbMTRdLDIpLCBzaXplID0gMykrXG4gIGFubm90YXRlKFwidGV4dFwiLCB4PSAxNS41LCB5ID0gNC4zLCBsYWJlbCA9IHJvdW5kKHBlckhpQSRwZXJjZW50WzZdLDIpLCBzaXplID0gMykrXG4gIGFubm90YXRlKFwidGV4dFwiLCB4PSAxMy41LCB5ID0gMy43NSwgbGFiZWwgPSByb3VuZChwZXJIaUEkcGVyY2VudFsxNV0sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDU1LCB5ID0gMy4zLCBsYWJlbCA9IHJvdW5kKHBlckhpQSRwZXJjZW50WzddLDIpLCBzaXplID0gMykrXG4gIGFubm90YXRlKFwidGV4dFwiLCB4PSA1MCwgeSA9IDIuOCwgbGFiZWwgPSByb3VuZChwZXJIaUEkcGVyY2VudFsxNl0sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDIwLCB5ID0gMi4yNSwgbGFiZWwgPSByb3VuZChwZXJIaUEkcGVyY2VudFs4XSwyKSwgc2l6ZSA9IDMpK1xuICBhbm5vdGF0ZShcInRleHRcIiwgeD0gMjguNSwgeSA9IDEuOCwgbGFiZWwgPSByb3VuZChwZXJIaUEkcGVyY2VudFsxN10sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDEyLCB5ID0gMS4yNSwgbGFiZWwgPSByb3VuZChwZXJIaUEkcGVyY2VudFs5XSwyKSwgc2l6ZSA9IDMpK1xuICBhbm5vdGF0ZShcInRleHRcIiwgeD0gMTMsIHkgPSAuNywgbGFiZWwgPSByb3VuZChwZXJIaUEkcGVyY2VudFsxOF0sMiksIHNpemUgPSAzKVxuYGBgIn0= -->
-<pre class="r"><code>ggplot(data=perHiA,
-       aes(x=percent, y=metals,
-           fill=Seasons))+
-  geom_bar(stat=&quot;identity&quot;,
-           position=&quot;dodge&quot;)+
-  scale_y_discrete(limits = c(&quot;Pb&quot;, &quot;Hg&quot;, &quot;Cd&quot;, &quot;As&quot;, &quot;Zn&quot;, &quot;Cu&quot;, &quot;Ni&quot;, &quot;Mn&quot;, &quot;Cr&quot;))+
-  removeGrid()+
-  theme_classic2()+
-  theme(axis.text.x = element_text(face = &quot;bold&quot;, size = 15),
-      axis.text.y = element_text(face = &quot;bold&quot;, size = 15),
-      text = element_text(size = 20, face = &quot;bold&quot;))+
-  xlim(0, 100)+
-  labs(x= &quot;Percent&quot;, y = &quot;&quot;, title = &quot;(a) Sensitivity HI Adult&quot;)+
-  theme(legend.position = &quot;none&quot;)+
-  annotate(&quot;text&quot;, x= 11, y = 9.2, label = paste0(round(perHiA$percent[2],2), &quot; %&quot;), size = 3)+
-  annotate(&quot;text&quot;, x= 9.3, y = 8.77, label = paste0(round(perHiA$percent[11],2), &quot; %&quot;), size = 3)+
-  annotate(&quot;text&quot;, x= 6, y = 8.2, label = round(perHiA$percent[1],2), size = 3)+
-  annotate(&quot;text&quot;, x= 5.4, y = 7.7, label = round(perHiA$percent[10],2), size = 3)+
-  annotate(&quot;text&quot;, x= 4, y = 7.1, label = round(perHiA$percent[3],2), size = 3)+
-  annotate(&quot;text&quot;, x= 4, y = 6.7, label = round(perHiA$percent[12],2), size = 3)+
-  annotate(&quot;text&quot;, x= 4.2, y = 6.15, label = round(perHiA$percent[4],2), size = 3)+
-  annotate(&quot;text&quot;, x= 4.2, y = 5.8, label = round(perHiA$percent[13],2), size = 3)+
-  annotate(&quot;text&quot;, x= 3, y = 5.2, label = round(perHiA$percent[5],2), size = 3)+
-  annotate(&quot;text&quot;, x= 3, y = 4.8, label = round(perHiA$percent[14],2), size = 3)+
-  annotate(&quot;text&quot;, x= 15.5, y = 4.3, label = round(perHiA$percent[6],2), size = 3)+
-  annotate(&quot;text&quot;, x= 13.5, y = 3.75, label = round(perHiA$percent[15],2), size = 3)+
-  annotate(&quot;text&quot;, x= 55, y = 3.3, label = round(perHiA$percent[7],2), size = 3)+
-  annotate(&quot;text&quot;, x= 50, y = 2.8, label = round(perHiA$percent[16],2), size = 3)+
-  annotate(&quot;text&quot;, x= 20, y = 2.25, label = round(perHiA$percent[8],2), size = 3)+
-  annotate(&quot;text&quot;, x= 28.5, y = 1.8, label = round(perHiA$percent[17],2), size = 3)+
-  annotate(&quot;text&quot;, x= 12, y = 1.25, label = round(perHiA$percent[9],2), size = 3)+
-  annotate(&quot;text&quot;, x= 13, y = .7, label = round(perHiA$percent[18],2), size = 3)</code></pre>
-<!-- rnb-source-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuZ2dwbG90KGRhdGE9cGVySGlBLFxuICAgICAgIGFlcyh4PXBlcmNlbnQsIHk9bWV0YWxzLFxuICAgICAgICAgICBmaWxsPVNlYXNvbnMpKStcbiAgZ2VvbV9iYXIoc3RhdD1cImlkZW50aXR5XCIsXG4gICAgICAgICAgIHBvc2l0aW9uPVwiZG9kZ2VcIikrXG4gIHNjYWxlX3lfZGlzY3JldGUobGltaXRzID0gYyhcIlBiXCIsIFwiSGdcIiwgXCJDZFwiLCBcIkFzXCIsIFwiWm5cIiwgXCJDdVwiLCBcIk5pXCIsIFwiTW5cIiwgXCJDclwiKSkrXG4gIHJlbW92ZUdyaWQoKStcbiAgdGhlbWVfY2xhc3NpYzIoKStcbiAgdGhlbWUoYXhpcy50ZXh0LnggPSBlbGVtZW50X3RleHQoZmFjZSA9IFwiYm9sZFwiLCBzaXplID0gMTUpLFxuICAgICAgYXhpcy50ZXh0LnkgPSBlbGVtZW50X3RleHQoZmFjZSA9IFwiYm9sZFwiLCBzaXplID0gMTUpLFxuICAgICAgdGV4dCA9IGVsZW1lbnRfdGV4dChzaXplID0gMjAsIGZhY2UgPSBcImJvbGRcIikpK1xuICB4bGltKDAsIDEwMCkrXG4gIGxhYnMoeD0gXCJQZXJjZW50YWdlXCIsIHkgPSBcIlwiLCB0aXRsZSA9IFwiKGEpIFNlbnNpdGl2aXR5IEhJIEFkdWx0XCIpK1xuICB0aGVtZShsZWdlbmQucG9zaXRpb24gPSBcIm5vbmVcIikrXG4gIGFubm90YXRlKFwidGV4dFwiLCB4PSAxMSwgeSA9IDkuMiwgbGFiZWwgPSByb3VuZChwZXJIaUEkcGVyY2VudFsyXSwyKSwgc2l6ZSA9IDMpK1xuICBhbm5vdGF0ZShcInRleHRcIiwgeD0gOS4zLCB5ID0gOC43NywgbGFiZWwgPSByb3VuZChwZXJIaUEkcGVyY2VudFsxMV0sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDYsIHkgPSA4LjIsIGxhYmVsID0gcm91bmQocGVySGlBJHBlcmNlbnRbMV0sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDUuNCwgeSA9IDcuNywgbGFiZWwgPSByb3VuZChwZXJIaUEkcGVyY2VudFsxMF0sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDQsIHkgPSA3LjEsIGxhYmVsID0gcm91bmQocGVySGlBJHBlcmNlbnRbM10sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDQsIHkgPSA2LjcsIGxhYmVsID0gcm91bmQocGVySGlBJHBlcmNlbnRbMTJdLDIpLCBzaXplID0gMykrXG4gIGFubm90YXRlKFwidGV4dFwiLCB4PSA0LjIsIHkgPSA2LjE1LCBsYWJlbCA9IHJvdW5kKHBlckhpQSRwZXJjZW50WzRdLDIpLCBzaXplID0gMykrXG4gIGFubm90YXRlKFwidGV4dFwiLCB4PSA0LjIsIHkgPSA1LjgsIGxhYmVsID0gcm91bmQocGVySGlBJHBlcmNlbnRbMTNdLDIpLCBzaXplID0gMykrXG4gIGFubm90YXRlKFwidGV4dFwiLCB4PSAzLCB5ID0gNS4yLCBsYWJlbCA9IHJvdW5kKHBlckhpQSRwZXJjZW50WzVdLDIpLCBzaXplID0gMykrXG4gIGFubm90YXRlKFwidGV4dFwiLCB4PSAzLCB5ID0gNC44LCBsYWJlbCA9IHJvdW5kKHBlckhpQSRwZXJjZW50WzE0XSwyKSwgc2l6ZSA9IDMpK1xuICBhbm5vdGF0ZShcInRleHRcIiwgeD0gMTUuNSwgeSA9IDQuMywgbGFiZWwgPSByb3VuZChwZXJIaUEkcGVyY2VudFs2XSwyKSwgc2l6ZSA9IDMpK1xuICBhbm5vdGF0ZShcInRleHRcIiwgeD0gMTMuNSwgeSA9IDMuNzUsIGxhYmVsID0gcm91bmQocGVySGlBJHBlcmNlbnRbMTVdLDIpLCBzaXplID0gMykrXG4gIGFubm90YXRlKFwidGV4dFwiLCB4PSA1NSwgeSA9IDMuMywgbGFiZWwgPSByb3VuZChwZXJIaUEkcGVyY2VudFs3XSwyKSwgc2l6ZSA9IDMpK1xuICBhbm5vdGF0ZShcInRleHRcIiwgeD0gNTAsIHkgPSAyLjgsIGxhYmVsID0gcm91bmQocGVySGlBJHBlcmNlbnRbMTZdLDIpLCBzaXplID0gMykrXG4gIGFubm90YXRlKFwidGV4dFwiLCB4PSAyMCwgeSA9IDIuMjUsIGxhYmVsID0gcm91bmQocGVySGlBJHBlcmNlbnRbOF0sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDI4LjUsIHkgPSAxLjgsIGxhYmVsID0gcm91bmQocGVySGlBJHBlcmNlbnRbMTddLDIpLCBzaXplID0gMykrXG4gIGFubm90YXRlKFwidGV4dFwiLCB4PSAxMiwgeSA9IDEuMjUsIGxhYmVsID0gcm91bmQocGVySGlBJHBlcmNlbnRbOV0sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDEzLCB5ID0gLjcsIGxhYmVsID0gcm91bmQocGVySGlBJHBlcmNlbnRbMThdLDIpLCBzaXplID0gMylcbmBgYCJ9 -->
-<pre class="r"><code>ggplot(data=perHiA,
-       aes(x=percent, y=metals,
-           fill=Seasons))+
-  geom_bar(stat=&quot;identity&quot;,
-           position=&quot;dodge&quot;)+
-  scale_y_discrete(limits = c(&quot;Pb&quot;, &quot;Hg&quot;, &quot;Cd&quot;, &quot;As&quot;, &quot;Zn&quot;, &quot;Cu&quot;, &quot;Ni&quot;, &quot;Mn&quot;, &quot;Cr&quot;))+
-  removeGrid()+
-  theme_classic2()+
-  theme(axis.text.x = element_text(face = &quot;bold&quot;, size = 15),
-      axis.text.y = element_text(face = &quot;bold&quot;, size = 15),
-      text = element_text(size = 20, face = &quot;bold&quot;))+
-  xlim(0, 100)+
-  labs(x= &quot;Percentage&quot;, y = &quot;&quot;, title = &quot;(a) Sensitivity HI Adult&quot;)+
-  theme(legend.position = &quot;none&quot;)+
-  annotate(&quot;text&quot;, x= 11, y = 9.2, label = round(perHiA$percent[2],2), size = 3)+
-  annotate(&quot;text&quot;, x= 9.3, y = 8.77, label = round(perHiA$percent[11],2), size = 3)+
-  annotate(&quot;text&quot;, x= 6, y = 8.2, label = round(perHiA$percent[1],2), size = 3)+
-  annotate(&quot;text&quot;, x= 5.4, y = 7.7, label = round(perHiA$percent[10],2), size = 3)+
-  annotate(&quot;text&quot;, x= 4, y = 7.1, label = round(perHiA$percent[3],2), size = 3)+
-  annotate(&quot;text&quot;, x= 4, y = 6.7, label = round(perHiA$percent[12],2), size = 3)+
-  annotate(&quot;text&quot;, x= 4.2, y = 6.15, label = round(perHiA$percent[4],2), size = 3)+
-  annotate(&quot;text&quot;, x= 4.2, y = 5.8, label = round(perHiA$percent[13],2), size = 3)+
-  annotate(&quot;text&quot;, x= 3, y = 5.2, label = round(perHiA$percent[5],2), size = 3)+
-  annotate(&quot;text&quot;, x= 3, y = 4.8, label = round(perHiA$percent[14],2), size = 3)+
-  annotate(&quot;text&quot;, x= 15.5, y = 4.3, label = round(perHiA$percent[6],2), size = 3)+
-  annotate(&quot;text&quot;, x= 13.5, y = 3.75, label = round(perHiA$percent[15],2), size = 3)+
-  annotate(&quot;text&quot;, x= 55, y = 3.3, label = round(perHiA$percent[7],2), size = 3)+
-  annotate(&quot;text&quot;, x= 50, y = 2.8, label = round(perHiA$percent[16],2), size = 3)+
-  annotate(&quot;text&quot;, x= 20, y = 2.25, label = round(perHiA$percent[8],2), size = 3)+
-  annotate(&quot;text&quot;, x= 28.5, y = 1.8, label = round(perHiA$percent[17],2), size = 3)+
-  annotate(&quot;text&quot;, x= 12, y = 1.25, label = round(perHiA$percent[9],2), size = 3)+
-  annotate(&quot;text&quot;, x= 13, y = .7, label = round(perHiA$percent[18],2), size = 3)</code></pre>
-<!-- rnb-source-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuZ2dwbG90KGRhdGE9cGVySGlDLFxuICAgICAgIGFlcyh4PXBlcmNlbnQsIHk9bWV0YWxzLFxuICAgICAgICAgICBmaWxsPVNlYXNvbnMpKStcbiAgZ2VvbV9iYXIoc3RhdD1cImlkZW50aXR5XCIsXG4gICAgICAgICAgIHBvc2l0aW9uPVwiZG9kZ2VcIikrXG4gIHNjYWxlX3lfZGlzY3JldGUobGltaXRzID0gYyhcIlBiXCIsIFwiSGdcIiwgXCJDZFwiLCBcIkFzXCIsIFwiWm5cIiwgXCJDdVwiLCBcIk5pXCIsIFwiTW5cIiwgXCJDclwiKSkrXG4gIHJlbW92ZUdyaWQoKStcbiAgdGhlbWVfY2xhc3NpYzIoKStcbiAgdGhlbWUoYXhpcy50ZXh0LnggPSBlbGVtZW50X3RleHQoZmFjZSA9IFwiYm9sZFwiLCBzaXplID0gMTUpLFxuICAgICAgYXhpcy50ZXh0LnkgPSBlbGVtZW50X3RleHQoZmFjZSA9IFwiYm9sZFwiLCBzaXplID0gMTUpLFxuICAgICAgdGV4dCA9IGVsZW1lbnRfdGV4dChzaXplID0gMjAsIGZhY2UgPSBcImJvbGRcIikpK1xuICB4bGltKDAsIDEwMCkrXG4gIGxhYnMoeD0gXCJQZXJjZW50YWdlXCIsIHkgPSBcIlwiLCB0aXRsZSA9IFwiKGIpIFNlbnNpdGl2aXR5IEhJIENoaWxkXCIpK1xuICB0aGVtZShsZWdlbmQucG9zaXRpb24gPSBcIm5vbmVcIikrXG4gIGFubm90YXRlKFwidGV4dFwiLCB4PSA5LCB5ID0gOS4yLCBsYWJlbCA9IHJvdW5kKHBlckhpQyRwZXJjZW50WzJdLDIpLCBzaXplID0gMykrXG4gIGFubm90YXRlKFwidGV4dFwiLCB4PSA4LjUsIHkgPSA4Ljc3LCBsYWJlbCA9IHJvdW5kKHBlckhpQyRwZXJjZW50WzExXSwyKSwgc2l6ZSA9IDMpK1xuICBhbm5vdGF0ZShcInRleHRcIiwgeD0gNiwgeSA9IDguMiwgbGFiZWwgPSByb3VuZChwZXJIaUMkcGVyY2VudFsxXSwyKSwgc2l6ZSA9IDMpK1xuICBhbm5vdGF0ZShcInRleHRcIiwgeD0gNS40LCB5ID0gNy43LCBsYWJlbCA9IHJvdW5kKHBlckhpQyRwZXJjZW50WzEwXSwyKSwgc2l6ZSA9IDMpK1xuICBhbm5vdGF0ZShcInRleHRcIiwgeD0gMy41LCB5ID0gNy4xLCBsYWJlbCA9IHJvdW5kKHBlckhpQyRwZXJjZW50WzNdLDIpLCBzaXplID0gMykrXG4gIGFubm90YXRlKFwidGV4dFwiLCB4PSAzLjUsIHkgPSA2LjcsIGxhYmVsID0gcm91bmQocGVySGlDJHBlcmNlbnRbMTJdLDIpLCBzaXplID0gMykrXG4gIGFubm90YXRlKFwidGV4dFwiLCB4PSA0LjIsIHkgPSA2LjE1LCBsYWJlbCA9IHJvdW5kKHBlckhpQyRwZXJjZW50WzRdLDIpLCBzaXplID0gMykrXG4gIGFubm90YXRlKFwidGV4dFwiLCB4PSA0LjIsIHkgPSA1LjgsIGxhYmVsID0gcm91bmQocGVySGlDJHBlcmNlbnRbMTNdLDIpLCBzaXplID0gMykrXG4gIGFubm90YXRlKFwidGV4dFwiLCB4PSAzLCB5ID0gNS4yLCBsYWJlbCA9IHJvdW5kKHBlckhpQyRwZXJjZW50WzVdLDIpLCBzaXplID0gMykrXG4gIGFubm90YXRlKFwidGV4dFwiLCB4PSAzLCB5ID0gNC44LCBsYWJlbCA9IHJvdW5kKHBlckhpQyRwZXJjZW50WzE0XSwyKSwgc2l6ZSA9IDMpK1xuICBhbm5vdGF0ZShcInRleHRcIiwgeD0gMTUsIHkgPSA0LjMsIGxhYmVsID0gcm91bmQocGVySGlDJHBlcmNlbnRbNl0sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDEyLjUsIHkgPSAzLjc1LCBsYWJlbCA9IHJvdW5kKHBlckhpQyRwZXJjZW50WzE1XSwyKSwgc2l6ZSA9IDMpK1xuICBhbm5vdGF0ZShcInRleHRcIiwgeD0gNTcsIHkgPSAzLjMsIGxhYmVsID0gcm91bmQocGVySGlDJHBlcmNlbnRbN10sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDUyLCB5ID0gMi44LCBsYWJlbCA9IHJvdW5kKHBlckhpQyRwZXJjZW50WzE2XSwyKSwgc2l6ZSA9IDMpK1xuICBhbm5vdGF0ZShcInRleHRcIiwgeD0gMTksIHkgPSAyLjI1LCBsYWJlbCA9IHJvdW5kKHBlckhpQyRwZXJjZW50WzhdLDIpLCBzaXplID0gMykrXG4gIGFubm90YXRlKFwidGV4dFwiLCB4PSAyNy41LCB5ID0gMS44LCBsYWJlbCA9IHJvdW5kKHBlckhpQyRwZXJjZW50WzE3XSwyKSwgc2l6ZSA9IDMpK1xuICBhbm5vdGF0ZShcInRleHRcIiwgeD0gMTAuMywgeSA9IDEuMjUsIGxhYmVsID0gcm91bmQocGVySGlDJHBlcmNlbnRbOV0sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDEyLCB5ID0gLjcsIGxhYmVsID0gcm91bmQocGVySGlDJHBlcmNlbnRbMThdLDIpLCBzaXplID0gMylcbmBgYCJ9 -->
-<pre class="r"><code>ggplot(data=perHiC,
-       aes(x=percent, y=metals,
-           fill=Seasons))+
-  geom_bar(stat=&quot;identity&quot;,
-           position=&quot;dodge&quot;)+
-  scale_y_discrete(limits = c(&quot;Pb&quot;, &quot;Hg&quot;, &quot;Cd&quot;, &quot;As&quot;, &quot;Zn&quot;, &quot;Cu&quot;, &quot;Ni&quot;, &quot;Mn&quot;, &quot;Cr&quot;))+
-  removeGrid()+
-  theme_classic2()+
-  theme(axis.text.x = element_text(face = &quot;bold&quot;, size = 15),
-      axis.text.y = element_text(face = &quot;bold&quot;, size = 15),
-      text = element_text(size = 20, face = &quot;bold&quot;))+
-  xlim(0, 100)+
-  labs(x= &quot;Percentage&quot;, y = &quot;&quot;, title = &quot;(b) Sensitivity HI Child&quot;)+
-  theme(legend.position = &quot;none&quot;)+
-  annotate(&quot;text&quot;, x= 9, y = 9.2, label = round(perHiC$percent[2],2), size = 3)+
-  annotate(&quot;text&quot;, x= 8.5, y = 8.77, label = round(perHiC$percent[11],2), size = 3)+
-  annotate(&quot;text&quot;, x= 6, y = 8.2, label = round(perHiC$percent[1],2), size = 3)+
-  annotate(&quot;text&quot;, x= 5.4, y = 7.7, label = round(perHiC$percent[10],2), size = 3)+
-  annotate(&quot;text&quot;, x= 3.5, y = 7.1, label = round(perHiC$percent[3],2), size = 3)+
-  annotate(&quot;text&quot;, x= 3.5, y = 6.7, label = round(perHiC$percent[12],2), size = 3)+
-  annotate(&quot;text&quot;, x= 4.2, y = 6.15, label = round(perHiC$percent[4],2), size = 3)+
-  annotate(&quot;text&quot;, x= 4.2, y = 5.8, label = round(perHiC$percent[13],2), size = 3)+
-  annotate(&quot;text&quot;, x= 3, y = 5.2, label = round(perHiC$percent[5],2), size = 3)+
-  annotate(&quot;text&quot;, x= 3, y = 4.8, label = round(perHiC$percent[14],2), size = 3)+
-  annotate(&quot;text&quot;, x= 15, y = 4.3, label = round(perHiC$percent[6],2), size = 3)+
-  annotate(&quot;text&quot;, x= 12.5, y = 3.75, label = round(perHiC$percent[15],2), size = 3)+
-  annotate(&quot;text&quot;, x= 57, y = 3.3, label = round(perHiC$percent[7],2), size = 3)+
-  annotate(&quot;text&quot;, x= 52, y = 2.8, label = round(perHiC$percent[16],2), size = 3)+
-  annotate(&quot;text&quot;, x= 19, y = 2.25, label = round(perHiC$percent[8],2), size = 3)+
-  annotate(&quot;text&quot;, x= 27.5, y = 1.8, label = round(perHiC$percent[17],2), size = 3)+
-  annotate(&quot;text&quot;, x= 10.3, y = 1.25, label = round(perHiC$percent[9],2), size = 3)+
-  annotate(&quot;text&quot;, x= 12, y = .7, label = round(perHiC$percent[18],2), size = 3)</code></pre>
-<!-- rnb-source-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuZ2dwbG90KGRhdGE9cGVyY3JBLFxuICAgICAgIGFlcyh4PXBlcmNlbnQsIHk9bWV0YWxzLFxuICAgICAgICAgICBmaWxsPVNlYXNvbnMpKStcbiAgZ2VvbV9iYXIoc3RhdD1cImlkZW50aXR5XCIsXG4gICAgICAgICAgIHBvc2l0aW9uPVwiZG9kZ2VcIikrXG4gIHNjYWxlX3lfZGlzY3JldGUobGltaXRzID0gYyhcIlBiXCIsIFwiQ2RcIiwgXCJBc1wiLCBcIk5pXCIsIFwiQ3JcIikpK1xuICByZW1vdmVHcmlkKCkrXG4gIHRoZW1lX2NsYXNzaWMyKCkrXG4gIHRoZW1lKGF4aXMudGV4dC54ID0gZWxlbWVudF90ZXh0KGZhY2UgPSBcImJvbGRcIiwgc2l6ZSA9IDE1KSxcbiAgICAgIGF4aXMudGV4dC55ID0gZWxlbWVudF90ZXh0KGZhY2UgPSBcImJvbGRcIiwgc2l6ZSA9IDE1KSxcbiAgICAgIHRleHQgPSBlbGVtZW50X3RleHQoc2l6ZSA9IDIwLCBmYWNlID0gXCJib2xkXCIpKStcbiAgeGxpbSgwLCAxMDApK1xuICBsYWJzKHg9IFwiUGVyY2VudGFnZVwiLCB5ID0gXCJcIiwgdGl0bGUgPSBcIihjKSBTZW5zaXRpdml0eSBDUiBBZHVsdFwiKStcbiAgdGhlbWUobGVnZW5kLnBvc2l0aW9uID0gXCJub25lXCIpK1xuICBhbm5vdGF0ZShcInRleHRcIiwgeD0gMjMsIHkgPSA1LjIsIGxhYmVsID0gcm91bmQocGVyY3JBJHBlcmNlbnRbMV0sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDIzLCB5ID0gNC44LCBsYWJlbCA9IHJvdW5kKHBlcmNyQSRwZXJjZW50WzZdLDIpLCBzaXplID0gMykrXG4gIGFubm90YXRlKFwidGV4dFwiLCB4PSA1Ni41LCB5ID0gNC4yLCBsYWJlbCA9IHJvdW5kKHBlcmNyQSRwZXJjZW50WzJdLDIpLCBzaXplID0gMykrXG4gIGFubm90YXRlKFwidGV4dFwiLCB4PSA1NSwgeSA9IDMuNzUsIGxhYmVsID0gcm91bmQocGVyY3JBJHBlcmNlbnRbN10sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDEzLjUsIHkgPSAzLjIsIGxhYmVsID0gcm91bmQocGVyY3JBJHBlcmNlbnRbM10sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDEzLjcsIHkgPSAyLjgsIGxhYmVsID0gcm91bmQocGVyY3JBJHBlcmNlbnRbOF0sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDIwLjIsIHkgPSAyLjIsIGxhYmVsID0gcm91bmQocGVyY3JBJHBlcmNlbnRbNF0sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDIyLjIsIHkgPSAxLjgsIGxhYmVsID0gcm91bmQocGVyY3JBJHBlcmNlbnRbOV0sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDMsIHkgPSAxLjIsIGxhYmVsID0gcm91bmQocGVyY3JBJHBlcmNlbnRbNV0sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDMuNSwgeSA9IC44LCBsYWJlbCA9IHJvdW5kKHBlcmNyQSRwZXJjZW50WzEwXSwyKSwgc2l6ZSA9IDMpXG5gYGAifQ== -->
-<pre class="r"><code>ggplot(data=percrA,
-       aes(x=percent, y=metals,
-           fill=Seasons))+
-  geom_bar(stat=&quot;identity&quot;,
-           position=&quot;dodge&quot;)+
-  scale_y_discrete(limits = c(&quot;Pb&quot;, &quot;Cd&quot;, &quot;As&quot;, &quot;Ni&quot;, &quot;Cr&quot;))+
-  removeGrid()+
-  theme_classic2()+
-  theme(axis.text.x = element_text(face = &quot;bold&quot;, size = 15),
-      axis.text.y = element_text(face = &quot;bold&quot;, size = 15),
-      text = element_text(size = 20, face = &quot;bold&quot;))+
-  xlim(0, 100)+
-  labs(x= &quot;Percentage&quot;, y = &quot;&quot;, title = &quot;(c) Sensitivity CR Adult&quot;)+
-  theme(legend.position = &quot;none&quot;)+
-  annotate(&quot;text&quot;, x= 23, y = 5.2, label = round(percrA$percent[1],2), size = 3)+
-  annotate(&quot;text&quot;, x= 23, y = 4.8, label = round(percrA$percent[6],2), size = 3)+
-  annotate(&quot;text&quot;, x= 56.5, y = 4.2, label = round(percrA$percent[2],2), size = 3)+
-  annotate(&quot;text&quot;, x= 55, y = 3.75, label = round(percrA$percent[7],2), size = 3)+
-  annotate(&quot;text&quot;, x= 13.5, y = 3.2, label = round(percrA$percent[3],2), size = 3)+
-  annotate(&quot;text&quot;, x= 13.7, y = 2.8, label = round(percrA$percent[8],2), size = 3)+
-  annotate(&quot;text&quot;, x= 20.2, y = 2.2, label = round(percrA$percent[4],2), size = 3)+
-  annotate(&quot;text&quot;, x= 22.2, y = 1.8, label = round(percrA$percent[9],2), size = 3)+
-  annotate(&quot;text&quot;, x= 3, y = 1.2, label = round(percrA$percent[5],2), size = 3)+
-  annotate(&quot;text&quot;, x= 3.5, y = .8, label = round(percrA$percent[10],2), size = 3)</code></pre>
-<!-- rnb-source-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuZ2dwbG90KGRhdGE9cGVyY3JDLFxuICAgICAgIGFlcyh4PXBlcmNlbnQsIHk9bWV0YWxzLFxuICAgICAgICAgICBmaWxsPVNlYXNvbnMpKStcbiAgZ2VvbV9iYXIoc3RhdD1cImlkZW50aXR5XCIsXG4gICAgICAgICAgIHBvc2l0aW9uPVwiZG9kZ2VcIikrXG4gIHNjYWxlX3lfZGlzY3JldGUobGltaXRzID0gYyhcIlBiXCIsIFwiQ2RcIiwgXCJBc1wiLCBcIk5pXCIsIFwiQ3JcIikpK1xuICByZW1vdmVHcmlkKCkrXG4gIHRoZW1lX2NsYXNzaWMyKCkrXG4gIHRoZW1lKGF4aXMudGV4dC54ID0gZWxlbWVudF90ZXh0KGZhY2UgPSBcImJvbGRcIiwgc2l6ZSA9IDE1KSxcbiAgICAgIGF4aXMudGV4dC55ID0gZWxlbWVudF90ZXh0KGZhY2UgPSBcImJvbGRcIiwgc2l6ZSA9IDE1KSxcbiAgICAgIHRleHQgPSBlbGVtZW50X3RleHQoc2l6ZSA9IDIwLCBmYWNlID0gXCJib2xkXCIpKStcbiAgeGxpbSgwLCAxMDApK1xuICBsYWJzKHg9IFwiUGVyY2VudGFnZVwiLCB5ID0gXCJcIiwgdGl0bGUgPSBcIihkKSBTZW5zaXRpdml0eSBDUiBDaGlsZFwiKStcbiAgdGhlbWUobGVnZW5kLnBvc2l0aW9uID0gXCJub25lXCIpK1xuICBhbm5vdGF0ZShcInRleHRcIiwgeD0gMjMsIHkgPSA1LjIsIGxhYmVsID0gcm91bmQocGVyY3JDJHBlcmNlbnRbMV0sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDIzLCB5ID0gNC44LCBsYWJlbCA9IHJvdW5kKHBlcmNyQyRwZXJjZW50WzZdLDIpLCBzaXplID0gMykrXG4gIGFubm90YXRlKFwidGV4dFwiLCB4PSA1Ni41LCB5ID0gNC4yLCBsYWJlbCA9IHJvdW5kKHBlcmNyQyRwZXJjZW50WzJdLDIpLCBzaXplID0gMykrXG4gIGFubm90YXRlKFwidGV4dFwiLCB4PSA1NSwgeSA9IDMuNzUsIGxhYmVsID0gcm91bmQocGVyY3JDJHBlcmNlbnRbN10sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDEzLjUsIHkgPSAzLjIsIGxhYmVsID0gcm91bmQocGVyY3JDJHBlcmNlbnRbM10sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDEzLjcsIHkgPSAyLjgsIGxhYmVsID0gcm91bmQocGVyY3JDJHBlcmNlbnRbOF0sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDIwLjIsIHkgPSAyLjIsIGxhYmVsID0gcm91bmQocGVyY3JDJHBlcmNlbnRbNF0sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDIyLjIsIHkgPSAxLjgsIGxhYmVsID0gcm91bmQocGVyY3JDJHBlcmNlbnRbOV0sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDMsIHkgPSAxLjIsIGxhYmVsID0gcm91bmQocGVyY3JDJHBlcmNlbnRbNV0sMiksIHNpemUgPSAzKStcbiAgYW5ub3RhdGUoXCJ0ZXh0XCIsIHg9IDMuNSwgeSA9IC44LCBsYWJlbCA9IHJvdW5kKHBlcmNyQyRwZXJjZW50WzEwXSwyKSwgc2l6ZSA9IDMpXG5gYGAifQ== -->
-<pre class="r"><code>ggplot(data=percrC,
-       aes(x=percent, y=metals,
-           fill=Seasons))+
-  geom_bar(stat=&quot;identity&quot;,
-           position=&quot;dodge&quot;)+
-  scale_y_discrete(limits = c(&quot;Pb&quot;, &quot;Cd&quot;, &quot;As&quot;, &quot;Ni&quot;, &quot;Cr&quot;))+
-  removeGrid()+
-  theme_classic2()+
-  theme(axis.text.x = element_text(face = &quot;bold&quot;, size = 15),
-      axis.text.y = element_text(face = &quot;bold&quot;, size = 15),
-      text = element_text(size = 20, face = &quot;bold&quot;))+
-  xlim(0, 100)+
-  labs(x= &quot;Percentage&quot;, y = &quot;&quot;, title = &quot;(d) Sensitivity CR Child&quot;)+
-  theme(legend.position = &quot;none&quot;)+
-  annotate(&quot;text&quot;, x= 23, y = 5.2, label = round(percrC$percent[1],2), size = 3)+
-  annotate(&quot;text&quot;, x= 23, y = 4.8, label = round(percrC$percent[6],2), size = 3)+
-  annotate(&quot;text&quot;, x= 56.5, y = 4.2, label = round(percrC$percent[2],2), size = 3)+
-  annotate(&quot;text&quot;, x= 55, y = 3.75, label = round(percrC$percent[7],2), size = 3)+
-  annotate(&quot;text&quot;, x= 13.5, y = 3.2, label = round(percrC$percent[3],2), size = 3)+
-  annotate(&quot;text&quot;, x= 13.7, y = 2.8, label = round(percrC$percent[8],2), size = 3)+
-  annotate(&quot;text&quot;, x= 20.2, y = 2.2, label = round(percrC$percent[4],2), size = 3)+
-  annotate(&quot;text&quot;, x= 22.2, y = 1.8, label = round(percrC$percent[9],2), size = 3)+
-  annotate(&quot;text&quot;, x= 3, y = 1.2, label = round(percrC$percent[5],2), size = 3)+
-  annotate(&quot;text&quot;, x= 3.5, y = .8, label = round(percrC$percent[10],2), size = 3)</code></pre>
-<!-- rnb-source-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <!-- rnb-text-end -->
