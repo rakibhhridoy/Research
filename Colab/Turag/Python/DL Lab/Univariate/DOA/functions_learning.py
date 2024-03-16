@@ -28,9 +28,9 @@ def load_data(file):
     return df
 
 def fit_model(model, cp, epochs, xt, yt, xv, yv):
-    model.compile(loss=MeanSquaredError(), optimizer=Adam(learning_rate=0.0001), metrics=[RootMeanSquaredError()])
-    model.fit(xt, yt, validation_data=(xv, yv), epochs=epochs, callbacks=[cp])
-    return model
+    model.compile(loss=MeanSquaredError(), optimizer=Adam(), metrics=[RootMeanSquaredError()])
+    history = model.fit(xt, yt, validation_data=(xv, yv), epochs=epochs, callbacks=[cp])
+    return model, history
 
 def plot_val(model,Nsample, xv, yv):
     val_predictions = model.predict(xv).flatten()
@@ -66,3 +66,4 @@ def plot_train(modelname, Nsample, xt, yt):
     plt.plot(train_results['Actuals'][:Nsample])
     plt.title("Train")
     plt.show()
+    
