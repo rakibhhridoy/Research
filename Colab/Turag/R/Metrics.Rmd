@@ -8,52 +8,127 @@ This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute
 Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
 
 ```{r}
-data <- read.csv("/home/RHHLab/Research/Colab/Turag/Python/DL Lab/Univariate/DOB/epochs100/metrics.csv")
+data <- read.csv("/home/RHHLab/Research/Colab/Turag/Python/DL Lab/Multivariate/DOA/epochs100/metrics.csv")
 data
 ```
 
 
 ```{r}
 library(ggplot2)
+library(ggpubr)
+theme_set(theme_pubr())
 ```
 
 
 ```{r}
-data$id <- seq(1, nrow(data))
-p <- ggplot(data, aes(x=as.factor(id), y=MSE, fill=Model)) +       # Note that id is a factor. If x is numeric, there is some space between the first bar
-  geom_bar(stat="identity", alpha=0.5) +
-  ylim(0.001,0.04) +
-  theme_minimal() +
+ggplot(df, aes(x = Model, y = y))+
+  geom_bar(
+    aes(fill = Metrics), stat = "identity", color = "white",
+    position = position_dodge(0.9)
+    )+
+  facet_wrap(~ModelCat) + 
+  fill_palette("jco")
+```
+
+
+```{r}
+df <- as.data.frame(HairEyeColor)
+df
+```
+
+
+```{r}
+mse <- data[,c(1,2,3)]
+mae <- data[,c(1,2,4)]
+r2 <- data[,c(1,2,5)]
+rmse <- data[,c(1,2,6)]
+
+data
+```
+
+
+```{r}
+ggballoonplot(data, x = "Model", y = "Metrics", size = "y",
+              fill = "y", facet.by = "ModelCat",
+              ggtheme = theme_bw()) +
+  scale_fill_viridis_c(option = "C")
+```
+
+
+```{r}
+desired_order <- c("CNN", "RNN", "GRU", "LSTM", "CNN GRU", "CNN LSTM", "RNN GRU", "RNN LSTM", "CNN RNN GRU", "LSTM RNN GRU")
+
+data$Model <- factor(data$Model, levels = desired_order)
+data
+```
+```{r}
+dso <- c("General", "MA", "HY", "AE", "MA AE", "MA HY")
+
+data$ModelCat <- factor(data$ModelCat, levels = dso)
+data
+```
+
+
+```{r}
+increased_margin_theme <- theme(
+  plot.margin = margin(l =1))
+
+ggballoonplot(data, x = "Model", y = "Metrics", size = "y",
+              fill = "y", facet.by = "ModelCat",
+              ggtheme = theme_classic()) +
+  scale_fill_viridis_c(option = "C")+
+  increased_margin_theme
+```
+```{r}
+desired_order <- c("CNN", "RNN", "GRU", "LSTM", "CNN GRU", "CNN LSTM", "RNN GRU", "RNN LSTM", "CNN RNN GRU", "LSTM RNN GRU")
+
+data$Model <- factor(data$Model, levels = desired_order)
+dso <- c("General", "MA", "AE", "HY", "MA AE", "MA HY")
+
+data$ModelCat <- factor(data$ModelCat, levels = dso)
+data
+```
+
+
+```{r}
+ggplot(data, aes(x = Model, y = y))+
+  geom_bar(
+    aes(fill = ModelCat), stat = "identity", color = "white",
+    position = position_dodge(0.9)
+    )+
+  facet_wrap(~Metrics) + 
+  fill_palette("jco")+
   theme(
-    legend.position = "none",
-    axis.text = element_blank(),
-    axis.title = element_blank(),
-    panel.grid = element_blank(),
-    plot.margin = unit(rep(-1,4), "cm") 
-  ) +
-  coord_polar()
- 
-p
+  axis.text.x = element_text(angle = 45, hjust = 1))+
+  theme(legend.position = "right")
 ```
 
-
 ```{r}
+
 ```
 
-
 ```{r}
+
 ```
 
-
 ```{r}
+
 ```
 
-
 ```{r}
+
 ```
 
+```{r}
+
+```
 
 ```{r}
+
+```
+
+```{r}
+
 ```
 
 Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
