@@ -104,31 +104,26 @@ ggplot(data, aes(x = Model, y = y))+
 ```
 
 ```{r}
-
+library(dplyr)
+library(ggplot2)
+library(stringr)
 ```
 
 ```{r}
-
+data <- read.csv("/home/RHHLab/Research/Colab/Turag/Python/DL Lab/Multivariate/DOA/epochs100/metricsT.csv")
+data
 ```
 
 ```{r}
-
+ggplot(data, aes(x = Model, y = y, fill = Metrics, colour = ModelCat)) + 
+  geom_bar(stat = "identity", position = "dodge", alpha = 0.5)
 ```
 
 ```{r}
-
-```
-
-```{r}
-
-```
-
-```{r}
-
-```
-
-```{r}
-
+ggplot(data, aes(x = MSE, y = RMSE, fill = ModelCat)) +
+  geom_tile(color = "black") +
+  geom_text(aes(label = ModelCat), color = "white", size = 4) +
+  coord_fixed()
 ```
 
 Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
