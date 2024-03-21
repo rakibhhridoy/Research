@@ -1,4 +1,4 @@
-Metrics,ModelCat,Model,y
+Metrics,Model Category,Model,y
 MSE,General,CNN,3.3171439895948205
 MSE,General,RNN,1.2946998641074556
 MSE,General,GRU,0.8436168560761221

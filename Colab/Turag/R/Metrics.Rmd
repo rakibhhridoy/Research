@@ -8,7 +8,7 @@ This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute
 Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
 
 ```{r}
-data <- read.csv("/home/RHHLab/Research/Colab/Turag/Python/DL Lab/Multivariate/DOA/epochs100/metrics.csv")
+data <- read.csv("/home/RHHLab/Research/Colab/Turag/Python/DL Lab/Multivariate/DOA/epochs50/metrics.csv")
 data
 ```
 
@@ -62,7 +62,7 @@ data$Model <- factor(data$Model, levels = desired_order)
 data
 ```
 ```{r}
-dso <- c("General", "MA", "HY", "AE", "MA AE", "MA HY")
+dso <- c("General", "MA", "HY", "DReg", "MA DReg", "MA HY")
 
 data$ModelCat <- factor(data$ModelCat, levels = dso)
 data
@@ -91,7 +91,7 @@ data
 
 
 ```{r}
-ggplot(data, aes(x = Model, y = y))+
+p <- ggplot(data, aes(x = Model, y = y))+
   geom_bar(
     aes(fill = ModelCat), stat = "identity", color = "white",
     position = position_dodge(0.9)
@@ -99,8 +99,14 @@ ggplot(data, aes(x = Model, y = y))+
   facet_wrap(~Metrics) + 
   fill_palette("jco")+
   theme(
-  axis.text.x = element_text(angle = 45, hjust = 1))+
-  theme(legend.position = "right")
+  axis.text.x = element_text(angle = 45, hjust = 1, size = 10),
+  axis.text.y = element_text(hjust = 1, size = 8))+
+  theme(legend.position = "right")+
+  xlab("Model")+
+  ylab("")
+
+ggsave("/home/RHHLab/Research/Colab/Turag/Python/DL Lab/Multivariate/DOA/epoch50Metrics.png", plot = p,height = 6.5, width = 9, units = "in", dpi = 1000)
+p
 ```
 
 ```{r}
