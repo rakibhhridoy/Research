@@ -21,12 +21,12 @@ theme_set(theme_pubr())
 
 
 ```{r}
-ggplot(df, aes(x = Model, y = y))+
+ggplot(data, aes(x = Model, y = y))+
   geom_bar(
     aes(fill = Metrics), stat = "identity", color = "white",
     position = position_dodge(0.9)
     )+
-  facet_wrap(~ModelCat) + 
+  facet_wrap(~Model.Category) + 
   fill_palette("jco")
 ```
 
@@ -49,7 +49,7 @@ data
 
 ```{r}
 ggballoonplot(data, x = "Model", y = "Metrics", size = "y",
-              fill = "y", facet.by = "ModelCat",
+              fill = "y", facet.by = "Model.Category",
               ggtheme = theme_bw()) +
   scale_fill_viridis_c(option = "C")
 ```
@@ -64,7 +64,7 @@ data
 ```{r}
 dso <- c("General", "MA", "HY", "DReg", "MA DReg", "MA HY")
 
-data$ModelCat <- factor(data$ModelCat, levels = dso)
+data$Model.Category <- factor(data$Model.Category, levels = dso)
 data
 ```
 
@@ -74,10 +74,12 @@ increased_margin_theme <- theme(
   plot.margin = margin(l =1))
 
 ggballoonplot(data, x = "Model", y = "Metrics", size = "y",
-              fill = "y", facet.by = "ModelCat",
+              fill = "y", facet.by = "Model.Category",
               ggtheme = theme_classic()) +
   scale_fill_viridis_c(option = "C")+
   increased_margin_theme
+
+ggsave("/home/RHHLab/Research/Colab/Turag/Python/DL Lab/Multivariate/DOA/epoch50Metrics.png", plot = p,height = 6.5, width = 9, units = "in", dpi = 1000)
 ```
 ```{r}
 desired_order <- c("CNN", "RNN", "GRU", "LSTM", "CNN GRU", "CNN LSTM", "RNN GRU", "RNN LSTM", "CNN RNN GRU", "LSTM RNN GRU")
@@ -85,7 +87,7 @@ desired_order <- c("CNN", "RNN", "GRU", "LSTM", "CNN GRU", "CNN LSTM", "RNN GRU"
 data$Model <- factor(data$Model, levels = desired_order)
 dso <- c("General", "MA", "AE", "HY", "MA AE", "MA HY")
 
-data$ModelCat <- factor(data$ModelCat, levels = dso)
+data$Model.Category <- factor(data$Model.Category, levels = dso)
 data
 ```
 
@@ -93,7 +95,7 @@ data
 ```{r}
 p <- ggplot(data, aes(x = Model, y = y))+
   geom_bar(
-    aes(fill = ModelCat), stat = "identity", color = "white",
+    aes(fill = Model.Category), stat = "identity", color = "white",
     position = position_dodge(0.9)
     )+
   facet_wrap(~Metrics) + 
