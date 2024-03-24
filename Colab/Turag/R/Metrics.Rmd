@@ -73,14 +73,17 @@ data
 increased_margin_theme <- theme(
   plot.margin = margin(l =1))
 
-ggballoonplot(data, x = "Model", y = "Metrics", size = "y",
+q <- ggballoonplot(data, x = "Model", y = "Metrics", size = "y",
               fill = "y", facet.by = "Model.Category",
               ggtheme = theme_classic()) +
   scale_fill_viridis_c(option = "C")+
   increased_margin_theme
 
-ggsave("/home/RHHLab/Research/Colab/Turag/Python/DL Lab/Multivariate/DOA/epoch50Metrics.png", plot = p,height = 6.5, width = 9, units = "in", dpi = 1000)
+ggsave("/home/RHHLab/Research/Colab/Turag/Figures/DOAepoch50Metricsballoon.png", plot = q,height = 6.5, width = 9, units = "in", dpi = 1000)
+q
 ```
+
+
 ```{r}
 desired_order <- c("CNN", "RNN", "GRU", "LSTM", "CNN GRU", "CNN LSTM", "RNN GRU", "RNN LSTM", "CNN RNN GRU", "LSTM RNN GRU")
 
@@ -132,6 +135,115 @@ ggplot(data, aes(x = MSE, y = RMSE, fill = ModelCat)) +
   geom_tile(color = "black") +
   geom_text(aes(label = ModelCat), color = "white", size = 4) +
   coord_fixed()
+```
+```{r}
+data <- read.csv("/home/RHHLab/Research/Colab/Turag/Python/DL Lab/Multivariate/DOC/epochs50/metrics.csv")
+data
+```
+
+```{r}
+desired_order <- c("CNN", "RNN", "GRU", "LSTM", "CNN GRU", "CNN LSTM", "RNN GRU", "RNN LSTM", "CNN RNN GRU", "LSTM RNN GRU")
+data$Model <- factor(data$Model, levels = desired_order)
+dso <- c("General", "MA", "HY", "DReg", "MA DReg", "MA HY")
+data$Model.Category <- factor(data$Model.Category, levels = dso)
+
+met <- c("MSE", "RMSE", "MAE", "R2")
+data$Metrics <- factor(data$Metrics, levels = met)
+
+data
+
+```
+
+```{r}
+increased_margin_theme <- theme(
+  plot.margin = margin(l =1))
+
+q <- ggballoonplot(data, x = "Model", y = "Metrics", size = "y",
+              fill = "y", facet.by = "Model.Category",
+              ggtheme = theme_classic()) +
+  scale_fill_viridis_c(option = "C")+
+  increased_margin_theme
+
+ggsave("/home/RHHLab/Research/Colab/Turag/Figures/DOCepoch50Metricsballoon.png", plot = q,height = 6.5, width = 9, units = "in", dpi = 1000)
+q
+```
+
+```{r}
+p <- ggplot(data, aes(x = Model, y = y))+
+  geom_bar(
+    aes(fill = Model.Category), stat = "identity", color = "white",
+    position = position_dodge(0.9)
+    )+
+  facet_wrap(~Metrics) + 
+  fill_palette("jco")+
+  theme(
+  axis.text.x = element_text(angle = 45, hjust = 1, size = 10),
+  axis.text.y = element_text(hjust = 1, size = 8))+
+  theme(legend.position = "right")+
+  xlab("S3")+
+  ylab("")
+
+ggsave("/home/RHHLab/Research/Colab/Turag/Figures/DOCepoch50MetricsBar.png", plot = p,height = 6.5, width = 9, units = "in", dpi = 1000)
+p
+```
+
+```{r}
+
+```
+
+```{r}
+data  <- read.csv("/home/RHHLab/Research/Colab/Turag/Python/DL Lab/Multivariate/DOA/data/TimeSeriesDataA.csv")
+data
+```
+
+```{r}
+ggplot(data, aes(Date, Values)) +                                     
+  geom_line(color = "blue", size = 2.5) +  # Increase line size to 2
+  facet_wrap(. ~ Param, nrow = 4)
+```
+
+```{r}
+library(dplyr)
+library(ggplot2)
+library(lubridate)
+library(timetk)
+```
+
+```{r}
+data %>%
+  group_by(Param) %>%
+  plot_time_series(Date, Values, 
+                   .facet_ncol = 2, .facet_scales = "free")
+```
+
+```{r}
+g <- ggplot(data,aes(x=Date,y=Values, hue = "Param"))
+g+geom_line()+geom_smooth()+
+  facet_wrap(~Param, scales = "free")
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
 ```
 
 Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
