@@ -268,7 +268,7 @@ p <-  ggplot(data, aes(x= Param, y=y, fill=Location)) +
   theme_minimal()+
   theme(strip.text = element_text(face = "bold"))
 
-ggsave("my_plot.png", plot = p, width = 8, height = 6, dpi = 300)
+ggsave("StatData.png", plot = p, width = 8, height = 6, dpi = 500)
 
 ```
 
