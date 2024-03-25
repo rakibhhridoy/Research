@@ -223,22 +223,52 @@ g+geom_line()+geom_smooth()+
 ```
 
 ```{r}
-
+data <- read.csv("/home/RHHLab/Research/Colab/Turag/Python/data/Compressed.csv")
+data
 ```
 
 ```{r}
-
+ggplot(data, aes(x=Param, y=y, group=Location)) + 
+  geom_boxplot(aes(fill=Location))+
+  facet_grid(Param ~., scales = "free")
 ```
 
 ```{r}
-
+library(rstatix)
+library(ggpubr)
 ```
 
 ```{r}
-
+stat.test <- data %>%
+  group_by(Location) %>%
+  t_test(y ~ Param) %>%
+  adjust_pvalue(method = "bonferroni") %>%
+  add_significance()
+stat.test
 ```
 
 ```{r}
+library(gapminder)
+library(ggsci)
+```
+
+```{r}
+desired_order <- c("DO (mg/L)", "BOD (mg/L)", "TN (mg/L)", "EC (us/cm)", "pH", "Temperature ('C)")
+data$Param <- factor(data$Param, levels = desired_order)
+```
+
+```{r}
+p <-  ggplot(data, aes(x= Param, y=y, fill=Location)) +
+  geom_boxplot() +
+  #geom_jitter(width=0.1,alpha=0.2) +
+  xlab("")+ 
+  ylab("")+
+  facet_wrap(~Param, scales = "free")+
+  scale_fill_viridis_d() +
+  theme_minimal()+
+  theme(strip.text = element_text(face = "bold"))
+
+ggsave("my_plot.png", plot = p, width = 8, height = 6, dpi = 300)
 
 ```
 

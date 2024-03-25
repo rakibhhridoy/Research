@@ -1,0 +1,8761 @@
+Param,Location,y
+Temperature ('C),S1,21.5
+Temperature ('C),S1,21.21
+Temperature ('C),S1,21.21
+Temperature ('C),S1,21.26
+Temperature ('C),S1,21.09
+Temperature ('C),S1,21.21
+Temperature ('C),S1,21.45
+Temperature ('C),S1,21.23
+Temperature ('C),S1,21.02
+Temperature ('C),S1,21.25
+Temperature ('C),S1,21.33
+Temperature ('C),S1,21.07
+Temperature ('C),S1,21.48
+Temperature ('C),S1,21.46
+Temperature ('C),S1,21.17
+Temperature ('C),S1,21.0
+Temperature ('C),S1,20.89
+Temperature ('C),S1,20.55
+Temperature ('C),S1,20.84
+Temperature ('C),S1,20.95
+Temperature ('C),S1,20.73
+Temperature ('C),S1,20.77
+Temperature ('C),S1,20.71
+Temperature ('C),S1,20.83
+Temperature ('C),S1,20.78
+Temperature ('C),S1,20.95
+Temperature ('C),S1,20.65
+Temperature ('C),S1,20.72
+Temperature ('C),S1,20.81
+Temperature ('C),S1,20.67
+Temperature ('C),S1,20.98
+Temperature ('C),S1,20.5
+Temperature ('C),S1,20.36
+Temperature ('C),S1,20.47
+Temperature ('C),S1,20.43
+Temperature ('C),S1,20.38
+Temperature ('C),S1,20.38
+Temperature ('C),S1,20.46
+Temperature ('C),S1,20.41
+Temperature ('C),S1,20.48
+Temperature ('C),S1,20.35
+Temperature ('C),S1,20.34
+Temperature ('C),S1,20.39
+Temperature ('C),S1,20.39
+Temperature ('C),S1,20.3
+Temperature ('C),S1,20.34
+Temperature ('C),S1,20.3
+Temperature ('C),S1,20.92
+Temperature ('C),S1,20.95
+Temperature ('C),S1,20.78
+Temperature ('C),S1,20.56
+Temperature ('C),S1,20.71
+Temperature ('C),S1,20.4
+Temperature ('C),S1,20.38
+Temperature ('C),S1,20.46
+Temperature ('C),S1,20.66
+Temperature ('C),S1,20.96
+Temperature ('C),S1,20.36
+Temperature ('C),S1,20.8
+Temperature ('C),S1,20.93
+Temperature ('C),S1,20.32
+Temperature ('C),S1,20.32
+Temperature ('C),S1,21.0
+Temperature ('C),S1,21.25
+Temperature ('C),S1,21.53
+Temperature ('C),S1,21.19
+Temperature ('C),S1,21.52
+Temperature ('C),S1,21.24
+Temperature ('C),S1,21.34
+Temperature ('C),S1,21.09
+Temperature ('C),S1,21.03
+Temperature ('C),S1,21.67
+Temperature ('C),S1,21.12
+Temperature ('C),S1,21.29
+Temperature ('C),S1,21.68
+Temperature ('C),S1,21.8
+Temperature ('C),S1,23.51
+Temperature ('C),S1,22.55
+Temperature ('C),S1,21.86
+Temperature ('C),S1,24.44
+Temperature ('C),S1,23.3
+Temperature ('C),S1,22.61
+Temperature ('C),S1,24.67
+Temperature ('C),S1,23.96
+Temperature ('C),S1,23.82
+Temperature ('C),S1,23.11
+Temperature ('C),S1,22.52
+Temperature ('C),S1,23.49
+Temperature ('C),S1,22.76
+Temperature ('C),S1,22.53
+Temperature ('C),S1,24.9
+Temperature ('C),S1,26.05
+Temperature ('C),S1,26.28
+Temperature ('C),S1,25.43
+Temperature ('C),S1,26.11
+Temperature ('C),S1,26.75
+Temperature ('C),S1,26.75
+Temperature ('C),S1,26.65
+Temperature ('C),S1,25.93
+Temperature ('C),S1,25.15
+Temperature ('C),S1,25.4
+Temperature ('C),S1,25.23
+Temperature ('C),S1,26.1
+Temperature ('C),S1,25.86
+Temperature ('C),S1,26.4
+Temperature ('C),S1,26.8
+Temperature ('C),S1,28.57
+Temperature ('C),S1,28.03
+Temperature ('C),S1,28.82
+Temperature ('C),S1,29.08
+Temperature ('C),S1,28.46
+Temperature ('C),S1,27.26
+Temperature ('C),S1,28.17
+Temperature ('C),S1,27.1
+Temperature ('C),S1,28.38
+Temperature ('C),S1,27.32
+Temperature ('C),S1,29.04
+Temperature ('C),S1,28.76
+Temperature ('C),S1,27.4
+Temperature ('C),S1,28.28
+Temperature ('C),S1,28.14
+Temperature ('C),S1,29.1
+Temperature ('C),S1,29.56
+Temperature ('C),S1,31.0
+Temperature ('C),S1,29.9
+Temperature ('C),S1,31.35
+Temperature ('C),S1,30.65
+Temperature ('C),S1,29.29
+Temperature ('C),S1,30.55
+Temperature ('C),S1,31.65
+Temperature ('C),S1,30.21
+Temperature ('C),S1,30.26
+Temperature ('C),S1,31.5
+Temperature ('C),S1,30.29
+Temperature ('C),S1,29.6
+Temperature ('C),S1,31.25
+Temperature ('C),S1,31.7
+Temperature ('C),S1,32.15
+Temperature ('C),S1,32.04
+Temperature ('C),S1,33.06
+Temperature ('C),S1,32.02
+Temperature ('C),S1,31.93
+Temperature ('C),S1,32.15
+Temperature ('C),S1,32.47
+Temperature ('C),S1,31.8
+Temperature ('C),S1,32.22
+Temperature ('C),S1,32.93
+Temperature ('C),S1,32.56
+Temperature ('C),S1,31.79
+Temperature ('C),S1,32.34
+Temperature ('C),S1,32.56
+Temperature ('C),S1,33.1
+Temperature ('C),S1,33.09
+Temperature ('C),S1,32.77
+Temperature ('C),S1,32.69
+Temperature ('C),S1,32.61
+Temperature ('C),S1,32.65
+Temperature ('C),S1,32.69
+Temperature ('C),S1,32.62
+Temperature ('C),S1,32.9
+Temperature ('C),S1,32.81
+Temperature ('C),S1,33.06
+Temperature ('C),S1,33.05
+Temperature ('C),S1,32.85
+Temperature ('C),S1,32.99
+Temperature ('C),S1,33.1
+Temperature ('C),S1,32.6
+Temperature ('C),S1,31.11
+Temperature ('C),S1,30.7
+Temperature ('C),S1,32.41
+Temperature ('C),S1,30.5
+Temperature ('C),S1,32.55
+Temperature ('C),S1,31.93
+Temperature ('C),S1,30.9
+Temperature ('C),S1,31.38
+Temperature ('C),S1,30.8
+Temperature ('C),S1,32.37
+Temperature ('C),S1,32.04
+Temperature ('C),S1,30.53
+Temperature ('C),S1,32.02
+Temperature ('C),S1,31.38
+Temperature ('C),S1,32.54
+Temperature ('C),S1,30.4
+Temperature ('C),S1,29.53
+Temperature ('C),S1,28.92
+Temperature ('C),S1,28.92
+Temperature ('C),S1,29.79
+Temperature ('C),S1,29.55
+Temperature ('C),S1,29.75
+Temperature ('C),S1,29.68
+Temperature ('C),S1,30.12
+Temperature ('C),S1,30.12
+Temperature ('C),S1,29.6
+Temperature ('C),S1,29.95
+Temperature ('C),S1,29.64
+Temperature ('C),S1,30.31
+Temperature ('C),S1,29.36
+Temperature ('C),S1,28.7
+Temperature ('C),S1,28.39
+Temperature ('C),S1,28.42
+Temperature ('C),S1,28.63
+Temperature ('C),S1,28.7
+Temperature ('C),S1,28.39
+Temperature ('C),S1,28.53
+Temperature ('C),S1,28.5
+Temperature ('C),S1,28.35
+Temperature ('C),S1,28.69
+Temperature ('C),S1,28.31
+Temperature ('C),S1,28.56
+Temperature ('C),S1,28.62
+Temperature ('C),S1,28.34
+Temperature ('C),S1,28.7
+Temperature ('C),S1,28.3
+Temperature ('C),S1,27.94
+Temperature ('C),S1,27.94
+Temperature ('C),S1,27.73
+Temperature ('C),S1,27.63
+Temperature ('C),S1,27.77
+Temperature ('C),S1,27.56
+Temperature ('C),S1,28.03
+Temperature ('C),S1,27.89
+Temperature ('C),S1,27.84
+Temperature ('C),S1,28.02
+Temperature ('C),S1,27.55
+Temperature ('C),S1,27.75
+Temperature ('C),S1,27.86
+Temperature ('C),S1,27.68
+Temperature ('C),S1,27.5
+Temperature ('C),S1,27.31
+Temperature ('C),S1,27.31
+Temperature ('C),S1,27.29
+Temperature ('C),S1,27.17
+Temperature ('C),S1,27.08
+Temperature ('C),S1,27.39
+Temperature ('C),S1,27.11
+Temperature ('C),S1,27.34
+Temperature ('C),S1,26.82
+Temperature ('C),S1,27.09
+Temperature ('C),S1,26.86
+Temperature ('C),S1,27.03
+Temperature ('C),S1,27.29
+Temperature ('C),S1,27.31
+Temperature ('C),S1,26.99
+Temperature ('C),S1,26.8
+Temperature ('C),S1,27.31
+Temperature ('C),S1,27.31
+Temperature ('C),S1,27.29
+Temperature ('C),S1,27.17
+Temperature ('C),S1,27.08
+Temperature ('C),S1,27.39
+Temperature ('C),S1,27.11
+Temperature ('C),S1,27.34
+Temperature ('C),S1,26.82
+Temperature ('C),S1,27.09
+Temperature ('C),S1,26.86
+Temperature ('C),S1,27.03
+Temperature ('C),S1,27.29
+Temperature ('C),S1,27.31
+Temperature ('C),S1,26.3
+Temperature ('C),S1,25.69
+Temperature ('C),S1,25.17
+Temperature ('C),S1,25.95
+Temperature ('C),S1,25.1
+Temperature ('C),S1,26.12
+Temperature ('C),S1,25.41
+Temperature ('C),S1,25.46
+Temperature ('C),S1,25.09
+Temperature ('C),S1,26.11
+Temperature ('C),S1,25.04
+Temperature ('C),S1,25.93
+Temperature ('C),S1,26.09
+Temperature ('C),S1,26.23
+Temperature ('C),S1,24.93
+Temperature ('C),S1,25.75
+Temperature ('C),S1,24.9
+Temperature ('C),S1,24.28
+Temperature ('C),S1,24.44
+Temperature ('C),S1,24.47
+Temperature ('C),S1,24.21
+Temperature ('C),S1,24.21
+Temperature ('C),S1,24.85
+Temperature ('C),S1,24.55
+Temperature ('C),S1,24.57
+Temperature ('C),S1,24.71
+Temperature ('C),S1,24.43
+Temperature ('C),S1,24.61
+Temperature ('C),S1,24.51
+Temperature ('C),S1,24.78
+Temperature ('C),S1,24.42
+Temperature ('C),S1,24.2
+Temperature ('C),S1,23.77
+Temperature ('C),S1,24.18
+Temperature ('C),S1,23.97
+Temperature ('C),S1,23.75
+Temperature ('C),S1,23.74
+Temperature ('C),S1,23.93
+Temperature ('C),S1,24.16
+Temperature ('C),S1,24.12
+Temperature ('C),S1,24.13
+Temperature ('C),S1,23.87
+Temperature ('C),S1,23.85
+Temperature ('C),S1,23.78
+Temperature ('C),S1,24.07
+Temperature ('C),S1,23.77
+Temperature ('C),S1,23.7
+Temperature ('C),S1,23.15
+Temperature ('C),S1,23.34
+Temperature ('C),S1,23.15
+Temperature ('C),S1,23.2
+Temperature ('C),S1,23.15
+Temperature ('C),S1,23.23
+Temperature ('C),S1,23.7
+Temperature ('C),S1,23.11
+Temperature ('C),S1,23.61
+Temperature ('C),S1,23.51
+Temperature ('C),S1,23.62
+Temperature ('C),S1,23.14
+Temperature ('C),S1,23.29
+Temperature ('C),S1,23.67
+Temperature ('C),S1,23.1
+Temperature ('C),S1,23.01
+Temperature ('C),S1,22.77
+Temperature ('C),S1,22.95
+Temperature ('C),S1,23.02
+Temperature ('C),S1,23.01
+Temperature ('C),S1,22.7
+Temperature ('C),S1,22.98
+Temperature ('C),S1,22.84
+Temperature ('C),S1,22.73
+Temperature ('C),S1,22.69
+Temperature ('C),S1,22.64
+Temperature ('C),S1,23.01
+Temperature ('C),S1,23.01
+Temperature ('C),S1,22.8
+Temperature ('C),S1,23.1
+Temperature ('C),S1,22.6
+Temperature ('C),S1,22.11
+Temperature ('C),S1,22.56
+Temperature ('C),S1,22.02
+Temperature ('C),S1,22.28
+Temperature ('C),S1,22.43
+Temperature ('C),S1,22.45
+Temperature ('C),S1,22.07
+Temperature ('C),S1,22.23
+Temperature ('C),S1,22.45
+Temperature ('C),S1,22.27
+Temperature ('C),S1,22.45
+Temperature ('C),S1,22.14
+Temperature ('C),S1,22.54
+Temperature ('C),S1,22.57
+Temperature ('C),S1,22.0
+Temperature ('C),S1,21.8
+Temperature ('C),S1,21.92
+Temperature ('C),S1,21.86
+Temperature ('C),S1,21.93
+Temperature ('C),S1,21.98
+Temperature ('C),S1,21.85
+Temperature ('C),S1,21.91
+Temperature ('C),S1,21.99
+Temperature ('C),S1,21.63
+Temperature ('C),S1,21.7
+Temperature ('C),S1,21.86
+Temperature ('C),S1,21.67
+Temperature ('C),S1,21.66
+Temperature ('C),S1,21.75
+Temperature ('C),S2,21.2
+Temperature ('C),S2,21.1
+Temperature ('C),S2,20.94
+Temperature ('C),S2,20.94
+Temperature ('C),S2,21.19
+Temperature ('C),S2,20.87
+Temperature ('C),S2,20.95
+Temperature ('C),S2,21.05
+Temperature ('C),S2,21.05
+Temperature ('C),S2,20.91
+Temperature ('C),S2,21.02
+Temperature ('C),S2,20.97
+Temperature ('C),S2,20.9
+Temperature ('C),S2,20.83
+Temperature ('C),S2,20.94
+Temperature ('C),S2,20.8
+Temperature ('C),S2,20.56
+Temperature ('C),S2,20.45
+Temperature ('C),S2,20.24
+Temperature ('C),S2,20.32
+Temperature ('C),S2,20.28
+Temperature ('C),S2,20.32
+Temperature ('C),S2,20.35
+Temperature ('C),S2,20.23
+Temperature ('C),S2,20.79
+Temperature ('C),S2,20.77
+Temperature ('C),S2,20.27
+Temperature ('C),S2,20.38
+Temperature ('C),S2,20.72
+Temperature ('C),S2,20.48
+Temperature ('C),S2,20.78
+Temperature ('C),S2,20.2
+Temperature ('C),S2,20.04
+Temperature ('C),S2,20.1
+Temperature ('C),S2,20.15
+Temperature ('C),S2,20.1
+Temperature ('C),S2,20.14
+Temperature ('C),S2,20.19
+Temperature ('C),S2,20.09
+Temperature ('C),S2,20.1
+Temperature ('C),S2,20.11
+Temperature ('C),S2,20.15
+Temperature ('C),S2,20.05
+Temperature ('C),S2,20.04
+Temperature ('C),S2,20.07
+Temperature ('C),S2,20.17
+Temperature ('C),S2,20.0
+Temperature ('C),S2,20.5
+Temperature ('C),S2,20.31
+Temperature ('C),S2,20.6
+Temperature ('C),S2,20.48
+Temperature ('C),S2,20.05
+Temperature ('C),S2,20.09
+Temperature ('C),S2,20.21
+Temperature ('C),S2,20.26
+Temperature ('C),S2,20.3
+Temperature ('C),S2,20.27
+Temperature ('C),S2,20.43
+Temperature ('C),S2,20.09
+Temperature ('C),S2,20.02
+Temperature ('C),S2,20.44
+Temperature ('C),S2,20.3
+Temperature ('C),S2,20.6
+Temperature ('C),S2,21.14
+Temperature ('C),S2,21.92
+Temperature ('C),S2,21.64
+Temperature ('C),S2,20.83
+Temperature ('C),S2,21.15
+Temperature ('C),S2,21.97
+Temperature ('C),S2,21.77
+Temperature ('C),S2,21.3
+Temperature ('C),S2,21.46
+Temperature ('C),S2,21.53
+Temperature ('C),S2,20.67
+Temperature ('C),S2,21.25
+Temperature ('C),S2,22.0
+Temperature ('C),S2,22.29
+Temperature ('C),S2,22.37
+Temperature ('C),S2,23.88
+Temperature ('C),S2,24.42
+Temperature ('C),S2,24.16
+Temperature ('C),S2,23.88
+Temperature ('C),S2,23.49
+Temperature ('C),S2,22.81
+Temperature ('C),S2,23.02
+Temperature ('C),S2,22.73
+Temperature ('C),S2,23.88
+Temperature ('C),S2,23.48
+Temperature ('C),S2,23.71
+Temperature ('C),S2,22.13
+Temperature ('C),S2,24.6
+Temperature ('C),S2,25.23
+Temperature ('C),S2,26.51
+Temperature ('C),S2,26.45
+Temperature ('C),S2,26.27
+Temperature ('C),S2,25.68
+Temperature ('C),S2,26.12
+Temperature ('C),S2,25.65
+Temperature ('C),S2,26.89
+Temperature ('C),S2,25.92
+Temperature ('C),S2,26.16
+Temperature ('C),S2,25.05
+Temperature ('C),S2,26.71
+Temperature ('C),S2,25.31
+Temperature ('C),S2,25.59
+Temperature ('C),S2,26.9
+Temperature ('C),S2,27.09
+Temperature ('C),S2,27.35
+Temperature ('C),S2,28.3
+Temperature ('C),S2,27.63
+Temperature ('C),S2,28.59
+Temperature ('C),S2,28.48
+Temperature ('C),S2,27.41
+Temperature ('C),S2,28.21
+Temperature ('C),S2,27.07
+Temperature ('C),S2,28.85
+Temperature ('C),S2,28.79
+Temperature ('C),S2,28.35
+Temperature ('C),S2,28.67
+Temperature ('C),S2,28.54
+Temperature ('C),S2,27.62
+Temperature ('C),S2,28.9
+Temperature ('C),S2,30.24
+Temperature ('C),S2,30.94
+Temperature ('C),S2,30.99
+Temperature ('C),S2,31.0
+Temperature ('C),S2,30.5
+Temperature ('C),S2,29.71
+Temperature ('C),S2,31.36
+Temperature ('C),S2,29.95
+Temperature ('C),S2,29.71
+Temperature ('C),S2,30.4
+Temperature ('C),S2,29.23
+Temperature ('C),S2,30.66
+Temperature ('C),S2,28.95
+Temperature ('C),S2,29.1
+Temperature ('C),S2,31.5
+Temperature ('C),S2,32.31
+Temperature ('C),S2,31.63
+Temperature ('C),S2,32.44
+Temperature ('C),S2,32.2
+Temperature ('C),S2,31.53
+Temperature ('C),S2,31.98
+Temperature ('C),S2,31.55
+Temperature ('C),S2,31.6
+Temperature ('C),S2,31.9
+Temperature ('C),S2,31.94
+Temperature ('C),S2,31.78
+Temperature ('C),S2,32.55
+Temperature ('C),S2,32.56
+Temperature ('C),S2,31.96
+Temperature ('C),S2,32.7
+Temperature ('C),S2,32.39
+Temperature ('C),S2,32.24
+Temperature ('C),S2,32.59
+Temperature ('C),S2,32.5
+Temperature ('C),S2,32.44
+Temperature ('C),S2,32.62
+Temperature ('C),S2,32.64
+Temperature ('C),S2,32.68
+Temperature ('C),S2,32.32
+Temperature ('C),S2,32.53
+Temperature ('C),S2,32.69
+Temperature ('C),S2,32.54
+Temperature ('C),S2,32.53
+Temperature ('C),S2,32.57
+Temperature ('C),S2,32.2
+Temperature ('C),S2,31.01
+Temperature ('C),S2,31.46
+Temperature ('C),S2,30.65
+Temperature ('C),S2,32.09
+Temperature ('C),S2,31.72
+Temperature ('C),S2,32.03
+Temperature ('C),S2,31.97
+Temperature ('C),S2,32.01
+Temperature ('C),S2,31.92
+Temperature ('C),S2,30.8
+Temperature ('C),S2,32.18
+Temperature ('C),S2,31.68
+Temperature ('C),S2,31.22
+Temperature ('C),S2,30.94
+Temperature ('C),S2,31.84
+Temperature ('C),S2,30.5
+Temperature ('C),S2,29.61
+Temperature ('C),S2,29.28
+Temperature ('C),S2,29.29
+Temperature ('C),S2,30.07
+Temperature ('C),S2,29.29
+Temperature ('C),S2,29.48
+Temperature ('C),S2,30.01
+Temperature ('C),S2,29.93
+Temperature ('C),S2,29.9
+Temperature ('C),S2,30.1
+Temperature ('C),S2,29.12
+Temperature ('C),S2,29.01
+Temperature ('C),S2,30.49
+Temperature ('C),S2,29.27
+Temperature ('C),S2,28.9
+Temperature ('C),S2,28.81
+Temperature ('C),S2,28.78
+Temperature ('C),S2,28.87
+Temperature ('C),S2,28.41
+Temperature ('C),S2,28.51
+Temperature ('C),S2,28.75
+Temperature ('C),S2,28.11
+Temperature ('C),S2,28.38
+Temperature ('C),S2,28.3
+Temperature ('C),S2,28.41
+Temperature ('C),S2,28.11
+Temperature ('C),S2,28.69
+Temperature ('C),S2,28.85
+Temperature ('C),S2,28.88
+Temperature ('C),S2,28.1
+Temperature ('C),S2,27.82
+Temperature ('C),S2,28.1
+Temperature ('C),S2,27.9
+Temperature ('C),S2,28.08
+Temperature ('C),S2,28.03
+Temperature ('C),S2,27.9
+Temperature ('C),S2,27.93
+Temperature ('C),S2,27.98
+Temperature ('C),S2,27.86
+Temperature ('C),S2,27.96
+Temperature ('C),S2,27.81
+Temperature ('C),S2,27.97
+Temperature ('C),S2,27.84
+Temperature ('C),S2,28.05
+Temperature ('C),S2,27.8
+Temperature ('C),S2,27.11
+Temperature ('C),S2,27.42
+Temperature ('C),S2,27.77
+Temperature ('C),S2,27.3
+Temperature ('C),S2,27.79
+Temperature ('C),S2,27.62
+Temperature ('C),S2,27.56
+Temperature ('C),S2,27.27
+Temperature ('C),S2,27.49
+Temperature ('C),S2,27.46
+Temperature ('C),S2,27.6
+Temperature ('C),S2,27.73
+Temperature ('C),S2,27.47
+Temperature ('C),S2,27.15
+Temperature ('C),S2,27.66
+Temperature ('C),S2,27.0
+Temperature ('C),S2,27.11
+Temperature ('C),S2,27.42
+Temperature ('C),S2,27.77
+Temperature ('C),S2,27.3
+Temperature ('C),S2,27.79
+Temperature ('C),S2,27.62
+Temperature ('C),S2,27.56
+Temperature ('C),S2,27.27
+Temperature ('C),S2,27.49
+Temperature ('C),S2,27.46
+Temperature ('C),S2,27.6
+Temperature ('C),S2,27.73
+Temperature ('C),S2,27.47
+Temperature ('C),S2,27.15
+Temperature ('C),S2,26.5
+Temperature ('C),S2,25.84
+Temperature ('C),S2,24.91
+Temperature ('C),S2,26.06
+Temperature ('C),S2,24.9
+Temperature ('C),S2,25.84
+Temperature ('C),S2,25.79
+Temperature ('C),S2,26.02
+Temperature ('C),S2,25.77
+Temperature ('C),S2,26.0
+Temperature ('C),S2,26.37
+Temperature ('C),S2,25.96
+Temperature ('C),S2,25.89
+Temperature ('C),S2,25.47
+Temperature ('C),S2,25.98
+Temperature ('C),S2,25.55
+Temperature ('C),S2,24.8
+Temperature ('C),S2,24.4
+Temperature ('C),S2,24.78
+Temperature ('C),S2,24.42
+Temperature ('C),S2,24.59
+Temperature ('C),S2,24.78
+Temperature ('C),S2,24.63
+Temperature ('C),S2,24.79
+Temperature ('C),S2,24.71
+Temperature ('C),S2,24.77
+Temperature ('C),S2,24.35
+Temperature ('C),S2,24.58
+Temperature ('C),S2,24.43
+Temperature ('C),S2,24.36
+Temperature ('C),S2,24.33
+Temperature ('C),S2,24.3
+Temperature ('C),S2,23.97
+Temperature ('C),S2,23.97
+Temperature ('C),S2,24.22
+Temperature ('C),S2,23.97
+Temperature ('C),S2,23.5
+Temperature ('C),S2,23.6
+Temperature ('C),S2,23.66
+Temperature ('C),S2,24.01
+Temperature ('C),S2,23.21
+Temperature ('C),S2,24.26
+Temperature ('C),S2,24.19
+Temperature ('C),S2,23.35
+Temperature ('C),S2,24.09
+Temperature ('C),S2,23.24
+Temperature ('C),S2,23.2
+Temperature ('C),S2,22.83
+Temperature ('C),S2,23.01
+Temperature ('C),S2,23.12
+Temperature ('C),S2,22.84
+Temperature ('C),S2,23.04
+Temperature ('C),S2,22.93
+Temperature ('C),S2,22.91
+Temperature ('C),S2,23.02
+Temperature ('C),S2,22.98
+Temperature ('C),S2,22.86
+Temperature ('C),S2,23.07
+Temperature ('C),S2,22.95
+Temperature ('C),S2,23.09
+Temperature ('C),S2,23.05
+Temperature ('C),S2,22.8
+Temperature ('C),S2,22.59
+Temperature ('C),S2,22.77
+Temperature ('C),S2,22.12
+Temperature ('C),S2,22.51
+Temperature ('C),S2,22.43
+Temperature ('C),S2,22.41
+Temperature ('C),S2,22.57
+Temperature ('C),S2,22.24
+Temperature ('C),S2,22.25
+Temperature ('C),S2,22.23
+Temperature ('C),S2,22.13
+Temperature ('C),S2,22.79
+Temperature ('C),S2,22.46
+Temperature ('C),S2,22.31
+Temperature ('C),S2,22.68
+Temperature ('C),S2,22.1
+Temperature ('C),S2,21.71
+Temperature ('C),S2,21.93
+Temperature ('C),S2,21.83
+Temperature ('C),S2,22.1
+Temperature ('C),S2,22.01
+Temperature ('C),S2,22.03
+Temperature ('C),S2,22.01
+Temperature ('C),S2,22.01
+Temperature ('C),S2,21.74
+Temperature ('C),S2,21.99
+Temperature ('C),S2,21.96
+Temperature ('C),S2,21.9
+Temperature ('C),S2,21.99
+Temperature ('C),S2,22.0
+Temperature ('C),S2,21.7
+Temperature ('C),S2,21.59
+Temperature ('C),S2,21.25
+Temperature ('C),S2,21.49
+Temperature ('C),S2,21.63
+Temperature ('C),S2,21.34
+Temperature ('C),S2,21.45
+Temperature ('C),S2,21.65
+Temperature ('C),S2,21.4
+Temperature ('C),S2,21.27
+Temperature ('C),S2,21.44
+Temperature ('C),S2,21.31
+Temperature ('C),S2,21.42
+Temperature ('C),S2,21.48
+Temperature ('C),S2,21.51
+Temperature ('C),S3,21.3
+Temperature ('C),S3,21.04
+Temperature ('C),S3,21.16
+Temperature ('C),S3,21.27
+Temperature ('C),S3,20.51
+Temperature ('C),S3,21.27
+Temperature ('C),S3,20.89
+Temperature ('C),S3,20.59
+Temperature ('C),S3,20.65
+Temperature ('C),S3,20.56
+Temperature ('C),S3,21.25
+Temperature ('C),S3,20.85
+Temperature ('C),S3,20.59
+Temperature ('C),S3,21.27
+Temperature ('C),S3,21.21
+Temperature ('C),S3,20.5
+Temperature ('C),S3,20.36
+Temperature ('C),S3,20.44
+Temperature ('C),S3,20.4
+Temperature ('C),S3,20.33
+Temperature ('C),S3,20.37
+Temperature ('C),S3,20.32
+Temperature ('C),S3,20.48
+Temperature ('C),S3,20.46
+Temperature ('C),S3,20.49
+Temperature ('C),S3,20.5
+Temperature ('C),S3,20.43
+Temperature ('C),S3,20.39
+Temperature ('C),S3,20.43
+Temperature ('C),S3,20.44
+Temperature ('C),S3,20.42
+Temperature ('C),S3,20.3
+Temperature ('C),S3,20.16
+Temperature ('C),S3,20.3
+Temperature ('C),S3,20.19
+Temperature ('C),S3,20.13
+Temperature ('C),S3,20.24
+Temperature ('C),S3,20.11
+Temperature ('C),S3,20.16
+Temperature ('C),S3,20.24
+Temperature ('C),S3,20.14
+Temperature ('C),S3,20.14
+Temperature ('C),S3,20.17
+Temperature ('C),S3,20.23
+Temperature ('C),S3,20.18
+Temperature ('C),S3,20.29
+Temperature ('C),S3,20.1
+Temperature ('C),S3,20.72
+Temperature ('C),S3,20.63
+Temperature ('C),S3,20.64
+Temperature ('C),S3,20.97
+Temperature ('C),S3,20.89
+Temperature ('C),S3,21.03
+Temperature ('C),S3,20.52
+Temperature ('C),S3,20.44
+Temperature ('C),S3,20.49
+Temperature ('C),S3,20.98
+Temperature ('C),S3,20.53
+Temperature ('C),S3,20.89
+Temperature ('C),S3,20.75
+Temperature ('C),S3,21.07
+Temperature ('C),S3,20.64
+Temperature ('C),S3,21.1
+Temperature ('C),S3,21.62
+Temperature ('C),S3,21.44
+Temperature ('C),S3,21.66
+Temperature ('C),S3,21.22
+Temperature ('C),S3,21.49
+Temperature ('C),S3,21.65
+Temperature ('C),S3,21.42
+Temperature ('C),S3,21.38
+Temperature ('C),S3,21.58
+Temperature ('C),S3,21.34
+Temperature ('C),S3,21.37
+Temperature ('C),S3,21.46
+Temperature ('C),S3,21.7
+Temperature ('C),S3,21.86
+Temperature ('C),S3,22.48
+Temperature ('C),S3,24.64
+Temperature ('C),S3,24.28
+Temperature ('C),S3,22.72
+Temperature ('C),S3,22.07
+Temperature ('C),S3,22.61
+Temperature ('C),S3,22.45
+Temperature ('C),S3,23.16
+Temperature ('C),S3,24.16
+Temperature ('C),S3,23.43
+Temperature ('C),S3,23.87
+Temperature ('C),S3,22.07
+Temperature ('C),S3,22.45
+Temperature ('C),S3,24.8
+Temperature ('C),S3,25.8
+Temperature ('C),S3,25.43
+Temperature ('C),S3,25.93
+Temperature ('C),S3,25.84
+Temperature ('C),S3,25.04
+Temperature ('C),S3,25.51
+Temperature ('C),S3,25.07
+Temperature ('C),S3,26.39
+Temperature ('C),S3,26.42
+Temperature ('C),S3,26.64
+Temperature ('C),S3,25.5
+Temperature ('C),S3,26.71
+Temperature ('C),S3,25.32
+Temperature ('C),S3,26.78
+Temperature ('C),S3,27.0
+Temperature ('C),S3,27.66
+Temperature ('C),S3,27.85
+Temperature ('C),S3,27.95
+Temperature ('C),S3,27.3
+Temperature ('C),S3,28.47
+Temperature ('C),S3,27.17
+Temperature ('C),S3,27.36
+Temperature ('C),S3,27.63
+Temperature ('C),S3,28.73
+Temperature ('C),S3,27.07
+Temperature ('C),S3,28.39
+Temperature ('C),S3,28.05
+Temperature ('C),S3,28.93
+Temperature ('C),S3,28.26
+Temperature ('C),S3,27.16
+Temperature ('C),S3,29.3
+Temperature ('C),S3,30.94
+Temperature ('C),S3,30.55
+Temperature ('C),S3,30.23
+Temperature ('C),S3,29.7
+Temperature ('C),S3,29.61
+Temperature ('C),S3,29.38
+Temperature ('C),S3,30.28
+Temperature ('C),S3,30.95
+Temperature ('C),S3,29.32
+Temperature ('C),S3,29.54
+Temperature ('C),S3,30.05
+Temperature ('C),S3,31.15
+Temperature ('C),S3,29.97
+Temperature ('C),S3,29.93
+Temperature ('C),S3,31.2
+Temperature ('C),S3,31.97
+Temperature ('C),S3,31.61
+Temperature ('C),S3,32.54
+Temperature ('C),S3,31.32
+Temperature ('C),S3,32.11
+Temperature ('C),S3,31.63
+Temperature ('C),S3,32.54
+Temperature ('C),S3,31.46
+Temperature ('C),S3,31.62
+Temperature ('C),S3,31.89
+Temperature ('C),S3,31.44
+Temperature ('C),S3,32.67
+Temperature ('C),S3,32.02
+Temperature ('C),S3,31.98
+Temperature ('C),S3,32.9
+Temperature ('C),S3,32.67
+Temperature ('C),S3,32.67
+Temperature ('C),S3,32.36
+Temperature ('C),S3,32.38
+Temperature ('C),S3,32.54
+Temperature ('C),S3,32.5
+Temperature ('C),S3,32.83
+Temperature ('C),S3,32.73
+Temperature ('C),S3,32.55
+Temperature ('C),S3,32.66
+Temperature ('C),S3,32.52
+Temperature ('C),S3,32.38
+Temperature ('C),S3,32.74
+Temperature ('C),S3,32.59
+Temperature ('C),S3,32.3
+Temperature ('C),S3,30.63
+Temperature ('C),S3,31.85
+Temperature ('C),S3,32.01
+Temperature ('C),S3,30.86
+Temperature ('C),S3,31.33
+Temperature ('C),S3,30.66
+Temperature ('C),S3,30.66
+Temperature ('C),S3,31.04
+Temperature ('C),S3,32.23
+Temperature ('C),S3,31.53
+Temperature ('C),S3,32.22
+Temperature ('C),S3,32.09
+Temperature ('C),S3,31.83
+Temperature ('C),S3,31.04
+Temperature ('C),S3,30.7
+Temperature ('C),S3,30.3
+Temperature ('C),S3,28.48
+Temperature ('C),S3,29.39
+Temperature ('C),S3,29.25
+Temperature ('C),S3,28.61
+Temperature ('C),S3,28.67
+Temperature ('C),S3,29.97
+Temperature ('C),S3,29.05
+Temperature ('C),S3,28.56
+Temperature ('C),S3,29.7
+Temperature ('C),S3,28.98
+Temperature ('C),S3,30.08
+Temperature ('C),S3,29.57
+Temperature ('C),S3,30.05
+Temperature ('C),S3,29.97
+Temperature ('C),S3,28.4
+Temperature ('C),S3,28.15
+Temperature ('C),S3,27.96
+Temperature ('C),S3,28.15
+Temperature ('C),S3,28.31
+Temperature ('C),S3,28.06
+Temperature ('C),S3,28.13
+Temperature ('C),S3,28.16
+Temperature ('C),S3,28.19
+Temperature ('C),S3,28.35
+Temperature ('C),S3,28.34
+Temperature ('C),S3,28.22
+Temperature ('C),S3,28.34
+Temperature ('C),S3,28.13
+Temperature ('C),S3,28.26
+Temperature ('C),S3,27.9
+Temperature ('C),S3,27.85
+Temperature ('C),S3,27.43
+Temperature ('C),S3,27.63
+Temperature ('C),S3,27.49
+Temperature ('C),S3,27.43
+Temperature ('C),S3,27.45
+Temperature ('C),S3,27.25
+Temperature ('C),S3,27.33
+Temperature ('C),S3,27.53
+Temperature ('C),S3,27.74
+Temperature ('C),S3,27.23
+Temperature ('C),S3,27.44
+Temperature ('C),S3,27.56
+Temperature ('C),S3,27.66
+Temperature ('C),S3,27.2
+Temperature ('C),S3,26.41
+Temperature ('C),S3,27.07
+Temperature ('C),S3,26.41
+Temperature ('C),S3,26.56
+Temperature ('C),S3,26.6
+Temperature ('C),S3,26.44
+Temperature ('C),S3,26.63
+Temperature ('C),S3,26.83
+Temperature ('C),S3,26.53
+Temperature ('C),S3,27.19
+Temperature ('C),S3,26.49
+Temperature ('C),S3,26.95
+Temperature ('C),S3,26.88
+Temperature ('C),S3,26.69
+Temperature ('C),S3,27.1
+Temperature ('C),S3,26.4
+Temperature ('C),S3,26.41
+Temperature ('C),S3,27.07
+Temperature ('C),S3,26.41
+Temperature ('C),S3,26.56
+Temperature ('C),S3,26.6
+Temperature ('C),S3,26.44
+Temperature ('C),S3,26.63
+Temperature ('C),S3,26.83
+Temperature ('C),S3,26.53
+Temperature ('C),S3,27.19
+Temperature ('C),S3,26.49
+Temperature ('C),S3,26.95
+Temperature ('C),S3,26.88
+Temperature ('C),S3,26.69
+Temperature ('C),S3,26.2
+Temperature ('C),S3,26.12
+Temperature ('C),S3,25.59
+Temperature ('C),S3,25.75
+Temperature ('C),S3,26.11
+Temperature ('C),S3,25.58
+Temperature ('C),S3,25.88
+Temperature ('C),S3,25.42
+Temperature ('C),S3,25.8
+Temperature ('C),S3,25.38
+Temperature ('C),S3,25.61
+Temperature ('C),S3,25.73
+Temperature ('C),S3,25.69
+Temperature ('C),S3,25.78
+Temperature ('C),S3,25.64
+Temperature ('C),S3,25.49
+Temperature ('C),S3,25.3
+Temperature ('C),S3,24.85
+Temperature ('C),S3,24.85
+Temperature ('C),S3,24.99
+Temperature ('C),S3,24.94
+Temperature ('C),S3,25.09
+Temperature ('C),S3,24.71
+Temperature ('C),S3,25.3
+Temperature ('C),S3,25.01
+Temperature ('C),S3,25.09
+Temperature ('C),S3,25.17
+Temperature ('C),S3,24.85
+Temperature ('C),S3,24.92
+Temperature ('C),S3,24.86
+Temperature ('C),S3,25.26
+Temperature ('C),S3,24.7
+Temperature ('C),S3,23.52
+Temperature ('C),S3,24.25
+Temperature ('C),S3,23.99
+Temperature ('C),S3,24.28
+Temperature ('C),S3,23.76
+Temperature ('C),S3,24.6
+Temperature ('C),S3,24.36
+Temperature ('C),S3,24.17
+Temperature ('C),S3,24.69
+Temperature ('C),S3,24.42
+Temperature ('C),S3,23.7
+Temperature ('C),S3,23.97
+Temperature ('C),S3,23.59
+Temperature ('C),S3,24.63
+Temperature ('C),S3,23.5
+Temperature ('C),S3,23.08
+Temperature ('C),S3,23.48
+Temperature ('C),S3,23.1
+Temperature ('C),S3,23.2
+Temperature ('C),S3,23.36
+Temperature ('C),S3,23.31
+Temperature ('C),S3,23.14
+Temperature ('C),S3,23.38
+Temperature ('C),S3,23.34
+Temperature ('C),S3,23.23
+Temperature ('C),S3,23.16
+Temperature ('C),S3,23.39
+Temperature ('C),S3,23.33
+Temperature ('C),S3,23.19
+Temperature ('C),S3,23.0
+Temperature ('C),S3,22.95
+Temperature ('C),S3,22.8
+Temperature ('C),S3,23.0
+Temperature ('C),S3,22.82
+Temperature ('C),S3,22.65
+Temperature ('C),S3,22.63
+Temperature ('C),S3,22.73
+Temperature ('C),S3,22.54
+Temperature ('C),S3,23.0
+Temperature ('C),S3,22.94
+Temperature ('C),S3,22.72
+Temperature ('C),S3,22.66
+Temperature ('C),S3,22.94
+Temperature ('C),S3,22.62
+Temperature ('C),S3,22.69
+Temperature ('C),S3,22.4
+Temperature ('C),S3,22.07
+Temperature ('C),S3,22.16
+Temperature ('C),S3,22.35
+Temperature ('C),S3,22.17
+Temperature ('C),S3,22.24
+Temperature ('C),S3,22.24
+Temperature ('C),S3,22.04
+Temperature ('C),S3,22.34
+Temperature ('C),S3,22.09
+Temperature ('C),S3,22.26
+Temperature ('C),S3,22.07
+Temperature ('C),S3,22.29
+Temperature ('C),S3,22.21
+Temperature ('C),S3,21.94
+Temperature ('C),S3,21.9
+Temperature ('C),S3,21.43
+Temperature ('C),S3,21.38
+Temperature ('C),S3,21.54
+Temperature ('C),S3,21.74
+Temperature ('C),S3,21.61
+Temperature ('C),S3,21.42
+Temperature ('C),S3,21.74
+Temperature ('C),S3,21.56
+Temperature ('C),S3,21.3
+Temperature ('C),S3,21.1
+Temperature ('C),S3,21.52
+Temperature ('C),S3,21.25
+Temperature ('C),S3,21.82
+Temperature ('C),S3,21.69
+Temperature ('C),S4,21.4
+Temperature ('C),S4,20.75
+Temperature ('C),S4,21.17
+Temperature ('C),S4,21.2
+Temperature ('C),S4,20.81
+Temperature ('C),S4,21.22
+Temperature ('C),S4,21.14
+Temperature ('C),S4,21.22
+Temperature ('C),S4,21.2
+Temperature ('C),S4,20.87
+Temperature ('C),S4,21.12
+Temperature ('C),S4,20.95
+Temperature ('C),S4,20.77
+Temperature ('C),S4,21.12
+Temperature ('C),S4,21.26
+Temperature ('C),S4,20.7
+Temperature ('C),S4,20.68
+Temperature ('C),S4,20.55
+Temperature ('C),S4,20.3
+Temperature ('C),S4,20.69
+Temperature ('C),S4,20.28
+Temperature ('C),S4,20.6
+Temperature ('C),S4,20.33
+Temperature ('C),S4,20.36
+Temperature ('C),S4,20.33
+Temperature ('C),S4,20.44
+Temperature ('C),S4,20.29
+Temperature ('C),S4,20.34
+Temperature ('C),S4,20.43
+Temperature ('C),S4,20.63
+Temperature ('C),S4,20.47
+Temperature ('C),S4,20.2
+Temperature ('C),S4,20.11
+Temperature ('C),S4,19.91
+Temperature ('C),S4,20.03
+Temperature ('C),S4,20.09
+Temperature ('C),S4,20.03
+Temperature ('C),S4,20.09
+Temperature ('C),S4,20.01
+Temperature ('C),S4,20.17
+Temperature ('C),S4,19.95
+Temperature ('C),S4,20.1
+Temperature ('C),S4,20.17
+Temperature ('C),S4,19.97
+Temperature ('C),S4,20.1
+Temperature ('C),S4,20.17
+Temperature ('C),S4,19.9
+Temperature ('C),S4,20.69
+Temperature ('C),S4,20.63
+Temperature ('C),S4,20.22
+Temperature ('C),S4,20.24
+Temperature ('C),S4,20.3
+Temperature ('C),S4,20.12
+Temperature ('C),S4,20.86
+Temperature ('C),S4,20.74
+Temperature ('C),S4,20.25
+Temperature ('C),S4,20.83
+Temperature ('C),S4,20.63
+Temperature ('C),S4,20.82
+Temperature ('C),S4,19.96
+Temperature ('C),S4,20.34
+Temperature ('C),S4,19.9
+Temperature ('C),S4,20.9
+Temperature ('C),S4,21.27
+Temperature ('C),S4,21.31
+Temperature ('C),S4,21.44
+Temperature ('C),S4,21.16
+Temperature ('C),S4,21.29
+Temperature ('C),S4,20.97
+Temperature ('C),S4,21.07
+Temperature ('C),S4,21.43
+Temperature ('C),S4,21.25
+Temperature ('C),S4,21.34
+Temperature ('C),S4,21.01
+Temperature ('C),S4,21.01
+Temperature ('C),S4,21.5
+Temperature ('C),S4,23.93
+Temperature ('C),S4,24.61
+Temperature ('C),S4,22.93
+Temperature ('C),S4,23.88
+Temperature ('C),S4,23.19
+Temperature ('C),S4,22.16
+Temperature ('C),S4,23.23
+Temperature ('C),S4,23.48
+Temperature ('C),S4,23.2
+Temperature ('C),S4,24.34
+Temperature ('C),S4,24.14
+Temperature ('C),S4,23.36
+Temperature ('C),S4,23.48
+Temperature ('C),S4,21.81
+Temperature ('C),S4,24.7
+Temperature ('C),S4,25.85
+Temperature ('C),S4,26.83
+Temperature ('C),S4,24.89
+Temperature ('C),S4,24.84
+Temperature ('C),S4,25.27
+Temperature ('C),S4,25.57
+Temperature ('C),S4,26.63
+Temperature ('C),S4,26.43
+Temperature ('C),S4,25.02
+Temperature ('C),S4,24.74
+Temperature ('C),S4,26.42
+Temperature ('C),S4,25.77
+Temperature ('C),S4,26.16
+Temperature ('C),S4,26.58
+Temperature ('C),S4,26.9
+Temperature ('C),S4,29.35
+Temperature ('C),S4,29.44
+Temperature ('C),S4,27.71
+Temperature ('C),S4,28.94
+Temperature ('C),S4,28.58
+Temperature ('C),S4,26.91
+Temperature ('C),S4,27.43
+Temperature ('C),S4,27.03
+Temperature ('C),S4,27.45
+Temperature ('C),S4,28.45
+Temperature ('C),S4,27.27
+Temperature ('C),S4,27.26
+Temperature ('C),S4,28.88
+Temperature ('C),S4,28.19
+Temperature ('C),S4,28.2
+Temperature ('C),S4,29.7
+Temperature ('C),S4,30.98
+Temperature ('C),S4,31.19
+Temperature ('C),S4,29.7
+Temperature ('C),S4,30.02
+Temperature ('C),S4,30.5
+Temperature ('C),S4,30.04
+Temperature ('C),S4,30.3
+Temperature ('C),S4,29.77
+Temperature ('C),S4,30.62
+Temperature ('C),S4,30.39
+Temperature ('C),S4,29.86
+Temperature ('C),S4,30.67
+Temperature ('C),S4,30.83
+Temperature ('C),S4,30.84
+Temperature ('C),S4,31.3
+Temperature ('C),S4,32.11
+Temperature ('C),S4,31.95
+Temperature ('C),S4,32.54
+Temperature ('C),S4,31.88
+Temperature ('C),S4,32.55
+Temperature ('C),S4,31.6
+Temperature ('C),S4,31.92
+Temperature ('C),S4,31.58
+Temperature ('C),S4,31.61
+Temperature ('C),S4,32.0
+Temperature ('C),S4,32.54
+Temperature ('C),S4,32.31
+Temperature ('C),S4,31.63
+Temperature ('C),S4,32.66
+Temperature ('C),S4,32.8
+Temperature ('C),S4,32.64
+Temperature ('C),S4,32.51
+Temperature ('C),S4,32.66
+Temperature ('C),S4,32.23
+Temperature ('C),S4,32.45
+Temperature ('C),S4,32.3
+Temperature ('C),S4,32.46
+Temperature ('C),S4,32.68
+Temperature ('C),S4,32.66
+Temperature ('C),S4,32.5
+Temperature ('C),S4,32.21
+Temperature ('C),S4,32.15
+Temperature ('C),S4,32.37
+Temperature ('C),S4,32.65
+Temperature ('C),S4,32.1
+Temperature ('C),S4,30.69
+Temperature ('C),S4,31.55
+Temperature ('C),S4,30.4
+Temperature ('C),S4,32.05
+Temperature ('C),S4,31.13
+Temperature ('C),S4,31.1
+Temperature ('C),S4,31.33
+Temperature ('C),S4,30.76
+Temperature ('C),S4,31.34
+Temperature ('C),S4,31.13
+Temperature ('C),S4,30.25
+Temperature ('C),S4,31.83
+Temperature ('C),S4,31.7
+Temperature ('C),S4,31.13
+Temperature ('C),S4,31.71
+Temperature ('C),S4,30.1
+Temperature ('C),S4,29.32
+Temperature ('C),S4,29.19
+Temperature ('C),S4,28.97
+Temperature ('C),S4,28.18
+Temperature ('C),S4,29.84
+Temperature ('C),S4,29.57
+Temperature ('C),S4,28.96
+Temperature ('C),S4,28.75
+Temperature ('C),S4,28.24
+Temperature ('C),S4,28.34
+Temperature ('C),S4,28.46
+Temperature ('C),S4,29.43
+Temperature ('C),S4,28.33
+Temperature ('C),S4,29.83
+Temperature ('C),S4,28.1
+Temperature ('C),S4,27.92
+Temperature ('C),S4,27.96
+Temperature ('C),S4,28.03
+Temperature ('C),S4,28.07
+Temperature ('C),S4,27.93
+Temperature ('C),S4,27.94
+Temperature ('C),S4,28.09
+Temperature ('C),S4,28.01
+Temperature ('C),S4,27.93
+Temperature ('C),S4,27.99
+Temperature ('C),S4,28.0
+Temperature ('C),S4,27.92
+Temperature ('C),S4,28.0
+Temperature ('C),S4,28.05
+Temperature ('C),S4,27.9
+Temperature ('C),S4,27.77
+Temperature ('C),S4,27.17
+Temperature ('C),S4,27.84
+Temperature ('C),S4,27.69
+Temperature ('C),S4,27.26
+Temperature ('C),S4,27.75
+Temperature ('C),S4,27.39
+Temperature ('C),S4,27.57
+Temperature ('C),S4,27.6
+Temperature ('C),S4,27.84
+Temperature ('C),S4,27.26
+Temperature ('C),S4,27.3
+Temperature ('C),S4,27.64
+Temperature ('C),S4,27.64
+Temperature ('C),S4,27.1
+Temperature ('C),S4,27.06
+Temperature ('C),S4,27.09
+Temperature ('C),S4,26.93
+Temperature ('C),S4,26.36
+Temperature ('C),S4,26.83
+Temperature ('C),S4,26.96
+Temperature ('C),S4,26.81
+Temperature ('C),S4,27.04
+Temperature ('C),S4,26.4
+Temperature ('C),S4,26.36
+Temperature ('C),S4,27.0
+Temperature ('C),S4,26.76
+Temperature ('C),S4,27.05
+Temperature ('C),S4,26.79
+Temperature ('C),S4,26.71
+Temperature ('C),S4,26.2
+Temperature ('C),S4,27.06
+Temperature ('C),S4,27.09
+Temperature ('C),S4,26.93
+Temperature ('C),S4,26.36
+Temperature ('C),S4,26.83
+Temperature ('C),S4,26.96
+Temperature ('C),S4,26.81
+Temperature ('C),S4,27.04
+Temperature ('C),S4,26.4
+Temperature ('C),S4,26.36
+Temperature ('C),S4,27.0
+Temperature ('C),S4,26.76
+Temperature ('C),S4,27.05
+Temperature ('C),S4,26.79
+Temperature ('C),S4,26.1
+Temperature ('C),S4,25.95
+Temperature ('C),S4,25.2
+Temperature ('C),S4,25.51
+Temperature ('C),S4,25.81
+Temperature ('C),S4,25.07
+Temperature ('C),S4,25.24
+Temperature ('C),S4,25.06
+Temperature ('C),S4,25.66
+Temperature ('C),S4,25.88
+Temperature ('C),S4,25.24
+Temperature ('C),S4,25.52
+Temperature ('C),S4,25.47
+Temperature ('C),S4,25.38
+Temperature ('C),S4,25.04
+Temperature ('C),S4,25.17
+Temperature ('C),S4,25.0
+Temperature ('C),S4,24.96
+Temperature ('C),S4,24.63
+Temperature ('C),S4,24.94
+Temperature ('C),S4,24.83
+Temperature ('C),S4,24.83
+Temperature ('C),S4,24.97
+Temperature ('C),S4,24.62
+Temperature ('C),S4,24.61
+Temperature ('C),S4,24.82
+Temperature ('C),S4,24.99
+Temperature ('C),S4,24.74
+Temperature ('C),S4,24.87
+Temperature ('C),S4,24.64
+Temperature ('C),S4,25.0
+Temperature ('C),S4,24.5
+Temperature ('C),S4,23.54
+Temperature ('C),S4,24.41
+Temperature ('C),S4,23.15
+Temperature ('C),S4,23.44
+Temperature ('C),S4,23.2
+Temperature ('C),S4,24.13
+Temperature ('C),S4,23.83
+Temperature ('C),S4,23.76
+Temperature ('C),S4,23.82
+Temperature ('C),S4,24.32
+Temperature ('C),S4,23.8
+Temperature ('C),S4,24.25
+Temperature ('C),S4,24.41
+Temperature ('C),S4,23.97
+Temperature ('C),S4,23.1
+Temperature ('C),S4,22.95
+Temperature ('C),S4,22.65
+Temperature ('C),S4,22.68
+Temperature ('C),S4,23.04
+Temperature ('C),S4,22.99
+Temperature ('C),S4,22.69
+Temperature ('C),S4,23.07
+Temperature ('C),S4,22.94
+Temperature ('C),S4,22.6
+Temperature ('C),S4,22.68
+Temperature ('C),S4,23.0
+Temperature ('C),S4,22.86
+Temperature ('C),S4,22.65
+Temperature ('C),S4,22.83
+Temperature ('C),S4,22.6
+Temperature ('C),S4,22.04
+Temperature ('C),S4,22.11
+Temperature ('C),S4,22.08
+Temperature ('C),S4,22.26
+Temperature ('C),S4,22.41
+Temperature ('C),S4,22.28
+Temperature ('C),S4,22.11
+Temperature ('C),S4,22.41
+Temperature ('C),S4,22.07
+Temperature ('C),S4,22.46
+Temperature ('C),S4,22.19
+Temperature ('C),S4,22.4
+Temperature ('C),S4,22.43
+Temperature ('C),S4,22.1
+Temperature ('C),S4,22.22
+Temperature ('C),S4,22.0
+Temperature ('C),S4,21.98
+Temperature ('C),S4,21.89
+Temperature ('C),S4,21.98
+Temperature ('C),S4,21.92
+Temperature ('C),S4,21.84
+Temperature ('C),S4,21.95
+Temperature ('C),S4,21.86
+Temperature ('C),S4,21.9
+Temperature ('C),S4,21.87
+Temperature ('C),S4,21.83
+Temperature ('C),S4,21.84
+Temperature ('C),S4,21.86
+Temperature ('C),S4,21.91
+Temperature ('C),S4,21.82
+Temperature ('C),S4,21.8
+Temperature ('C),S4,21.67
+Temperature ('C),S4,21.62
+Temperature ('C),S4,21.58
+Temperature ('C),S4,21.55
+Temperature ('C),S4,21.55
+Temperature ('C),S4,21.55
+Temperature ('C),S4,21.7
+Temperature ('C),S4,21.55
+Temperature ('C),S4,21.53
+Temperature ('C),S4,21.58
+Temperature ('C),S4,21.79
+Temperature ('C),S4,21.79
+Temperature ('C),S4,21.57
+Temperature ('C),S4,21.75
+pH,S1,7.73
+pH,S1,7.82
+pH,S1,7.73
+pH,S1,7.82
+pH,S1,7.76
+pH,S1,7.8
+pH,S1,7.78
+pH,S1,7.79
+pH,S1,7.74
+pH,S1,7.75
+pH,S1,7.75
+pH,S1,7.76
+pH,S1,7.75
+pH,S1,7.77
+pH,S1,7.76
+pH,S1,7.82
+pH,S1,7.84
+pH,S1,7.9
+pH,S1,7.85
+pH,S1,7.86
+pH,S1,7.92
+pH,S1,7.88
+pH,S1,7.94
+pH,S1,7.9
+pH,S1,7.83
+pH,S1,7.94
+pH,S1,7.89
+pH,S1,7.85
+pH,S1,7.93
+pH,S1,7.85
+pH,S1,7.83
+pH,S1,7.95
+pH,S1,8.11
+pH,S1,8.11
+pH,S1,8.13
+pH,S1,7.97
+pH,S1,8.12
+pH,S1,7.98
+pH,S1,8.03
+pH,S1,8.14
+pH,S1,7.98
+pH,S1,8.11
+pH,S1,8.1
+pH,S1,7.96
+pH,S1,8.04
+pH,S1,8.0
+pH,S1,8.17
+pH,S1,8.2
+pH,S1,8.2
+pH,S1,8.19
+pH,S1,8.19
+pH,S1,8.21
+pH,S1,8.18
+pH,S1,8.18
+pH,S1,8.2
+pH,S1,8.25
+pH,S1,8.24
+pH,S1,8.2
+pH,S1,8.2
+pH,S1,8.26
+pH,S1,8.19
+pH,S1,8.2
+pH,S1,8.26
+pH,S1,8.46
+pH,S1,8.46
+pH,S1,8.3
+pH,S1,8.29
+pH,S1,8.46
+pH,S1,8.34
+pH,S1,8.47
+pH,S1,8.28
+pH,S1,8.35
+pH,S1,8.35
+pH,S1,8.47
+pH,S1,8.42
+pH,S1,8.49
+pH,S1,8.13
+pH,S1,8.48
+pH,S1,8.37
+pH,S1,8.42
+pH,S1,8.06
+pH,S1,8.14
+pH,S1,8.27
+pH,S1,8.31
+pH,S1,8.43
+pH,S1,8.22
+pH,S1,8.13
+pH,S1,8.03
+pH,S1,8.19
+pH,S1,8.4
+pH,S1,8.02
+pH,S1,7.95
+pH,S1,7.38
+pH,S1,7.37
+pH,S1,7.89
+pH,S1,7.85
+pH,S1,7.39
+pH,S1,7.77
+pH,S1,7.67
+pH,S1,7.99
+pH,S1,7.65
+pH,S1,7.95
+pH,S1,7.7
+pH,S1,7.64
+pH,S1,7.96
+pH,S1,7.32
+pH,S1,7.01
+pH,S1,7.24
+pH,S1,7.21
+pH,S1,7.03
+pH,S1,7.04
+pH,S1,7.2
+pH,S1,7.13
+pH,S1,6.86
+pH,S1,7.2
+pH,S1,7.13
+pH,S1,7.05
+pH,S1,6.89
+pH,S1,7.03
+pH,S1,6.93
+pH,S1,6.9
+pH,S1,6.83
+pH,S1,6.6
+pH,S1,6.25
+pH,S1,6.32
+pH,S1,6.52
+pH,S1,6.27
+pH,S1,6.7
+pH,S1,6.27
+pH,S1,6.26
+pH,S1,6.36
+pH,S1,6.46
+pH,S1,6.57
+pH,S1,6.77
+pH,S1,6.66
+pH,S1,6.4
+pH,S1,6.22
+pH,S1,6.26
+pH,S1,6.26
+pH,S1,6.28
+pH,S1,6.27
+pH,S1,6.28
+pH,S1,6.24
+pH,S1,6.26
+pH,S1,6.28
+pH,S1,6.29
+pH,S1,6.29
+pH,S1,6.29
+pH,S1,6.28
+pH,S1,6.26
+pH,S1,6.24
+pH,S1,6.3
+pH,S1,6.34
+pH,S1,6.38
+pH,S1,6.38
+pH,S1,6.33
+pH,S1,6.36
+pH,S1,6.38
+pH,S1,6.3
+pH,S1,6.3
+pH,S1,6.32
+pH,S1,6.4
+pH,S1,6.31
+pH,S1,6.33
+pH,S1,6.36
+pH,S1,6.32
+pH,S1,6.41
+pH,S1,6.48
+pH,S1,6.42
+pH,S1,6.44
+pH,S1,6.44
+pH,S1,6.51
+pH,S1,6.52
+pH,S1,6.42
+pH,S1,6.41
+pH,S1,6.48
+pH,S1,6.42
+pH,S1,6.46
+pH,S1,6.45
+pH,S1,6.55
+pH,S1,6.52
+pH,S1,6.46
+pH,S1,6.56
+pH,S1,6.6
+pH,S1,6.83
+pH,S1,6.65
+pH,S1,6.97
+pH,S1,6.76
+pH,S1,6.66
+pH,S1,6.95
+pH,S1,6.97
+pH,S1,6.98
+pH,S1,6.72
+pH,S1,6.59
+pH,S1,6.91
+pH,S1,6.88
+pH,S1,6.85
+pH,S1,6.98
+pH,S1,7.05
+pH,S1,7.03
+pH,S1,7.08
+pH,S1,6.99
+pH,S1,7.06
+pH,S1,7.06
+pH,S1,7.01
+pH,S1,6.99
+pH,S1,7.08
+pH,S1,7.06
+pH,S1,7.11
+pH,S1,7.01
+pH,S1,7.06
+pH,S1,7.05
+pH,S1,7.11
+pH,S1,7.21
+pH,S1,7.23
+pH,S1,7.17
+pH,S1,7.17
+pH,S1,7.2
+pH,S1,7.18
+pH,S1,7.16
+pH,S1,7.22
+pH,S1,7.16
+pH,S1,7.13
+pH,S1,7.17
+pH,S1,7.17
+pH,S1,7.22
+pH,S1,7.18
+pH,S1,7.23
+pH,S1,7.2
+pH,S1,7.19
+pH,S1,7.18
+pH,S1,7.16
+pH,S1,7.19
+pH,S1,7.22
+pH,S1,7.17
+pH,S1,7.21
+pH,S1,7.2
+pH,S1,7.17
+pH,S1,7.21
+pH,S1,7.17
+pH,S1,7.2
+pH,S1,7.16
+pH,S1,7.2
+pH,S1,7.15
+pH,S1,7.2
+pH,S1,7.19
+pH,S1,7.18
+pH,S1,7.16
+pH,S1,7.19
+pH,S1,7.22
+pH,S1,7.17
+pH,S1,7.21
+pH,S1,7.2
+pH,S1,7.17
+pH,S1,7.21
+pH,S1,7.17
+pH,S1,7.2
+pH,S1,7.16
+pH,S1,7.12
+pH,S1,7.23
+pH,S1,7.16
+pH,S1,7.16
+pH,S1,7.18
+pH,S1,7.15
+pH,S1,7.16
+pH,S1,7.28
+pH,S1,7.21
+pH,S1,7.16
+pH,S1,7.23
+pH,S1,7.25
+pH,S1,7.18
+pH,S1,7.24
+pH,S1,7.13
+pH,S1,7.29
+pH,S1,7.29
+pH,S1,7.43
+pH,S1,7.37
+pH,S1,7.3
+pH,S1,7.36
+pH,S1,7.37
+pH,S1,7.36
+pH,S1,7.31
+pH,S1,7.42
+pH,S1,7.42
+pH,S1,7.42
+pH,S1,7.4
+pH,S1,7.4
+pH,S1,7.33
+pH,S1,7.32
+pH,S1,7.45
+pH,S1,7.45
+pH,S1,7.48
+pH,S1,7.5
+pH,S1,7.48
+pH,S1,7.47
+pH,S1,7.47
+pH,S1,7.48
+pH,S1,7.48
+pH,S1,7.51
+pH,S1,7.46
+pH,S1,7.5
+pH,S1,7.45
+pH,S1,7.5
+pH,S1,7.47
+pH,S1,7.51
+pH,S1,7.51
+pH,S1,7.55
+pH,S1,7.54
+pH,S1,7.55
+pH,S1,7.53
+pH,S1,7.53
+pH,S1,7.56
+pH,S1,7.56
+pH,S1,7.53
+pH,S1,7.58
+pH,S1,7.57
+pH,S1,7.51
+pH,S1,7.53
+pH,S1,7.51
+pH,S1,7.59
+pH,S1,7.59
+pH,S1,7.59
+pH,S1,7.6
+pH,S1,7.59
+pH,S1,7.59
+pH,S1,7.6
+pH,S1,7.59
+pH,S1,7.59
+pH,S1,7.59
+pH,S1,7.59
+pH,S1,7.59
+pH,S1,7.6
+pH,S1,7.6
+pH,S1,7.59
+pH,S1,7.6
+pH,S1,7.6
+pH,S1,7.67
+pH,S1,7.63
+pH,S1,7.68
+pH,S1,7.66
+pH,S1,7.63
+pH,S1,7.62
+pH,S1,7.66
+pH,S1,7.63
+pH,S1,7.64
+pH,S1,7.69
+pH,S1,7.61
+pH,S1,7.63
+pH,S1,7.62
+pH,S1,7.62
+pH,S1,7.69
+pH,S1,7.7
+pH,S1,7.71
+pH,S1,7.7
+pH,S1,7.74
+pH,S1,7.74
+pH,S1,7.74
+pH,S1,7.7
+pH,S1,7.7
+pH,S1,7.72
+pH,S1,7.71
+pH,S1,7.72
+pH,S1,7.74
+pH,S1,7.72
+pH,S1,7.72
+pH,S2,8.12
+pH,S2,8.08
+pH,S2,8.06
+pH,S2,8.09
+pH,S2,8.11
+pH,S2,8.11
+pH,S2,8.08
+pH,S2,8.09
+pH,S2,8.06
+pH,S2,8.07
+pH,S2,8.11
+pH,S2,8.11
+pH,S2,8.1
+pH,S2,8.11
+pH,S2,8.06
+pH,S2,8.06
+pH,S2,8.04
+pH,S2,8.04
+pH,S2,8.04
+pH,S2,8.05
+pH,S2,8.06
+pH,S2,8.04
+pH,S2,8.05
+pH,S2,8.05
+pH,S2,8.04
+pH,S2,8.06
+pH,S2,8.05
+pH,S2,8.06
+pH,S2,8.04
+pH,S2,8.05
+pH,S2,8.05
+pH,S2,8.04
+pH,S2,8.07
+pH,S2,8.1
+pH,S2,8.07
+pH,S2,8.1
+pH,S2,8.06
+pH,S2,8.08
+pH,S2,8.11
+pH,S2,8.05
+pH,S2,8.09
+pH,S2,8.07
+pH,S2,8.09
+pH,S2,8.08
+pH,S2,8.05
+pH,S2,8.09
+pH,S2,8.11
+pH,S2,8.16
+pH,S2,8.12
+pH,S2,8.16
+pH,S2,8.14
+pH,S2,8.14
+pH,S2,8.16
+pH,S2,8.13
+pH,S2,8.16
+pH,S2,8.13
+pH,S2,8.17
+pH,S2,8.13
+pH,S2,8.14
+pH,S2,8.16
+pH,S2,8.14
+pH,S2,8.13
+pH,S2,8.17
+pH,S2,8.21
+pH,S2,8.23
+pH,S2,8.23
+pH,S2,8.26
+pH,S2,8.32
+pH,S2,8.28
+pH,S2,8.19
+pH,S2,8.27
+pH,S2,8.22
+pH,S2,8.28
+pH,S2,8.23
+pH,S2,8.27
+pH,S2,8.33
+pH,S2,8.15
+pH,S2,8.21
+pH,S2,8.25
+pH,S2,8.24
+pH,S2,8.0
+pH,S2,8.27
+pH,S2,8.08
+pH,S2,8.23
+pH,S2,8.06
+pH,S2,8.06
+pH,S2,8.28
+pH,S2,8.03
+pH,S2,8.07
+pH,S2,8.12
+pH,S2,7.98
+pH,S2,7.73
+pH,S2,7.73
+pH,S2,7.75
+pH,S2,7.77
+pH,S2,7.79
+pH,S2,7.69
+pH,S2,7.8
+pH,S2,7.94
+pH,S2,7.82
+pH,S2,7.92
+pH,S2,7.72
+pH,S2,7.8
+pH,S2,7.79
+pH,S2,7.87
+pH,S2,7.65
+pH,S2,7.62
+pH,S2,7.36
+pH,S2,7.61
+pH,S2,7.61
+pH,S2,7.58
+pH,S2,7.0
+pH,S2,7.34
+pH,S2,7.48
+pH,S2,7.06
+pH,S2,7.34
+pH,S2,6.93
+pH,S2,7.44
+pH,S2,6.97
+pH,S2,7.41
+pH,S2,7.08
+pH,S2,6.91
+pH,S2,6.62
+pH,S2,6.85
+pH,S2,6.88
+pH,S2,6.42
+pH,S2,6.89
+pH,S2,6.39
+pH,S2,6.77
+pH,S2,6.54
+pH,S2,6.63
+pH,S2,6.43
+pH,S2,6.65
+pH,S2,6.74
+pH,S2,6.68
+pH,S2,6.54
+pH,S2,6.35
+pH,S2,6.39
+pH,S2,6.38
+pH,S2,6.37
+pH,S2,6.36
+pH,S2,6.37
+pH,S2,6.37
+pH,S2,6.39
+pH,S2,6.4
+pH,S2,6.38
+pH,S2,6.35
+pH,S2,6.38
+pH,S2,6.38
+pH,S2,6.38
+pH,S2,6.38
+pH,S2,6.42
+pH,S2,6.5
+pH,S2,6.45
+pH,S2,6.46
+pH,S2,6.45
+pH,S2,6.45
+pH,S2,6.49
+pH,S2,6.5
+pH,S2,6.47
+pH,S2,6.49
+pH,S2,6.42
+pH,S2,6.5
+pH,S2,6.44
+pH,S2,6.43
+pH,S2,6.44
+pH,S2,6.52
+pH,S2,6.49
+pH,S2,6.5
+pH,S2,6.49
+pH,S2,6.49
+pH,S2,6.48
+pH,S2,6.47
+pH,S2,6.48
+pH,S2,6.52
+pH,S2,6.5
+pH,S2,6.49
+pH,S2,6.5
+pH,S2,6.48
+pH,S2,6.5
+pH,S2,6.49
+pH,S2,6.52
+pH,S2,6.47
+pH,S2,6.79
+pH,S2,6.74
+pH,S2,6.92
+pH,S2,7.0
+pH,S2,6.55
+pH,S2,6.57
+pH,S2,6.73
+pH,S2,6.83
+pH,S2,6.53
+pH,S2,6.94
+pH,S2,6.63
+pH,S2,7.04
+pH,S2,6.51
+pH,S2,6.8
+pH,S2,7.05
+pH,S2,7.08
+pH,S2,7.11
+pH,S2,7.09
+pH,S2,7.13
+pH,S2,7.1
+pH,S2,7.08
+pH,S2,7.09
+pH,S2,7.15
+pH,S2,7.09
+pH,S2,7.06
+pH,S2,7.06
+pH,S2,7.06
+pH,S2,7.13
+pH,S2,7.07
+pH,S2,7.15
+pH,S2,7.19
+pH,S2,7.17
+pH,S2,7.2
+pH,S2,7.21
+pH,S2,7.16
+pH,S2,7.19
+pH,S2,7.2
+pH,S2,7.18
+pH,S2,7.19
+pH,S2,7.2
+pH,S2,7.19
+pH,S2,7.15
+pH,S2,7.17
+pH,S2,7.18
+pH,S2,7.22
+pH,S2,7.22
+pH,S2,7.21
+pH,S2,7.2
+pH,S2,7.19
+pH,S2,7.19
+pH,S2,7.2
+pH,S2,7.21
+pH,S2,7.2
+pH,S2,7.19
+pH,S2,7.21
+pH,S2,7.2
+pH,S2,7.21
+pH,S2,7.21
+pH,S2,7.22
+pH,S2,7.2
+pH,S2,7.19
+pH,S2,7.22
+pH,S2,7.21
+pH,S2,7.2
+pH,S2,7.19
+pH,S2,7.19
+pH,S2,7.2
+pH,S2,7.21
+pH,S2,7.2
+pH,S2,7.19
+pH,S2,7.21
+pH,S2,7.2
+pH,S2,7.21
+pH,S2,7.21
+pH,S2,7.22
+pH,S2,7.13
+pH,S2,7.37
+pH,S2,7.18
+pH,S2,7.27
+pH,S2,7.34
+pH,S2,7.27
+pH,S2,7.23
+pH,S2,7.19
+pH,S2,7.31
+pH,S2,7.15
+pH,S2,7.36
+pH,S2,7.21
+pH,S2,7.3
+pH,S2,7.22
+pH,S2,7.22
+pH,S2,7.26
+pH,S2,7.38
+pH,S2,7.56
+pH,S2,7.45
+pH,S2,7.48
+pH,S2,7.62
+pH,S2,7.47
+pH,S2,7.57
+pH,S2,7.39
+pH,S2,7.41
+pH,S2,7.61
+pH,S2,7.59
+pH,S2,7.51
+pH,S2,7.54
+pH,S2,7.52
+pH,S2,7.52
+pH,S2,7.69
+pH,S2,7.84
+pH,S2,7.73
+pH,S2,7.76
+pH,S2,7.81
+pH,S2,7.79
+pH,S2,7.75
+pH,S2,7.76
+pH,S2,7.78
+pH,S2,7.77
+pH,S2,7.73
+pH,S2,7.72
+pH,S2,7.77
+pH,S2,7.78
+pH,S2,7.7
+pH,S2,7.88
+pH,S2,7.9
+pH,S2,7.9
+pH,S2,7.9
+pH,S2,7.89
+pH,S2,7.9
+pH,S2,7.88
+pH,S2,7.89
+pH,S2,7.91
+pH,S2,7.88
+pH,S2,7.89
+pH,S2,7.9
+pH,S2,7.91
+pH,S2,7.91
+pH,S2,7.91
+pH,S2,7.92
+pH,S2,7.92
+pH,S2,7.93
+pH,S2,7.92
+pH,S2,7.92
+pH,S2,7.92
+pH,S2,7.92
+pH,S2,7.92
+pH,S2,7.92
+pH,S2,7.92
+pH,S2,7.92
+pH,S2,7.93
+pH,S2,7.92
+pH,S2,7.93
+pH,S2,7.93
+pH,S2,7.92
+pH,S2,7.93
+pH,S2,7.95
+pH,S2,7.94
+pH,S2,7.94
+pH,S2,7.94
+pH,S2,7.94
+pH,S2,7.95
+pH,S2,7.94
+pH,S2,7.95
+pH,S2,7.94
+pH,S2,7.95
+pH,S2,7.94
+pH,S2,7.94
+pH,S2,7.93
+pH,S2,7.93
+pH,S2,7.95
+pH,S2,8.06
+pH,S2,8.04
+pH,S2,8.07
+pH,S2,8.08
+pH,S2,8.0
+pH,S2,8.1
+pH,S2,8.03
+pH,S2,8.04
+pH,S2,7.98
+pH,S2,7.98
+pH,S2,7.97
+pH,S2,8.07
+pH,S2,8.09
+pH,S2,8.02
+pH,S3,7.91
+pH,S3,7.99
+pH,S3,8.12
+pH,S3,7.94
+pH,S3,8.0
+pH,S3,8.07
+pH,S3,7.92
+pH,S3,7.97
+pH,S3,8.06
+pH,S3,8.11
+pH,S3,8.03
+pH,S3,7.97
+pH,S3,7.97
+pH,S3,8.08
+pH,S3,8.02
+pH,S3,8.12
+pH,S3,8.24
+pH,S3,8.29
+pH,S3,8.27
+pH,S3,8.15
+pH,S3,8.13
+pH,S3,8.15
+pH,S3,8.22
+pH,S3,8.13
+pH,S3,8.24
+pH,S3,8.13
+pH,S3,8.19
+pH,S3,8.21
+pH,S3,8.25
+pH,S3,8.22
+pH,S3,8.18
+pH,S3,8.29
+pH,S3,8.27
+pH,S3,8.26
+pH,S3,8.24
+pH,S3,8.28
+pH,S3,8.26
+pH,S3,8.24
+pH,S3,8.24
+pH,S3,8.24
+pH,S3,8.24
+pH,S3,8.28
+pH,S3,8.23
+pH,S3,8.29
+pH,S3,8.24
+pH,S3,8.27
+pH,S3,8.22
+pH,S3,8.22
+pH,S3,8.24
+pH,S3,8.24
+pH,S3,8.23
+pH,S3,8.23
+pH,S3,8.25
+pH,S3,8.22
+pH,S3,8.23
+pH,S3,8.24
+pH,S3,8.23
+pH,S3,8.25
+pH,S3,8.23
+pH,S3,8.25
+pH,S3,8.23
+pH,S3,8.22
+pH,S3,8.25
+pH,S3,8.31
+pH,S3,8.31
+pH,S3,8.31
+pH,S3,8.25
+pH,S3,8.25
+pH,S3,8.28
+pH,S3,8.32
+pH,S3,8.31
+pH,S3,8.32
+pH,S3,8.31
+pH,S3,8.27
+pH,S3,8.32
+pH,S3,8.32
+pH,S3,8.15
+pH,S3,8.13
+pH,S3,8.2
+pH,S3,8.2
+pH,S3,8.16
+pH,S3,8.21
+pH,S3,8.15
+pH,S3,8.18
+pH,S3,8.16
+pH,S3,8.15
+pH,S3,8.15
+pH,S3,8.19
+pH,S3,8.21
+pH,S3,8.22
+pH,S3,8.1
+pH,S3,8.09
+pH,S3,8.09
+pH,S3,8.06
+pH,S3,7.94
+pH,S3,7.93
+pH,S3,7.86
+pH,S3,7.8
+pH,S3,8.06
+pH,S3,7.8
+pH,S3,7.84
+pH,S3,7.68
+pH,S3,8.08
+pH,S3,8.06
+pH,S3,7.8
+pH,S3,7.68
+pH,S3,7.19
+pH,S3,7.39
+pH,S3,7.67
+pH,S3,7.57
+pH,S3,7.25
+pH,S3,7.59
+pH,S3,7.21
+pH,S3,7.22
+pH,S3,7.51
+pH,S3,7.31
+pH,S3,7.12
+pH,S3,7.57
+pH,S3,7.3
+pH,S3,7.43
+pH,S3,7.26
+pH,S3,7.12
+pH,S3,6.91
+pH,S3,6.74
+pH,S3,6.65
+pH,S3,6.78
+pH,S3,6.52
+pH,S3,6.66
+pH,S3,7.01
+pH,S3,7.09
+pH,S3,6.5
+pH,S3,6.53
+pH,S3,6.79
+pH,S3,7.08
+pH,S3,6.78
+pH,S3,6.82
+pH,S3,6.37
+pH,S3,6.28
+pH,S3,6.36
+pH,S3,6.32
+pH,S3,6.27
+pH,S3,6.26
+pH,S3,6.28
+pH,S3,6.28
+pH,S3,6.26
+pH,S3,6.36
+pH,S3,6.28
+pH,S3,6.32
+pH,S3,6.25
+pH,S3,6.28
+pH,S3,6.25
+pH,S3,6.25
+pH,S3,6.22
+pH,S3,6.25
+pH,S3,6.19
+pH,S3,6.18
+pH,S3,6.22
+pH,S3,6.18
+pH,S3,6.17
+pH,S3,6.19
+pH,S3,6.19
+pH,S3,6.18
+pH,S3,6.21
+pH,S3,6.19
+pH,S3,6.23
+pH,S3,6.23
+pH,S3,6.16
+pH,S3,6.25
+pH,S3,6.26
+pH,S3,6.18
+pH,S3,6.32
+pH,S3,6.22
+pH,S3,6.32
+pH,S3,6.31
+pH,S3,6.32
+pH,S3,6.21
+pH,S3,6.26
+pH,S3,6.24
+pH,S3,6.27
+pH,S3,6.24
+pH,S3,6.22
+pH,S3,6.31
+pH,S3,6.33
+pH,S3,6.34
+pH,S3,6.82
+pH,S3,6.41
+pH,S3,6.36
+pH,S3,6.47
+pH,S3,6.85
+pH,S3,6.74
+pH,S3,6.42
+pH,S3,6.81
+pH,S3,6.76
+pH,S3,6.62
+pH,S3,6.67
+pH,S3,6.58
+pH,S3,6.82
+pH,S3,6.88
+pH,S3,7.0
+pH,S3,6.97
+pH,S3,6.92
+pH,S3,7.18
+pH,S3,7.09
+pH,S3,7.07
+pH,S3,7.02
+pH,S3,7.01
+pH,S3,7.14
+pH,S3,7.06
+pH,S3,7.17
+pH,S3,7.06
+pH,S3,7.17
+pH,S3,6.92
+pH,S3,7.2
+pH,S3,7.21
+pH,S3,7.29
+pH,S3,7.22
+pH,S3,7.25
+pH,S3,7.21
+pH,S3,7.22
+pH,S3,7.2
+pH,S3,7.22
+pH,S3,7.2
+pH,S3,7.25
+pH,S3,7.29
+pH,S3,7.23
+pH,S3,7.29
+pH,S3,7.3
+pH,S3,7.3
+pH,S3,7.23
+pH,S3,7.25
+pH,S3,7.24
+pH,S3,7.22
+pH,S3,7.22
+pH,S3,7.29
+pH,S3,7.24
+pH,S3,7.27
+pH,S3,7.26
+pH,S3,7.29
+pH,S3,7.28
+pH,S3,7.22
+pH,S3,7.25
+pH,S3,7.23
+pH,S3,7.26
+pH,S3,7.22
+pH,S3,7.23
+pH,S3,7.25
+pH,S3,7.24
+pH,S3,7.22
+pH,S3,7.22
+pH,S3,7.29
+pH,S3,7.24
+pH,S3,7.27
+pH,S3,7.26
+pH,S3,7.29
+pH,S3,7.28
+pH,S3,7.22
+pH,S3,7.25
+pH,S3,7.23
+pH,S3,7.29
+pH,S3,7.31
+pH,S3,7.3
+pH,S3,7.31
+pH,S3,7.3
+pH,S3,7.31
+pH,S3,7.31
+pH,S3,7.31
+pH,S3,7.31
+pH,S3,7.3
+pH,S3,7.29
+pH,S3,7.31
+pH,S3,7.31
+pH,S3,7.31
+pH,S3,7.32
+pH,S3,7.31
+pH,S3,7.32
+pH,S3,7.36
+pH,S3,7.34
+pH,S3,7.33
+pH,S3,7.34
+pH,S3,7.35
+pH,S3,7.32
+pH,S3,7.33
+pH,S3,7.33
+pH,S3,7.33
+pH,S3,7.33
+pH,S3,7.35
+pH,S3,7.35
+pH,S3,7.34
+pH,S3,7.35
+pH,S3,7.36
+pH,S3,7.39
+pH,S3,7.48
+pH,S3,7.48
+pH,S3,7.37
+pH,S3,7.46
+pH,S3,7.47
+pH,S3,7.48
+pH,S3,7.48
+pH,S3,7.4
+pH,S3,7.47
+pH,S3,7.36
+pH,S3,7.39
+pH,S3,7.46
+pH,S3,7.48
+pH,S3,7.49
+pH,S3,7.52
+pH,S3,7.52
+pH,S3,7.55
+pH,S3,7.61
+pH,S3,7.51
+pH,S3,7.51
+pH,S3,7.62
+pH,S3,7.57
+pH,S3,7.54
+pH,S3,7.57
+pH,S3,7.56
+pH,S3,7.63
+pH,S3,7.53
+pH,S3,7.54
+pH,S3,7.63
+pH,S3,7.64
+pH,S3,7.63
+pH,S3,7.63
+pH,S3,7.64
+pH,S3,7.64
+pH,S3,7.63
+pH,S3,7.63
+pH,S3,7.64
+pH,S3,7.65
+pH,S3,7.63
+pH,S3,7.64
+pH,S3,7.63
+pH,S3,7.65
+pH,S3,7.64
+pH,S3,7.63
+pH,S3,7.65
+pH,S3,7.66
+pH,S3,7.67
+pH,S3,7.68
+pH,S3,7.67
+pH,S3,7.67
+pH,S3,7.67
+pH,S3,7.65
+pH,S3,7.67
+pH,S3,7.66
+pH,S3,7.67
+pH,S3,7.67
+pH,S3,7.67
+pH,S3,7.65
+pH,S3,7.65
+pH,S3,7.68
+pH,S3,7.73
+pH,S3,7.83
+pH,S3,7.79
+pH,S3,7.89
+pH,S3,7.76
+pH,S3,7.87
+pH,S3,7.81
+pH,S3,7.77
+pH,S3,7.79
+pH,S3,7.71
+pH,S3,7.78
+pH,S3,7.85
+pH,S3,7.71
+pH,S3,7.81
+pH,S4,8.48
+pH,S4,8.44
+pH,S4,8.45
+pH,S4,8.36
+pH,S4,8.48
+pH,S4,8.44
+pH,S4,8.41
+pH,S4,8.38
+pH,S4,8.47
+pH,S4,8.41
+pH,S4,8.45
+pH,S4,8.45
+pH,S4,8.47
+pH,S4,8.36
+pH,S4,8.48
+pH,S4,8.35
+pH,S4,8.39
+pH,S4,8.37
+pH,S4,8.38
+pH,S4,8.36
+pH,S4,8.39
+pH,S4,8.39
+pH,S4,8.38
+pH,S4,8.36
+pH,S4,8.36
+pH,S4,8.39
+pH,S4,8.39
+pH,S4,8.39
+pH,S4,8.37
+pH,S4,8.37
+pH,S4,8.39
+pH,S4,8.4
+pH,S4,8.42
+pH,S4,8.4
+pH,S4,8.41
+pH,S4,8.41
+pH,S4,8.42
+pH,S4,8.42
+pH,S4,8.41
+pH,S4,8.42
+pH,S4,8.4
+pH,S4,8.42
+pH,S4,8.41
+pH,S4,8.42
+pH,S4,8.41
+pH,S4,8.42
+pH,S4,8.43
+pH,S4,8.46
+pH,S4,8.45
+pH,S4,8.47
+pH,S4,8.46
+pH,S4,8.46
+pH,S4,8.46
+pH,S4,8.46
+pH,S4,8.45
+pH,S4,8.49
+pH,S4,8.44
+pH,S4,8.46
+pH,S4,8.43
+pH,S4,8.46
+pH,S4,8.45
+pH,S4,8.46
+pH,S4,8.49
+pH,S4,8.52
+pH,S4,8.5
+pH,S4,8.52
+pH,S4,8.51
+pH,S4,8.54
+pH,S4,8.5
+pH,S4,8.51
+pH,S4,8.52
+pH,S4,8.5
+pH,S4,8.53
+pH,S4,8.56
+pH,S4,8.51
+pH,S4,8.56
+pH,S4,8.27
+pH,S4,8.53
+pH,S4,8.5
+pH,S4,8.27
+pH,S4,8.43
+pH,S4,8.18
+pH,S4,8.31
+pH,S4,8.52
+pH,S4,8.4
+pH,S4,8.46
+pH,S4,8.24
+pH,S4,8.28
+pH,S4,8.34
+pH,S4,8.34
+pH,S4,8.17
+pH,S4,8.0
+pH,S4,7.87
+pH,S4,7.94
+pH,S4,8.04
+pH,S4,8.14
+pH,S4,8.15
+pH,S4,8.11
+pH,S4,8.12
+pH,S4,8.09
+pH,S4,8.17
+pH,S4,7.92
+pH,S4,8.0
+pH,S4,7.85
+pH,S4,7.97
+pH,S4,7.83
+pH,S4,7.48
+pH,S4,7.61
+pH,S4,7.78
+pH,S4,7.35
+pH,S4,7.35
+pH,S4,7.79
+pH,S4,7.45
+pH,S4,7.68
+pH,S4,7.59
+pH,S4,7.78
+pH,S4,7.75
+pH,S4,7.48
+pH,S4,7.55
+pH,S4,7.46
+pH,S4,7.68
+pH,S4,7.35
+pH,S4,7.25
+pH,S4,6.75
+pH,S4,7.01
+pH,S4,6.92
+pH,S4,6.59
+pH,S4,7.27
+pH,S4,6.93
+pH,S4,6.33
+pH,S4,6.97
+pH,S4,7.29
+pH,S4,6.54
+pH,S4,7.18
+pH,S4,7.17
+pH,S4,6.61
+pH,S4,6.29
+pH,S4,6.25
+pH,S4,6.22
+pH,S4,6.22
+pH,S4,6.28
+pH,S4,6.29
+pH,S4,6.2
+pH,S4,6.22
+pH,S4,6.22
+pH,S4,6.2
+pH,S4,6.2
+pH,S4,6.21
+pH,S4,6.23
+pH,S4,6.26
+pH,S4,6.26
+pH,S4,6.18
+pH,S4,6.14
+pH,S4,6.12
+pH,S4,6.12
+pH,S4,6.13
+pH,S4,6.12
+pH,S4,6.17
+pH,S4,6.14
+pH,S4,6.11
+pH,S4,6.17
+pH,S4,6.18
+pH,S4,6.13
+pH,S4,6.16
+pH,S4,6.13
+pH,S4,6.16
+pH,S4,6.11
+pH,S4,6.17
+pH,S4,6.17
+pH,S4,6.18
+pH,S4,6.18
+pH,S4,6.18
+pH,S4,6.15
+pH,S4,6.13
+pH,S4,6.17
+pH,S4,6.14
+pH,S4,6.12
+pH,S4,6.13
+pH,S4,6.14
+pH,S4,6.12
+pH,S4,6.18
+pH,S4,6.15
+pH,S4,6.19
+pH,S4,6.47
+pH,S4,6.6
+pH,S4,6.21
+pH,S4,6.26
+pH,S4,6.46
+pH,S4,6.55
+pH,S4,6.34
+pH,S4,6.38
+pH,S4,6.49
+pH,S4,6.44
+pH,S4,6.63
+pH,S4,6.64
+pH,S4,6.71
+pH,S4,6.31
+pH,S4,6.76
+pH,S4,6.85
+pH,S4,7.01
+pH,S4,6.87
+pH,S4,6.99
+pH,S4,6.78
+pH,S4,6.98
+pH,S4,6.84
+pH,S4,6.98
+pH,S4,6.89
+pH,S4,6.8
+pH,S4,6.84
+pH,S4,6.8
+pH,S4,7.01
+pH,S4,7.05
+pH,S4,7.14
+pH,S4,7.26
+pH,S4,7.19
+pH,S4,7.19
+pH,S4,7.15
+pH,S4,7.15
+pH,S4,7.25
+pH,S4,7.16
+pH,S4,7.26
+pH,S4,7.17
+pH,S4,7.23
+pH,S4,7.22
+pH,S4,7.21
+pH,S4,7.22
+pH,S4,7.26
+pH,S4,7.26
+pH,S4,7.12
+pH,S4,7.2
+pH,S4,7.21
+pH,S4,7.2
+pH,S4,7.24
+pH,S4,7.12
+pH,S4,7.21
+pH,S4,7.22
+pH,S4,7.15
+pH,S4,7.24
+pH,S4,7.19
+pH,S4,7.11
+pH,S4,7.21
+pH,S4,7.14
+pH,S4,7.13
+pH,S4,7.1
+pH,S4,7.12
+pH,S4,7.2
+pH,S4,7.21
+pH,S4,7.2
+pH,S4,7.24
+pH,S4,7.12
+pH,S4,7.21
+pH,S4,7.22
+pH,S4,7.15
+pH,S4,7.24
+pH,S4,7.19
+pH,S4,7.11
+pH,S4,7.21
+pH,S4,7.14
+pH,S4,7.14
+pH,S4,7.18
+pH,S4,7.17
+pH,S4,7.24
+pH,S4,7.24
+pH,S4,7.17
+pH,S4,7.17
+pH,S4,7.15
+pH,S4,7.15
+pH,S4,7.22
+pH,S4,7.21
+pH,S4,7.21
+pH,S4,7.18
+pH,S4,7.23
+pH,S4,7.15
+pH,S4,7.19
+pH,S4,7.25
+pH,S4,7.34
+pH,S4,7.38
+pH,S4,7.26
+pH,S4,7.38
+pH,S4,7.35
+pH,S4,7.28
+pH,S4,7.37
+pH,S4,7.25
+pH,S4,7.26
+pH,S4,7.33
+pH,S4,7.32
+pH,S4,7.37
+pH,S4,7.35
+pH,S4,7.27
+pH,S4,7.39
+pH,S4,7.4
+pH,S4,7.5
+pH,S4,7.45
+pH,S4,7.46
+pH,S4,7.41
+pH,S4,7.4
+pH,S4,7.42
+pH,S4,7.5
+pH,S4,7.43
+pH,S4,7.43
+pH,S4,7.51
+pH,S4,7.4
+pH,S4,7.46
+pH,S4,7.41
+pH,S4,7.51
+pH,S4,7.52
+pH,S4,7.55
+pH,S4,7.53
+pH,S4,7.54
+pH,S4,7.54
+pH,S4,7.52
+pH,S4,7.51
+pH,S4,7.51
+pH,S4,7.53
+pH,S4,7.52
+pH,S4,7.52
+pH,S4,7.52
+pH,S4,7.54
+pH,S4,7.51
+pH,S4,7.55
+pH,S4,7.56
+pH,S4,7.55
+pH,S4,7.55
+pH,S4,7.55
+pH,S4,7.56
+pH,S4,7.56
+pH,S4,7.56
+pH,S4,7.56
+pH,S4,7.55
+pH,S4,7.56
+pH,S4,7.55
+pH,S4,7.55
+pH,S4,7.55
+pH,S4,7.56
+pH,S4,7.55
+pH,S4,7.56
+pH,S4,7.83
+pH,S4,7.85
+pH,S4,8.01
+pH,S4,7.93
+pH,S4,7.89
+pH,S4,8.0
+pH,S4,7.97
+pH,S4,7.8
+pH,S4,7.57
+pH,S4,8.11
+pH,S4,7.97
+pH,S4,7.9
+pH,S4,7.68
+pH,S4,7.93
+pH,S4,8.11
+pH,S4,8.12
+pH,S4,8.12
+pH,S4,8.13
+pH,S4,8.14
+pH,S4,8.14
+pH,S4,8.13
+pH,S4,8.12
+pH,S4,8.12
+pH,S4,8.12
+pH,S4,8.15
+pH,S4,8.15
+pH,S4,8.14
+pH,S4,8.14
+pH,S4,8.12
+EC (us/cm),S1,1748.0
+EC (us/cm),S1,1765.0
+EC (us/cm),S1,1769.0
+EC (us/cm),S1,1776.0
+EC (us/cm),S1,1822.0
+EC (us/cm),S1,1830.0
+EC (us/cm),S1,1830.0
+EC (us/cm),S1,1748.0
+EC (us/cm),S1,1818.0
+EC (us/cm),S1,1793.0
+EC (us/cm),S1,1819.0
+EC (us/cm),S1,1798.0
+EC (us/cm),S1,1792.0
+EC (us/cm),S1,1803.0
+EC (us/cm),S1,1792.0
+EC (us/cm),S1,1832.0
+EC (us/cm),S1,1923.0
+EC (us/cm),S1,1957.0
+EC (us/cm),S1,1954.0
+EC (us/cm),S1,1990.0
+EC (us/cm),S1,1951.0
+EC (us/cm),S1,1887.0
+EC (us/cm),S1,2009.0
+EC (us/cm),S1,1871.0
+EC (us/cm),S1,1953.0
+EC (us/cm),S1,1986.0
+EC (us/cm),S1,1904.0
+EC (us/cm),S1,2004.0
+EC (us/cm),S1,1839.0
+EC (us/cm),S1,2027.0
+EC (us/cm),S1,1900.0
+EC (us/cm),S1,2049.0
+EC (us/cm),S1,2079.0
+EC (us/cm),S1,2075.0
+EC (us/cm),S1,2066.0
+EC (us/cm),S1,2087.0
+EC (us/cm),S1,2099.0
+EC (us/cm),S1,2103.0
+EC (us/cm),S1,2074.0
+EC (us/cm),S1,2093.0
+EC (us/cm),S1,2057.0
+EC (us/cm),S1,2068.0
+EC (us/cm),S1,2098.0
+EC (us/cm),S1,2067.0
+EC (us/cm),S1,2068.0
+EC (us/cm),S1,2079.0
+EC (us/cm),S1,2105.0
+EC (us/cm),S1,2089.0
+EC (us/cm),S1,1891.0
+EC (us/cm),S1,1904.0
+EC (us/cm),S1,1890.0
+EC (us/cm),S1,2030.0
+EC (us/cm),S1,1946.0
+EC (us/cm),S1,1906.0
+EC (us/cm),S1,2007.0
+EC (us/cm),S1,2024.0
+EC (us/cm),S1,1885.0
+EC (us/cm),S1,2083.0
+EC (us/cm),S1,1920.0
+EC (us/cm),S1,1897.0
+EC (us/cm),S1,1981.0
+EC (us/cm),S1,1914.0
+EC (us/cm),S1,1855.0
+EC (us/cm),S1,1849.0
+EC (us/cm),S1,1811.0
+EC (us/cm),S1,1844.0
+EC (us/cm),S1,1834.0
+EC (us/cm),S1,1834.0
+EC (us/cm),S1,1852.0
+EC (us/cm),S1,1845.0
+EC (us/cm),S1,1840.0
+EC (us/cm),S1,1836.0
+EC (us/cm),S1,1833.0
+EC (us/cm),S1,1843.0
+EC (us/cm),S1,1814.0
+EC (us/cm),S1,1809.0
+EC (us/cm),S1,1805.0
+EC (us/cm),S1,1797.0
+EC (us/cm),S1,1800.0
+EC (us/cm),S1,1805.0
+EC (us/cm),S1,1800.0
+EC (us/cm),S1,1804.0
+EC (us/cm),S1,1800.0
+EC (us/cm),S1,1807.0
+EC (us/cm),S1,1799.0
+EC (us/cm),S1,1797.0
+EC (us/cm),S1,1802.0
+EC (us/cm),S1,1807.0
+EC (us/cm),S1,1797.0
+EC (us/cm),S1,1808.0
+EC (us/cm),S1,1796.0
+EC (us/cm),S1,1798.0
+EC (us/cm),S1,1801.0
+EC (us/cm),S1,1796.0
+EC (us/cm),S1,1813.0
+EC (us/cm),S1,1813.0
+EC (us/cm),S1,1800.0
+EC (us/cm),S1,1797.0
+EC (us/cm),S1,1806.0
+EC (us/cm),S1,1809.0
+EC (us/cm),S1,1805.0
+EC (us/cm),S1,1811.0
+EC (us/cm),S1,1797.0
+EC (us/cm),S1,1800.0
+EC (us/cm),S1,1808.0
+EC (us/cm),S1,1813.0
+EC (us/cm),S1,1867.0
+EC (us/cm),S1,1886.0
+EC (us/cm),S1,1888.0
+EC (us/cm),S1,1856.0
+EC (us/cm),S1,1889.0
+EC (us/cm),S1,1872.0
+EC (us/cm),S1,1881.0
+EC (us/cm),S1,1913.0
+EC (us/cm),S1,1896.0
+EC (us/cm),S1,1824.0
+EC (us/cm),S1,1816.0
+EC (us/cm),S1,1903.0
+EC (us/cm),S1,1908.0
+EC (us/cm),S1,1842.0
+EC (us/cm),S1,1871.0
+EC (us/cm),S1,1914.0
+EC (us/cm),S1,1924.0
+EC (us/cm),S1,1927.0
+EC (us/cm),S1,1925.0
+EC (us/cm),S1,1914.0
+EC (us/cm),S1,1923.0
+EC (us/cm),S1,1927.0
+EC (us/cm),S1,1915.0
+EC (us/cm),S1,1923.0
+EC (us/cm),S1,1922.0
+EC (us/cm),S1,1921.0
+EC (us/cm),S1,1915.0
+EC (us/cm),S1,1926.0
+EC (us/cm),S1,1918.0
+EC (us/cm),S1,1915.0
+EC (us/cm),S1,1928.0
+EC (us/cm),S1,1720.0
+EC (us/cm),S1,1724.0
+EC (us/cm),S1,1663.0
+EC (us/cm),S1,1816.0
+EC (us/cm),S1,1653.0
+EC (us/cm),S1,1824.0
+EC (us/cm),S1,1852.0
+EC (us/cm),S1,1759.0
+EC (us/cm),S1,1850.0
+EC (us/cm),S1,1735.0
+EC (us/cm),S1,1835.0
+EC (us/cm),S1,1894.0
+EC (us/cm),S1,1847.0
+EC (us/cm),S1,1799.0
+EC (us/cm),S1,1609.0
+EC (us/cm),S1,1608.0
+EC (us/cm),S1,1570.0
+EC (us/cm),S1,1578.0
+EC (us/cm),S1,1569.0
+EC (us/cm),S1,1578.0
+EC (us/cm),S1,1563.0
+EC (us/cm),S1,1556.0
+EC (us/cm),S1,1558.0
+EC (us/cm),S1,1561.0
+EC (us/cm),S1,1576.0
+EC (us/cm),S1,1558.0
+EC (us/cm),S1,1591.0
+EC (us/cm),S1,1563.0
+EC (us/cm),S1,1567.0
+EC (us/cm),S1,1554.0
+EC (us/cm),S1,1333.0
+EC (us/cm),S1,1455.0
+EC (us/cm),S1,1492.0
+EC (us/cm),S1,1526.0
+EC (us/cm),S1,1372.0
+EC (us/cm),S1,1535.0
+EC (us/cm),S1,1418.0
+EC (us/cm),S1,1413.0
+EC (us/cm),S1,1525.0
+EC (us/cm),S1,1399.0
+EC (us/cm),S1,1516.0
+EC (us/cm),S1,1543.0
+EC (us/cm),S1,1354.0
+EC (us/cm),S1,1455.0
+EC (us/cm),S1,1431.0
+EC (us/cm),S1,1329.0
+EC (us/cm),S1,1324.0
+EC (us/cm),S1,1327.0
+EC (us/cm),S1,1296.0
+EC (us/cm),S1,1270.0
+EC (us/cm),S1,1280.0
+EC (us/cm),S1,1277.0
+EC (us/cm),S1,1310.0
+EC (us/cm),S1,1268.0
+EC (us/cm),S1,1319.0
+EC (us/cm),S1,1291.0
+EC (us/cm),S1,1311.0
+EC (us/cm),S1,1324.0
+EC (us/cm),S1,1288.0
+EC (us/cm),S1,1285.0
+EC (us/cm),S1,1257.0
+EC (us/cm),S1,1165.0
+EC (us/cm),S1,1232.0
+EC (us/cm),S1,1171.0
+EC (us/cm),S1,1245.0
+EC (us/cm),S1,1201.0
+EC (us/cm),S1,1191.0
+EC (us/cm),S1,1218.0
+EC (us/cm),S1,1257.0
+EC (us/cm),S1,1174.0
+EC (us/cm),S1,1256.0
+EC (us/cm),S1,1211.0
+EC (us/cm),S1,1207.0
+EC (us/cm),S1,1158.0
+EC (us/cm),S1,1250.0
+EC (us/cm),S1,1157.0
+EC (us/cm),S1,1135.0
+EC (us/cm),S1,1136.0
+EC (us/cm),S1,1142.0
+EC (us/cm),S1,1154.0
+EC (us/cm),S1,1125.0
+EC (us/cm),S1,1127.0
+EC (us/cm),S1,1147.0
+EC (us/cm),S1,1143.0
+EC (us/cm),S1,1130.0
+EC (us/cm),S1,1125.0
+EC (us/cm),S1,1138.0
+EC (us/cm),S1,1123.0
+EC (us/cm),S1,1147.0
+EC (us/cm),S1,1126.0
+EC (us/cm),S1,1122.0
+EC (us/cm),S1,1061.0
+EC (us/cm),S1,1085.0
+EC (us/cm),S1,1116.0
+EC (us/cm),S1,1054.0
+EC (us/cm),S1,1065.0
+EC (us/cm),S1,1059.0
+EC (us/cm),S1,1071.0
+EC (us/cm),S1,1104.0
+EC (us/cm),S1,1088.0
+EC (us/cm),S1,1103.0
+EC (us/cm),S1,1097.0
+EC (us/cm),S1,1064.0
+EC (us/cm),S1,1057.0
+EC (us/cm),S1,1112.0
+EC (us/cm),S1,1060.0
+EC (us/cm),S1,1052.0
+EC (us/cm),S1,1061.0
+EC (us/cm),S1,1085.0
+EC (us/cm),S1,1116.0
+EC (us/cm),S1,1054.0
+EC (us/cm),S1,1065.0
+EC (us/cm),S1,1059.0
+EC (us/cm),S1,1071.0
+EC (us/cm),S1,1104.0
+EC (us/cm),S1,1088.0
+EC (us/cm),S1,1103.0
+EC (us/cm),S1,1097.0
+EC (us/cm),S1,1064.0
+EC (us/cm),S1,1057.0
+EC (us/cm),S1,1112.0
+EC (us/cm),S1,1033.0
+EC (us/cm),S1,970.0
+EC (us/cm),S1,1023.0
+EC (us/cm),S1,973.0
+EC (us/cm),S1,1013.0
+EC (us/cm),S1,1032.0
+EC (us/cm),S1,1009.0
+EC (us/cm),S1,1017.0
+EC (us/cm),S1,1030.0
+EC (us/cm),S1,955.0
+EC (us/cm),S1,965.0
+EC (us/cm),S1,991.0
+EC (us/cm),S1,995.0
+EC (us/cm),S1,955.0
+EC (us/cm),S1,957.0
+EC (us/cm),S1,954.0
+EC (us/cm),S1,951.0
+EC (us/cm),S1,956.0
+EC (us/cm),S1,952.0
+EC (us/cm),S1,957.0
+EC (us/cm),S1,958.0
+EC (us/cm),S1,957.0
+EC (us/cm),S1,956.0
+EC (us/cm),S1,957.0
+EC (us/cm),S1,955.0
+EC (us/cm),S1,957.0
+EC (us/cm),S1,952.0
+EC (us/cm),S1,958.0
+EC (us/cm),S1,957.0
+EC (us/cm),S1,951.0
+EC (us/cm),S1,952.0
+EC (us/cm),S1,958.0
+EC (us/cm),S1,1062.0
+EC (us/cm),S1,1123.0
+EC (us/cm),S1,1091.0
+EC (us/cm),S1,1068.0
+EC (us/cm),S1,1088.0
+EC (us/cm),S1,1069.0
+EC (us/cm),S1,967.0
+EC (us/cm),S1,1010.0
+EC (us/cm),S1,1053.0
+EC (us/cm),S1,1050.0
+EC (us/cm),S1,1001.0
+EC (us/cm),S1,1117.0
+EC (us/cm),S1,1091.0
+EC (us/cm),S1,1041.0
+EC (us/cm),S1,1128.0
+EC (us/cm),S1,1342.0
+EC (us/cm),S1,1314.0
+EC (us/cm),S1,1305.0
+EC (us/cm),S1,1200.0
+EC (us/cm),S1,1131.0
+EC (us/cm),S1,1182.0
+EC (us/cm),S1,1338.0
+EC (us/cm),S1,1347.0
+EC (us/cm),S1,1219.0
+EC (us/cm),S1,1209.0
+EC (us/cm),S1,1268.0
+EC (us/cm),S1,1317.0
+EC (us/cm),S1,1168.0
+EC (us/cm),S1,1188.0
+EC (us/cm),S1,1369.0
+EC (us/cm),S1,1406.0
+EC (us/cm),S1,1504.0
+EC (us/cm),S1,1449.0
+EC (us/cm),S1,1496.0
+EC (us/cm),S1,1487.0
+EC (us/cm),S1,1413.0
+EC (us/cm),S1,1448.0
+EC (us/cm),S1,1434.0
+EC (us/cm),S1,1438.0
+EC (us/cm),S1,1421.0
+EC (us/cm),S1,1385.0
+EC (us/cm),S1,1380.0
+EC (us/cm),S1,1496.0
+EC (us/cm),S1,1437.0
+EC (us/cm),S1,1470.0
+EC (us/cm),S1,1512.0
+EC (us/cm),S1,1603.0
+EC (us/cm),S1,1619.0
+EC (us/cm),S1,1523.0
+EC (us/cm),S1,1554.0
+EC (us/cm),S1,1573.0
+EC (us/cm),S1,1524.0
+EC (us/cm),S1,1534.0
+EC (us/cm),S1,1594.0
+EC (us/cm),S1,1608.0
+EC (us/cm),S1,1603.0
+EC (us/cm),S1,1521.0
+EC (us/cm),S1,1544.0
+EC (us/cm),S1,1525.0
+EC (us/cm),S1,1524.0
+EC (us/cm),S1,1627.0
+EC (us/cm),S1,1643.0
+EC (us/cm),S1,1638.0
+EC (us/cm),S1,1645.0
+EC (us/cm),S1,1635.0
+EC (us/cm),S1,1631.0
+EC (us/cm),S1,1639.0
+EC (us/cm),S1,1634.0
+EC (us/cm),S1,1650.0
+EC (us/cm),S1,1647.0
+EC (us/cm),S1,1642.0
+EC (us/cm),S1,1640.0
+EC (us/cm),S1,1650.0
+EC (us/cm),S1,1645.0
+EC (us/cm),S1,1636.0
+EC (us/cm),S2,1679.0
+EC (us/cm),S2,1690.0
+EC (us/cm),S2,1680.0
+EC (us/cm),S2,1697.0
+EC (us/cm),S2,1692.0
+EC (us/cm),S2,1686.0
+EC (us/cm),S2,1696.0
+EC (us/cm),S2,1687.0
+EC (us/cm),S2,1682.0
+EC (us/cm),S2,1696.0
+EC (us/cm),S2,1686.0
+EC (us/cm),S2,1690.0
+EC (us/cm),S2,1689.0
+EC (us/cm),S2,1695.0
+EC (us/cm),S2,1692.0
+EC (us/cm),S2,1701.0
+EC (us/cm),S2,1951.0
+EC (us/cm),S2,1984.0
+EC (us/cm),S2,1903.0
+EC (us/cm),S2,1959.0
+EC (us/cm),S2,1884.0
+EC (us/cm),S2,1801.0
+EC (us/cm),S2,1864.0
+EC (us/cm),S2,1723.0
+EC (us/cm),S2,1895.0
+EC (us/cm),S2,1816.0
+EC (us/cm),S2,1771.0
+EC (us/cm),S2,1734.0
+EC (us/cm),S2,1757.0
+EC (us/cm),S2,1708.0
+EC (us/cm),S2,1721.0
+EC (us/cm),S2,2007.0
+EC (us/cm),S2,2058.0
+EC (us/cm),S2,2031.0
+EC (us/cm),S2,2105.0
+EC (us/cm),S2,2109.0
+EC (us/cm),S2,2031.0
+EC (us/cm),S2,2105.0
+EC (us/cm),S2,2152.0
+EC (us/cm),S2,2153.0
+EC (us/cm),S2,2135.0
+EC (us/cm),S2,2012.0
+EC (us/cm),S2,2014.0
+EC (us/cm),S2,2091.0
+EC (us/cm),S2,2111.0
+EC (us/cm),S2,2067.0
+EC (us/cm),S2,2168.0
+EC (us/cm),S2,1882.0
+EC (us/cm),S2,1806.0
+EC (us/cm),S2,1941.0
+EC (us/cm),S2,1935.0
+EC (us/cm),S2,2100.0
+EC (us/cm),S2,1928.0
+EC (us/cm),S2,2067.0
+EC (us/cm),S2,2116.0
+EC (us/cm),S2,2075.0
+EC (us/cm),S2,2012.0
+EC (us/cm),S2,2029.0
+EC (us/cm),S2,1983.0
+EC (us/cm),S2,2104.0
+EC (us/cm),S2,1847.0
+EC (us/cm),S2,2093.0
+EC (us/cm),S2,1785.0
+EC (us/cm),S2,1754.0
+EC (us/cm),S2,1775.0
+EC (us/cm),S2,1766.0
+EC (us/cm),S2,1782.0
+EC (us/cm),S2,1752.0
+EC (us/cm),S2,1768.0
+EC (us/cm),S2,1782.0
+EC (us/cm),S2,1768.0
+EC (us/cm),S2,1771.0
+EC (us/cm),S2,1749.0
+EC (us/cm),S2,1757.0
+EC (us/cm),S2,1751.0
+EC (us/cm),S2,1746.0
+EC (us/cm),S2,1744.0
+EC (us/cm),S2,1741.0
+EC (us/cm),S2,1705.0
+EC (us/cm),S2,1737.0
+EC (us/cm),S2,1732.0
+EC (us/cm),S2,1726.0
+EC (us/cm),S2,1746.0
+EC (us/cm),S2,1720.0
+EC (us/cm),S2,1711.0
+EC (us/cm),S2,1737.0
+EC (us/cm),S2,1709.0
+EC (us/cm),S2,1708.0
+EC (us/cm),S2,1728.0
+EC (us/cm),S2,1720.0
+EC (us/cm),S2,1704.0
+EC (us/cm),S2,1740.0
+EC (us/cm),S2,1741.0
+EC (us/cm),S2,1745.0
+EC (us/cm),S2,1752.0
+EC (us/cm),S2,1766.0
+EC (us/cm),S2,1711.0
+EC (us/cm),S2,1727.0
+EC (us/cm),S2,1765.0
+EC (us/cm),S2,1747.0
+EC (us/cm),S2,1751.0
+EC (us/cm),S2,1777.0
+EC (us/cm),S2,1758.0
+EC (us/cm),S2,1720.0
+EC (us/cm),S2,1767.0
+EC (us/cm),S2,1789.0
+EC (us/cm),S2,1801.0
+EC (us/cm),S2,1816.0
+EC (us/cm),S2,1847.0
+EC (us/cm),S2,1804.0
+EC (us/cm),S2,1849.0
+EC (us/cm),S2,1802.0
+EC (us/cm),S2,1866.0
+EC (us/cm),S2,1839.0
+EC (us/cm),S2,1814.0
+EC (us/cm),S2,1857.0
+EC (us/cm),S2,1795.0
+EC (us/cm),S2,1868.0
+EC (us/cm),S2,1855.0
+EC (us/cm),S2,1853.0
+EC (us/cm),S2,1838.0
+EC (us/cm),S2,1877.0
+EC (us/cm),S2,1895.0
+EC (us/cm),S2,1880.0
+EC (us/cm),S2,1895.0
+EC (us/cm),S2,1882.0
+EC (us/cm),S2,1885.0
+EC (us/cm),S2,1887.0
+EC (us/cm),S2,1890.0
+EC (us/cm),S2,1886.0
+EC (us/cm),S2,1891.0
+EC (us/cm),S2,1884.0
+EC (us/cm),S2,1891.0
+EC (us/cm),S2,1878.0
+EC (us/cm),S2,1879.0
+EC (us/cm),S2,1889.0
+EC (us/cm),S2,1898.0
+EC (us/cm),S2,1856.0
+EC (us/cm),S2,1885.0
+EC (us/cm),S2,1785.0
+EC (us/cm),S2,1771.0
+EC (us/cm),S2,1761.0
+EC (us/cm),S2,1670.0
+EC (us/cm),S2,1851.0
+EC (us/cm),S2,1896.0
+EC (us/cm),S2,1701.0
+EC (us/cm),S2,1749.0
+EC (us/cm),S2,1801.0
+EC (us/cm),S2,1800.0
+EC (us/cm),S2,1716.0
+EC (us/cm),S2,1857.0
+EC (us/cm),S2,1646.0
+EC (us/cm),S2,1630.0
+EC (us/cm),S2,1630.0
+EC (us/cm),S2,1625.0
+EC (us/cm),S2,1619.0
+EC (us/cm),S2,1626.0
+EC (us/cm),S2,1642.0
+EC (us/cm),S2,1638.0
+EC (us/cm),S2,1619.0
+EC (us/cm),S2,1646.0
+EC (us/cm),S2,1640.0
+EC (us/cm),S2,1620.0
+EC (us/cm),S2,1641.0
+EC (us/cm),S2,1610.0
+EC (us/cm),S2,1615.0
+EC (us/cm),S2,1610.0
+EC (us/cm),S2,1403.0
+EC (us/cm),S2,1568.0
+EC (us/cm),S2,1458.0
+EC (us/cm),S2,1486.0
+EC (us/cm),S2,1424.0
+EC (us/cm),S2,1483.0
+EC (us/cm),S2,1559.0
+EC (us/cm),S2,1561.0
+EC (us/cm),S2,1466.0
+EC (us/cm),S2,1454.0
+EC (us/cm),S2,1527.0
+EC (us/cm),S2,1411.0
+EC (us/cm),S2,1502.0
+EC (us/cm),S2,1587.0
+EC (us/cm),S2,1610.0
+EC (us/cm),S2,1402.0
+EC (us/cm),S2,1391.0
+EC (us/cm),S2,1398.0
+EC (us/cm),S2,1402.0
+EC (us/cm),S2,1374.0
+EC (us/cm),S2,1379.0
+EC (us/cm),S2,1389.0
+EC (us/cm),S2,1374.0
+EC (us/cm),S2,1402.0
+EC (us/cm),S2,1367.0
+EC (us/cm),S2,1391.0
+EC (us/cm),S2,1400.0
+EC (us/cm),S2,1394.0
+EC (us/cm),S2,1393.0
+EC (us/cm),S2,1388.0
+EC (us/cm),S2,1367.0
+EC (us/cm),S2,1335.0
+EC (us/cm),S2,1360.0
+EC (us/cm),S2,1345.0
+EC (us/cm),S2,1339.0
+EC (us/cm),S2,1338.0
+EC (us/cm),S2,1355.0
+EC (us/cm),S2,1337.0
+EC (us/cm),S2,1345.0
+EC (us/cm),S2,1325.0
+EC (us/cm),S2,1329.0
+EC (us/cm),S2,1362.0
+EC (us/cm),S2,1345.0
+EC (us/cm),S2,1360.0
+EC (us/cm),S2,1350.0
+EC (us/cm),S2,1318.0
+EC (us/cm),S2,1289.0
+EC (us/cm),S2,1311.0
+EC (us/cm),S2,1301.0
+EC (us/cm),S2,1315.0
+EC (us/cm),S2,1312.0
+EC (us/cm),S2,1289.0
+EC (us/cm),S2,1300.0
+EC (us/cm),S2,1315.0
+EC (us/cm),S2,1289.0
+EC (us/cm),S2,1318.0
+EC (us/cm),S2,1306.0
+EC (us/cm),S2,1293.0
+EC (us/cm),S2,1310.0
+EC (us/cm),S2,1295.0
+EC (us/cm),S2,1287.0
+EC (us/cm),S2,1147.0
+EC (us/cm),S2,1260.0
+EC (us/cm),S2,1273.0
+EC (us/cm),S2,1201.0
+EC (us/cm),S2,1284.0
+EC (us/cm),S2,1158.0
+EC (us/cm),S2,1188.0
+EC (us/cm),S2,1083.0
+EC (us/cm),S2,1265.0
+EC (us/cm),S2,1209.0
+EC (us/cm),S2,1131.0
+EC (us/cm),S2,1121.0
+EC (us/cm),S2,1251.0
+EC (us/cm),S2,1173.0
+EC (us/cm),S2,1283.0
+EC (us/cm),S2,1075.0
+EC (us/cm),S2,1147.0
+EC (us/cm),S2,1260.0
+EC (us/cm),S2,1273.0
+EC (us/cm),S2,1201.0
+EC (us/cm),S2,1284.0
+EC (us/cm),S2,1158.0
+EC (us/cm),S2,1188.0
+EC (us/cm),S2,1083.0
+EC (us/cm),S2,1265.0
+EC (us/cm),S2,1209.0
+EC (us/cm),S2,1131.0
+EC (us/cm),S2,1121.0
+EC (us/cm),S2,1251.0
+EC (us/cm),S2,1173.0
+EC (us/cm),S2,1057.0
+EC (us/cm),S2,962.0
+EC (us/cm),S2,1021.0
+EC (us/cm),S2,968.0
+EC (us/cm),S2,973.0
+EC (us/cm),S2,1002.0
+EC (us/cm),S2,1011.0
+EC (us/cm),S2,1007.0
+EC (us/cm),S2,1003.0
+EC (us/cm),S2,1056.0
+EC (us/cm),S2,1034.0
+EC (us/cm),S2,995.0
+EC (us/cm),S2,999.0
+EC (us/cm),S2,1017.0
+EC (us/cm),S2,1047.0
+EC (us/cm),S2,978.0
+EC (us/cm),S2,952.0
+EC (us/cm),S2,956.0
+EC (us/cm),S2,985.0
+EC (us/cm),S2,967.0
+EC (us/cm),S2,989.0
+EC (us/cm),S2,982.0
+EC (us/cm),S2,990.0
+EC (us/cm),S2,970.0
+EC (us/cm),S2,979.0
+EC (us/cm),S2,952.0
+EC (us/cm),S2,977.0
+EC (us/cm),S2,959.0
+EC (us/cm),S2,974.0
+EC (us/cm),S2,984.0
+EC (us/cm),S2,954.0
+EC (us/cm),S2,992.0
+EC (us/cm),S2,1218.0
+EC (us/cm),S2,1189.0
+EC (us/cm),S2,1110.0
+EC (us/cm),S2,1116.0
+EC (us/cm),S2,1109.0
+EC (us/cm),S2,1122.0
+EC (us/cm),S2,1219.0
+EC (us/cm),S2,1138.0
+EC (us/cm),S2,1290.0
+EC (us/cm),S2,1225.0
+EC (us/cm),S2,1061.0
+EC (us/cm),S2,1103.0
+EC (us/cm),S2,1255.0
+EC (us/cm),S2,1268.0
+EC (us/cm),S2,1298.0
+EC (us/cm),S2,1444.0
+EC (us/cm),S2,1413.0
+EC (us/cm),S2,1357.0
+EC (us/cm),S2,1364.0
+EC (us/cm),S2,1335.0
+EC (us/cm),S2,1341.0
+EC (us/cm),S2,1334.0
+EC (us/cm),S2,1436.0
+EC (us/cm),S2,1377.0
+EC (us/cm),S2,1310.0
+EC (us/cm),S2,1397.0
+EC (us/cm),S2,1330.0
+EC (us/cm),S2,1411.0
+EC (us/cm),S2,1329.0
+EC (us/cm),S2,1447.0
+EC (us/cm),S2,1486.0
+EC (us/cm),S2,1557.0
+EC (us/cm),S2,1480.0
+EC (us/cm),S2,1567.0
+EC (us/cm),S2,1528.0
+EC (us/cm),S2,1528.0
+EC (us/cm),S2,1453.0
+EC (us/cm),S2,1571.0
+EC (us/cm),S2,1468.0
+EC (us/cm),S2,1500.0
+EC (us/cm),S2,1540.0
+EC (us/cm),S2,1510.0
+EC (us/cm),S2,1480.0
+EC (us/cm),S2,1543.0
+EC (us/cm),S2,1486.0
+EC (us/cm),S2,1579.0
+EC (us/cm),S2,1622.0
+EC (us/cm),S2,1581.0
+EC (us/cm),S2,1623.0
+EC (us/cm),S2,1671.0
+EC (us/cm),S2,1649.0
+EC (us/cm),S2,1582.0
+EC (us/cm),S2,1646.0
+EC (us/cm),S2,1600.0
+EC (us/cm),S2,1644.0
+EC (us/cm),S2,1671.0
+EC (us/cm),S2,1657.0
+EC (us/cm),S2,1617.0
+EC (us/cm),S2,1673.0
+EC (us/cm),S2,1618.0
+EC (us/cm),S2,1676.0
+EC (us/cm),S2,1679.0
+EC (us/cm),S2,1680.0
+EC (us/cm),S2,1687.0
+EC (us/cm),S2,1677.0
+EC (us/cm),S2,1678.0
+EC (us/cm),S2,1679.0
+EC (us/cm),S2,1681.0
+EC (us/cm),S2,1683.0
+EC (us/cm),S2,1687.0
+EC (us/cm),S2,1677.0
+EC (us/cm),S2,1688.0
+EC (us/cm),S2,1689.0
+EC (us/cm),S2,1687.0
+EC (us/cm),S2,1689.0
+EC (us/cm),S3,1577.0
+EC (us/cm),S3,1648.0
+EC (us/cm),S3,1580.0
+EC (us/cm),S3,1579.0
+EC (us/cm),S3,1643.0
+EC (us/cm),S3,1583.0
+EC (us/cm),S3,1645.0
+EC (us/cm),S3,1596.0
+EC (us/cm),S3,1595.0
+EC (us/cm),S3,1599.0
+EC (us/cm),S3,1598.0
+EC (us/cm),S3,1590.0
+EC (us/cm),S3,1603.0
+EC (us/cm),S3,1625.0
+EC (us/cm),S3,1618.0
+EC (us/cm),S3,1652.0
+EC (us/cm),S3,1799.0
+EC (us/cm),S3,1749.0
+EC (us/cm),S3,1721.0
+EC (us/cm),S3,1689.0
+EC (us/cm),S3,1663.0
+EC (us/cm),S3,1773.0
+EC (us/cm),S3,1800.0
+EC (us/cm),S3,1812.0
+EC (us/cm),S3,1858.0
+EC (us/cm),S3,1852.0
+EC (us/cm),S3,1831.0
+EC (us/cm),S3,1716.0
+EC (us/cm),S3,1789.0
+EC (us/cm),S3,1683.0
+EC (us/cm),S3,1755.0
+EC (us/cm),S3,1883.0
+EC (us/cm),S3,1885.0
+EC (us/cm),S3,1921.0
+EC (us/cm),S3,1916.0
+EC (us/cm),S3,2009.0
+EC (us/cm),S3,1901.0
+EC (us/cm),S3,1903.0
+EC (us/cm),S3,1914.0
+EC (us/cm),S3,1994.0
+EC (us/cm),S3,1936.0
+EC (us/cm),S3,1965.0
+EC (us/cm),S3,1923.0
+EC (us/cm),S3,1929.0
+EC (us/cm),S3,1976.0
+EC (us/cm),S3,1956.0
+EC (us/cm),S3,2029.0
+EC (us/cm),S3,1970.0
+EC (us/cm),S3,1869.0
+EC (us/cm),S3,2003.0
+EC (us/cm),S3,1902.0
+EC (us/cm),S3,1920.0
+EC (us/cm),S3,1934.0
+EC (us/cm),S3,1772.0
+EC (us/cm),S3,1894.0
+EC (us/cm),S3,1852.0
+EC (us/cm),S3,1934.0
+EC (us/cm),S3,1885.0
+EC (us/cm),S3,1802.0
+EC (us/cm),S3,1829.0
+EC (us/cm),S3,1999.0
+EC (us/cm),S3,1769.0
+EC (us/cm),S3,1756.0
+EC (us/cm),S3,1747.0
+EC (us/cm),S3,1742.0
+EC (us/cm),S3,1735.0
+EC (us/cm),S3,1746.0
+EC (us/cm),S3,1742.0
+EC (us/cm),S3,1752.0
+EC (us/cm),S3,1747.0
+EC (us/cm),S3,1754.0
+EC (us/cm),S3,1743.0
+EC (us/cm),S3,1738.0
+EC (us/cm),S3,1756.0
+EC (us/cm),S3,1755.0
+EC (us/cm),S3,1733.0
+EC (us/cm),S3,1723.0
+EC (us/cm),S3,1702.0
+EC (us/cm),S3,1711.0
+EC (us/cm),S3,1713.0
+EC (us/cm),S3,1707.0
+EC (us/cm),S3,1725.0
+EC (us/cm),S3,1715.0
+EC (us/cm),S3,1711.0
+EC (us/cm),S3,1723.0
+EC (us/cm),S3,1728.0
+EC (us/cm),S3,1714.0
+EC (us/cm),S3,1708.0
+EC (us/cm),S3,1732.0
+EC (us/cm),S3,1707.0
+EC (us/cm),S3,1699.0
+EC (us/cm),S3,1761.0
+EC (us/cm),S3,1779.0
+EC (us/cm),S3,1717.0
+EC (us/cm),S3,1759.0
+EC (us/cm),S3,1736.0
+EC (us/cm),S3,1783.0
+EC (us/cm),S3,1725.0
+EC (us/cm),S3,1718.0
+EC (us/cm),S3,1783.0
+EC (us/cm),S3,1712.0
+EC (us/cm),S3,1783.0
+EC (us/cm),S3,1700.0
+EC (us/cm),S3,1783.0
+EC (us/cm),S3,1755.0
+EC (us/cm),S3,1785.0
+EC (us/cm),S3,1799.0
+EC (us/cm),S3,1801.0
+EC (us/cm),S3,1787.0
+EC (us/cm),S3,1815.0
+EC (us/cm),S3,1823.0
+EC (us/cm),S3,1786.0
+EC (us/cm),S3,1829.0
+EC (us/cm),S3,1800.0
+EC (us/cm),S3,1819.0
+EC (us/cm),S3,1810.0
+EC (us/cm),S3,1824.0
+EC (us/cm),S3,1821.0
+EC (us/cm),S3,1787.0
+EC (us/cm),S3,1803.0
+EC (us/cm),S3,1818.0
+EC (us/cm),S3,1829.0
+EC (us/cm),S3,1854.0
+EC (us/cm),S3,1846.0
+EC (us/cm),S3,1854.0
+EC (us/cm),S3,1845.0
+EC (us/cm),S3,1850.0
+EC (us/cm),S3,1830.0
+EC (us/cm),S3,1835.0
+EC (us/cm),S3,1852.0
+EC (us/cm),S3,1849.0
+EC (us/cm),S3,1834.0
+EC (us/cm),S3,1854.0
+EC (us/cm),S3,1838.0
+EC (us/cm),S3,1833.0
+EC (us/cm),S3,1855.0
+EC (us/cm),S3,1856.0
+EC (us/cm),S3,1802.0
+EC (us/cm),S3,1805.0
+EC (us/cm),S3,1852.0
+EC (us/cm),S3,1845.0
+EC (us/cm),S3,1703.0
+EC (us/cm),S3,1754.0
+EC (us/cm),S3,1803.0
+EC (us/cm),S3,1728.0
+EC (us/cm),S3,1702.0
+EC (us/cm),S3,1759.0
+EC (us/cm),S3,1727.0
+EC (us/cm),S3,1827.0
+EC (us/cm),S3,1850.0
+EC (us/cm),S3,1743.0
+EC (us/cm),S3,1695.0
+EC (us/cm),S3,1682.0
+EC (us/cm),S3,1656.0
+EC (us/cm),S3,1694.0
+EC (us/cm),S3,1661.0
+EC (us/cm),S3,1645.0
+EC (us/cm),S3,1656.0
+EC (us/cm),S3,1681.0
+EC (us/cm),S3,1676.0
+EC (us/cm),S3,1681.0
+EC (us/cm),S3,1659.0
+EC (us/cm),S3,1645.0
+EC (us/cm),S3,1664.0
+EC (us/cm),S3,1688.0
+EC (us/cm),S3,1650.0
+EC (us/cm),S3,1643.0
+EC (us/cm),S3,1592.0
+EC (us/cm),S3,1484.0
+EC (us/cm),S3,1630.0
+EC (us/cm),S3,1552.0
+EC (us/cm),S3,1568.0
+EC (us/cm),S3,1489.0
+EC (us/cm),S3,1476.0
+EC (us/cm),S3,1546.0
+EC (us/cm),S3,1624.0
+EC (us/cm),S3,1501.0
+EC (us/cm),S3,1491.0
+EC (us/cm),S3,1603.0
+EC (us/cm),S3,1581.0
+EC (us/cm),S3,1640.0
+EC (us/cm),S3,1579.0
+EC (us/cm),S3,1446.0
+EC (us/cm),S3,1308.0
+EC (us/cm),S3,1329.0
+EC (us/cm),S3,1439.0
+EC (us/cm),S3,1420.0
+EC (us/cm),S3,1405.0
+EC (us/cm),S3,1386.0
+EC (us/cm),S3,1303.0
+EC (us/cm),S3,1386.0
+EC (us/cm),S3,1426.0
+EC (us/cm),S3,1383.0
+EC (us/cm),S3,1445.0
+EC (us/cm),S3,1355.0
+EC (us/cm),S3,1335.0
+EC (us/cm),S3,1433.0
+EC (us/cm),S3,1297.0
+EC (us/cm),S3,1324.0
+EC (us/cm),S3,1317.0
+EC (us/cm),S3,1322.0
+EC (us/cm),S3,1306.0
+EC (us/cm),S3,1334.0
+EC (us/cm),S3,1326.0
+EC (us/cm),S3,1311.0
+EC (us/cm),S3,1306.0
+EC (us/cm),S3,1303.0
+EC (us/cm),S3,1327.0
+EC (us/cm),S3,1339.0
+EC (us/cm),S3,1342.0
+EC (us/cm),S3,1321.0
+EC (us/cm),S3,1299.0
+EC (us/cm),S3,1352.0
+EC (us/cm),S3,1327.0
+EC (us/cm),S3,1350.0
+EC (us/cm),S3,1329.0
+EC (us/cm),S3,1321.0
+EC (us/cm),S3,1319.0
+EC (us/cm),S3,1311.0
+EC (us/cm),S3,1314.0
+EC (us/cm),S3,1325.0
+EC (us/cm),S3,1329.0
+EC (us/cm),S3,1313.0
+EC (us/cm),S3,1306.0
+EC (us/cm),S3,1307.0
+EC (us/cm),S3,1321.0
+EC (us/cm),S3,1345.0
+EC (us/cm),S3,1304.0
+EC (us/cm),S3,1266.0
+EC (us/cm),S3,1158.0
+EC (us/cm),S3,1297.0
+EC (us/cm),S3,1171.0
+EC (us/cm),S3,1157.0
+EC (us/cm),S3,1075.0
+EC (us/cm),S3,1076.0
+EC (us/cm),S3,1126.0
+EC (us/cm),S3,1118.0
+EC (us/cm),S3,1105.0
+EC (us/cm),S3,1112.0
+EC (us/cm),S3,1284.0
+EC (us/cm),S3,1092.0
+EC (us/cm),S3,1189.0
+EC (us/cm),S3,1101.0
+EC (us/cm),S3,1039.0
+EC (us/cm),S3,1266.0
+EC (us/cm),S3,1158.0
+EC (us/cm),S3,1297.0
+EC (us/cm),S3,1171.0
+EC (us/cm),S3,1157.0
+EC (us/cm),S3,1075.0
+EC (us/cm),S3,1076.0
+EC (us/cm),S3,1126.0
+EC (us/cm),S3,1118.0
+EC (us/cm),S3,1105.0
+EC (us/cm),S3,1112.0
+EC (us/cm),S3,1284.0
+EC (us/cm),S3,1092.0
+EC (us/cm),S3,1189.0
+EC (us/cm),S3,1019.0
+EC (us/cm),S3,964.0
+EC (us/cm),S3,957.0
+EC (us/cm),S3,936.0
+EC (us/cm),S3,958.0
+EC (us/cm),S3,872.0
+EC (us/cm),S3,864.0
+EC (us/cm),S3,840.0
+EC (us/cm),S3,918.0
+EC (us/cm),S3,862.0
+EC (us/cm),S3,920.0
+EC (us/cm),S3,915.0
+EC (us/cm),S3,871.0
+EC (us/cm),S3,982.0
+EC (us/cm),S3,843.0
+EC (us/cm),S3,992.0
+EC (us/cm),S3,839.0
+EC (us/cm),S3,895.0
+EC (us/cm),S3,841.0
+EC (us/cm),S3,906.0
+EC (us/cm),S3,938.0
+EC (us/cm),S3,905.0
+EC (us/cm),S3,867.0
+EC (us/cm),S3,891.0
+EC (us/cm),S3,846.0
+EC (us/cm),S3,899.0
+EC (us/cm),S3,938.0
+EC (us/cm),S3,848.0
+EC (us/cm),S3,917.0
+EC (us/cm),S3,851.0
+EC (us/cm),S3,875.0
+EC (us/cm),S3,945.0
+EC (us/cm),S3,1022.0
+EC (us/cm),S3,1172.0
+EC (us/cm),S3,1117.0
+EC (us/cm),S3,990.0
+EC (us/cm),S3,1199.0
+EC (us/cm),S3,1111.0
+EC (us/cm),S3,1234.0
+EC (us/cm),S3,1220.0
+EC (us/cm),S3,1214.0
+EC (us/cm),S3,1173.0
+EC (us/cm),S3,1113.0
+EC (us/cm),S3,1122.0
+EC (us/cm),S3,1220.0
+EC (us/cm),S3,962.0
+EC (us/cm),S3,1234.0
+EC (us/cm),S3,1435.0
+EC (us/cm),S3,1246.0
+EC (us/cm),S3,1477.0
+EC (us/cm),S3,1393.0
+EC (us/cm),S3,1262.0
+EC (us/cm),S3,1367.0
+EC (us/cm),S3,1457.0
+EC (us/cm),S3,1498.0
+EC (us/cm),S3,1365.0
+EC (us/cm),S3,1472.0
+EC (us/cm),S3,1261.0
+EC (us/cm),S3,1305.0
+EC (us/cm),S3,1268.0
+EC (us/cm),S3,1245.0
+EC (us/cm),S3,1498.0
+EC (us/cm),S3,1590.0
+EC (us/cm),S3,1521.0
+EC (us/cm),S3,1570.0
+EC (us/cm),S3,1577.0
+EC (us/cm),S3,1595.0
+EC (us/cm),S3,1502.0
+EC (us/cm),S3,1507.0
+EC (us/cm),S3,1505.0
+EC (us/cm),S3,1577.0
+EC (us/cm),S3,1575.0
+EC (us/cm),S3,1576.0
+EC (us/cm),S3,1569.0
+EC (us/cm),S3,1617.0
+EC (us/cm),S3,1609.0
+EC (us/cm),S3,1546.0
+EC (us/cm),S3,1619.0
+EC (us/cm),S3,1618.0
+EC (us/cm),S3,1614.0
+EC (us/cm),S3,1614.0
+EC (us/cm),S3,1616.0
+EC (us/cm),S3,1614.0
+EC (us/cm),S3,1612.0
+EC (us/cm),S3,1618.0
+EC (us/cm),S3,1613.0
+EC (us/cm),S3,1617.0
+EC (us/cm),S3,1614.0
+EC (us/cm),S3,1617.0
+EC (us/cm),S3,1618.0
+EC (us/cm),S3,1618.0
+EC (us/cm),S3,1617.0
+EC (us/cm),S3,1610.0
+EC (us/cm),S3,1637.0
+EC (us/cm),S3,1630.0
+EC (us/cm),S3,1646.0
+EC (us/cm),S3,1643.0
+EC (us/cm),S3,1647.0
+EC (us/cm),S3,1649.0
+EC (us/cm),S3,1616.0
+EC (us/cm),S3,1625.0
+EC (us/cm),S3,1639.0
+EC (us/cm),S3,1612.0
+EC (us/cm),S3,1612.0
+EC (us/cm),S3,1646.0
+EC (us/cm),S3,1616.0
+EC (us/cm),S3,1637.0
+EC (us/cm),S4,1695.0
+EC (us/cm),S4,1773.0
+EC (us/cm),S4,1737.0
+EC (us/cm),S4,1743.0
+EC (us/cm),S4,1787.0
+EC (us/cm),S4,1768.0
+EC (us/cm),S4,1733.0
+EC (us/cm),S4,1770.0
+EC (us/cm),S4,1737.0
+EC (us/cm),S4,1752.0
+EC (us/cm),S4,1766.0
+EC (us/cm),S4,1781.0
+EC (us/cm),S4,1711.0
+EC (us/cm),S4,1735.0
+EC (us/cm),S4,1769.0
+EC (us/cm),S4,1789.0
+EC (us/cm),S4,1866.0
+EC (us/cm),S4,1791.0
+EC (us/cm),S4,1790.0
+EC (us/cm),S4,1913.0
+EC (us/cm),S4,1812.0
+EC (us/cm),S4,1845.0
+EC (us/cm),S4,1832.0
+EC (us/cm),S4,1920.0
+EC (us/cm),S4,1797.0
+EC (us/cm),S4,1812.0
+EC (us/cm),S4,1807.0
+EC (us/cm),S4,1873.0
+EC (us/cm),S4,1889.0
+EC (us/cm),S4,1820.0
+EC (us/cm),S4,1850.0
+EC (us/cm),S4,1921.0
+EC (us/cm),S4,1970.0
+EC (us/cm),S4,1964.0
+EC (us/cm),S4,1928.0
+EC (us/cm),S4,1959.0
+EC (us/cm),S4,1989.0
+EC (us/cm),S4,2015.0
+EC (us/cm),S4,1983.0
+EC (us/cm),S4,1923.0
+EC (us/cm),S4,1976.0
+EC (us/cm),S4,1938.0
+EC (us/cm),S4,1986.0
+EC (us/cm),S4,1958.0
+EC (us/cm),S4,1955.0
+EC (us/cm),S4,1935.0
+EC (us/cm),S4,2019.0
+EC (us/cm),S4,1948.0
+EC (us/cm),S4,2005.0
+EC (us/cm),S4,1954.0
+EC (us/cm),S4,1872.0
+EC (us/cm),S4,1823.0
+EC (us/cm),S4,2005.0
+EC (us/cm),S4,1849.0
+EC (us/cm),S4,1930.0
+EC (us/cm),S4,1981.0
+EC (us/cm),S4,1975.0
+EC (us/cm),S4,1956.0
+EC (us/cm),S4,1876.0
+EC (us/cm),S4,1999.0
+EC (us/cm),S4,1930.0
+EC (us/cm),S4,1961.0
+EC (us/cm),S4,1795.0
+EC (us/cm),S4,1788.0
+EC (us/cm),S4,1760.0
+EC (us/cm),S4,1765.0
+EC (us/cm),S4,1779.0
+EC (us/cm),S4,1766.0
+EC (us/cm),S4,1768.0
+EC (us/cm),S4,1766.0
+EC (us/cm),S4,1777.0
+EC (us/cm),S4,1771.0
+EC (us/cm),S4,1780.0
+EC (us/cm),S4,1790.0
+EC (us/cm),S4,1771.0
+EC (us/cm),S4,1759.0
+EC (us/cm),S4,1750.0
+EC (us/cm),S4,1739.0
+EC (us/cm),S4,1736.0
+EC (us/cm),S4,1750.0
+EC (us/cm),S4,1742.0
+EC (us/cm),S4,1729.0
+EC (us/cm),S4,1737.0
+EC (us/cm),S4,1734.0
+EC (us/cm),S4,1734.0
+EC (us/cm),S4,1743.0
+EC (us/cm),S4,1728.0
+EC (us/cm),S4,1747.0
+EC (us/cm),S4,1740.0
+EC (us/cm),S4,1739.0
+EC (us/cm),S4,1726.0
+EC (us/cm),S4,1770.0
+EC (us/cm),S4,1746.0
+EC (us/cm),S4,1798.0
+EC (us/cm),S4,1790.0
+EC (us/cm),S4,1773.0
+EC (us/cm),S4,1733.0
+EC (us/cm),S4,1730.0
+EC (us/cm),S4,1750.0
+EC (us/cm),S4,1734.0
+EC (us/cm),S4,1743.0
+EC (us/cm),S4,1780.0
+EC (us/cm),S4,1796.0
+EC (us/cm),S4,1729.0
+EC (us/cm),S4,1775.0
+EC (us/cm),S4,1813.0
+EC (us/cm),S4,1821.0
+EC (us/cm),S4,1814.0
+EC (us/cm),S4,1876.0
+EC (us/cm),S4,1882.0
+EC (us/cm),S4,1868.0
+EC (us/cm),S4,1843.0
+EC (us/cm),S4,1828.0
+EC (us/cm),S4,1868.0
+EC (us/cm),S4,1872.0
+EC (us/cm),S4,1822.0
+EC (us/cm),S4,1872.0
+EC (us/cm),S4,1846.0
+EC (us/cm),S4,1871.0
+EC (us/cm),S4,1887.0
+EC (us/cm),S4,1846.0
+EC (us/cm),S4,1902.0
+EC (us/cm),S4,1954.0
+EC (us/cm),S4,1955.0
+EC (us/cm),S4,1955.0
+EC (us/cm),S4,1914.0
+EC (us/cm),S4,1924.0
+EC (us/cm),S4,1961.0
+EC (us/cm),S4,1961.0
+EC (us/cm),S4,1955.0
+EC (us/cm),S4,1935.0
+EC (us/cm),S4,1908.0
+EC (us/cm),S4,1970.0
+EC (us/cm),S4,1944.0
+EC (us/cm),S4,1913.0
+EC (us/cm),S4,1944.0
+EC (us/cm),S4,1971.0
+EC (us/cm),S4,1801.0
+EC (us/cm),S4,1879.0
+EC (us/cm),S4,1939.0
+EC (us/cm),S4,1793.0
+EC (us/cm),S4,1931.0
+EC (us/cm),S4,1844.0
+EC (us/cm),S4,1912.0
+EC (us/cm),S4,1967.0
+EC (us/cm),S4,1814.0
+EC (us/cm),S4,1894.0
+EC (us/cm),S4,1855.0
+EC (us/cm),S4,1885.0
+EC (us/cm),S4,1903.0
+EC (us/cm),S4,1920.0
+EC (us/cm),S4,1789.0
+EC (us/cm),S4,1741.0
+EC (us/cm),S4,1772.0
+EC (us/cm),S4,1695.0
+EC (us/cm),S4,1741.0
+EC (us/cm),S4,1715.0
+EC (us/cm),S4,1772.0
+EC (us/cm),S4,1708.0
+EC (us/cm),S4,1777.0
+EC (us/cm),S4,1759.0
+EC (us/cm),S4,1693.0
+EC (us/cm),S4,1728.0
+EC (us/cm),S4,1766.0
+EC (us/cm),S4,1710.0
+EC (us/cm),S4,1771.0
+EC (us/cm),S4,1689.0
+EC (us/cm),S4,1571.0
+EC (us/cm),S4,1486.0
+EC (us/cm),S4,1648.0
+EC (us/cm),S4,1506.0
+EC (us/cm),S4,1626.0
+EC (us/cm),S4,1546.0
+EC (us/cm),S4,1590.0
+EC (us/cm),S4,1615.0
+EC (us/cm),S4,1639.0
+EC (us/cm),S4,1640.0
+EC (us/cm),S4,1662.0
+EC (us/cm),S4,1454.0
+EC (us/cm),S4,1482.0
+EC (us/cm),S4,1460.0
+EC (us/cm),S4,1596.0
+EC (us/cm),S4,1453.0
+EC (us/cm),S4,1388.0
+EC (us/cm),S4,1331.0
+EC (us/cm),S4,1353.0
+EC (us/cm),S4,1424.0
+EC (us/cm),S4,1414.0
+EC (us/cm),S4,1441.0
+EC (us/cm),S4,1401.0
+EC (us/cm),S4,1408.0
+EC (us/cm),S4,1449.0
+EC (us/cm),S4,1342.0
+EC (us/cm),S4,1374.0
+EC (us/cm),S4,1421.0
+EC (us/cm),S4,1398.0
+EC (us/cm),S4,1386.0
+EC (us/cm),S4,1325.0
+EC (us/cm),S4,1324.0
+EC (us/cm),S4,1324.0
+EC (us/cm),S4,1324.0
+EC (us/cm),S4,1324.0
+EC (us/cm),S4,1324.0
+EC (us/cm),S4,1324.0
+EC (us/cm),S4,1324.0
+EC (us/cm),S4,1324.0
+EC (us/cm),S4,1323.0
+EC (us/cm),S4,1325.0
+EC (us/cm),S4,1325.0
+EC (us/cm),S4,1324.0
+EC (us/cm),S4,1325.0
+EC (us/cm),S4,1324.0
+EC (us/cm),S4,1323.0
+EC (us/cm),S4,1304.0
+EC (us/cm),S4,1303.0
+EC (us/cm),S4,1298.0
+EC (us/cm),S4,1296.0
+EC (us/cm),S4,1314.0
+EC (us/cm),S4,1301.0
+EC (us/cm),S4,1281.0
+EC (us/cm),S4,1292.0
+EC (us/cm),S4,1290.0
+EC (us/cm),S4,1311.0
+EC (us/cm),S4,1293.0
+EC (us/cm),S4,1287.0
+EC (us/cm),S4,1320.0
+EC (us/cm),S4,1312.0
+EC (us/cm),S4,1279.0
+EC (us/cm),S4,1175.0
+EC (us/cm),S4,1214.0
+EC (us/cm),S4,1204.0
+EC (us/cm),S4,1130.0
+EC (us/cm),S4,1071.0
+EC (us/cm),S4,1208.0
+EC (us/cm),S4,1050.0
+EC (us/cm),S4,1192.0
+EC (us/cm),S4,1150.0
+EC (us/cm),S4,1274.0
+EC (us/cm),S4,1182.0
+EC (us/cm),S4,1111.0
+EC (us/cm),S4,1137.0
+EC (us/cm),S4,1220.0
+EC (us/cm),S4,1197.0
+EC (us/cm),S4,1047.0
+EC (us/cm),S4,1175.0
+EC (us/cm),S4,1214.0
+EC (us/cm),S4,1204.0
+EC (us/cm),S4,1130.0
+EC (us/cm),S4,1071.0
+EC (us/cm),S4,1208.0
+EC (us/cm),S4,1050.0
+EC (us/cm),S4,1192.0
+EC (us/cm),S4,1150.0
+EC (us/cm),S4,1274.0
+EC (us/cm),S4,1182.0
+EC (us/cm),S4,1111.0
+EC (us/cm),S4,1137.0
+EC (us/cm),S4,1220.0
+EC (us/cm),S4,1045.0
+EC (us/cm),S4,1028.0
+EC (us/cm),S4,1028.0
+EC (us/cm),S4,1029.0
+EC (us/cm),S4,952.0
+EC (us/cm),S4,1002.0
+EC (us/cm),S4,1031.0
+EC (us/cm),S4,1044.0
+EC (us/cm),S4,958.0
+EC (us/cm),S4,968.0
+EC (us/cm),S4,991.0
+EC (us/cm),S4,968.0
+EC (us/cm),S4,987.0
+EC (us/cm),S4,991.0
+EC (us/cm),S4,1036.0
+EC (us/cm),S4,970.0
+EC (us/cm),S4,951.0
+EC (us/cm),S4,970.0
+EC (us/cm),S4,954.0
+EC (us/cm),S4,959.0
+EC (us/cm),S4,963.0
+EC (us/cm),S4,965.0
+EC (us/cm),S4,973.0
+EC (us/cm),S4,961.0
+EC (us/cm),S4,971.0
+EC (us/cm),S4,961.0
+EC (us/cm),S4,953.0
+EC (us/cm),S4,961.0
+EC (us/cm),S4,974.0
+EC (us/cm),S4,967.0
+EC (us/cm),S4,972.0
+EC (us/cm),S4,976.0
+EC (us/cm),S4,1132.0
+EC (us/cm),S4,1218.0
+EC (us/cm),S4,999.0
+EC (us/cm),S4,1023.0
+EC (us/cm),S4,1134.0
+EC (us/cm),S4,1039.0
+EC (us/cm),S4,1230.0
+EC (us/cm),S4,1148.0
+EC (us/cm),S4,1079.0
+EC (us/cm),S4,1083.0
+EC (us/cm),S4,1039.0
+EC (us/cm),S4,1143.0
+EC (us/cm),S4,1148.0
+EC (us/cm),S4,1081.0
+EC (us/cm),S4,1246.0
+EC (us/cm),S4,1327.0
+EC (us/cm),S4,1386.0
+EC (us/cm),S4,1396.0
+EC (us/cm),S4,1401.0
+EC (us/cm),S4,1254.0
+EC (us/cm),S4,1369.0
+EC (us/cm),S4,1304.0
+EC (us/cm),S4,1358.0
+EC (us/cm),S4,1385.0
+EC (us/cm),S4,1274.0
+EC (us/cm),S4,1402.0
+EC (us/cm),S4,1364.0
+EC (us/cm),S4,1365.0
+EC (us/cm),S4,1326.0
+EC (us/cm),S4,1416.0
+EC (us/cm),S4,1540.0
+EC (us/cm),S4,1454.0
+EC (us/cm),S4,1540.0
+EC (us/cm),S4,1443.0
+EC (us/cm),S4,1446.0
+EC (us/cm),S4,1446.0
+EC (us/cm),S4,1514.0
+EC (us/cm),S4,1551.0
+EC (us/cm),S4,1455.0
+EC (us/cm),S4,1501.0
+EC (us/cm),S4,1508.0
+EC (us/cm),S4,1427.0
+EC (us/cm),S4,1422.0
+EC (us/cm),S4,1486.0
+EC (us/cm),S4,1545.0
+EC (us/cm),S4,1570.0
+EC (us/cm),S4,1610.0
+EC (us/cm),S4,1574.0
+EC (us/cm),S4,1609.0
+EC (us/cm),S4,1681.0
+EC (us/cm),S4,1655.0
+EC (us/cm),S4,1606.0
+EC (us/cm),S4,1688.0
+EC (us/cm),S4,1686.0
+EC (us/cm),S4,1676.0
+EC (us/cm),S4,1690.0
+EC (us/cm),S4,1656.0
+EC (us/cm),S4,1654.0
+EC (us/cm),S4,1580.0
+EC (us/cm),S4,1621.0
+EC (us/cm),S4,1690.0
+EC (us/cm),S4,1701.0
+EC (us/cm),S4,1698.0
+EC (us/cm),S4,1696.0
+EC (us/cm),S4,1691.0
+EC (us/cm),S4,1704.0
+EC (us/cm),S4,1697.0
+EC (us/cm),S4,1702.0
+EC (us/cm),S4,1701.0
+EC (us/cm),S4,1704.0
+EC (us/cm),S4,1704.0
+EC (us/cm),S4,1699.0
+EC (us/cm),S4,1691.0
+EC (us/cm),S4,1705.0
+EC (us/cm),S4,1704.0
+TN (mg/L),S1,1.28
+TN (mg/L),S1,1.08
+TN (mg/L),S1,1.17
+TN (mg/L),S1,1.15
+TN (mg/L),S1,1.22
+TN (mg/L),S1,1.09
+TN (mg/L),S1,1.22
+TN (mg/L),S1,1.15
+TN (mg/L),S1,1.23
+TN (mg/L),S1,1.06
+TN (mg/L),S1,1.13
+TN (mg/L),S1,1.08
+TN (mg/L),S1,1.18
+TN (mg/L),S1,1.14
+TN (mg/L),S1,1.07
+TN (mg/L),S1,1.06
+TN (mg/L),S1,1.01
+TN (mg/L),S1,1.03
+TN (mg/L),S1,0.94
+TN (mg/L),S1,0.86
+TN (mg/L),S1,0.8
+TN (mg/L),S1,0.83
+TN (mg/L),S1,0.9
+TN (mg/L),S1,0.81
+TN (mg/L),S1,0.9
+TN (mg/L),S1,0.77
+TN (mg/L),S1,0.93
+TN (mg/L),S1,0.98
+TN (mg/L),S1,1.04
+TN (mg/L),S1,0.97
+TN (mg/L),S1,0.91
+TN (mg/L),S1,0.76
+TN (mg/L),S1,0.76
+TN (mg/L),S1,0.89
+TN (mg/L),S1,0.82
+TN (mg/L),S1,0.89
+TN (mg/L),S1,0.93
+TN (mg/L),S1,0.91
+TN (mg/L),S1,0.91
+TN (mg/L),S1,0.82
+TN (mg/L),S1,0.95
+TN (mg/L),S1,0.83
+TN (mg/L),S1,0.94
+TN (mg/L),S1,0.77
+TN (mg/L),S1,0.92
+TN (mg/L),S1,0.8
+TN (mg/L),S1,0.95
+TN (mg/L),S1,0.97
+TN (mg/L),S1,0.96
+TN (mg/L),S1,1.01
+TN (mg/L),S1,1.04
+TN (mg/L),S1,0.96
+TN (mg/L),S1,0.96
+TN (mg/L),S1,0.99
+TN (mg/L),S1,0.98
+TN (mg/L),S1,0.97
+TN (mg/L),S1,1.02
+TN (mg/L),S1,1.0
+TN (mg/L),S1,1.04
+TN (mg/L),S1,1.02
+TN (mg/L),S1,1.01
+TN (mg/L),S1,0.97
+TN (mg/L),S1,1.05
+TN (mg/L),S1,1.11
+TN (mg/L),S1,1.27
+TN (mg/L),S1,1.08
+TN (mg/L),S1,1.17
+TN (mg/L),S1,1.1
+TN (mg/L),S1,1.27
+TN (mg/L),S1,1.22
+TN (mg/L),S1,1.16
+TN (mg/L),S1,1.12
+TN (mg/L),S1,1.06
+TN (mg/L),S1,1.19
+TN (mg/L),S1,1.07
+TN (mg/L),S1,1.29
+TN (mg/L),S1,1.79
+TN (mg/L),S1,1.58
+TN (mg/L),S1,1.9
+TN (mg/L),S1,1.3
+TN (mg/L),S1,1.68
+TN (mg/L),S1,1.77
+TN (mg/L),S1,1.51
+TN (mg/L),S1,1.94
+TN (mg/L),S1,1.37
+TN (mg/L),S1,1.31
+TN (mg/L),S1,1.85
+TN (mg/L),S1,1.38
+TN (mg/L),S1,1.82
+TN (mg/L),S1,1.94
+TN (mg/L),S1,1.95
+TN (mg/L),S1,2.01
+TN (mg/L),S1,2.02
+TN (mg/L),S1,2.03
+TN (mg/L),S1,2.04
+TN (mg/L),S1,2.04
+TN (mg/L),S1,2.0
+TN (mg/L),S1,1.97
+TN (mg/L),S1,1.98
+TN (mg/L),S1,2.03
+TN (mg/L),S1,1.99
+TN (mg/L),S1,1.96
+TN (mg/L),S1,2.0
+TN (mg/L),S1,2.03
+TN (mg/L),S1,2.03
+TN (mg/L),S1,2.05
+TN (mg/L),S1,2.74
+TN (mg/L),S1,2.16
+TN (mg/L),S1,2.46
+TN (mg/L),S1,2.3
+TN (mg/L),S1,2.72
+TN (mg/L),S1,2.19
+TN (mg/L),S1,2.06
+TN (mg/L),S1,2.84
+TN (mg/L),S1,2.49
+TN (mg/L),S1,2.17
+TN (mg/L),S1,2.47
+TN (mg/L),S1,2.11
+TN (mg/L),S1,2.73
+TN (mg/L),S1,2.62
+TN (mg/L),S1,2.71
+TN (mg/L),S1,2.87
+TN (mg/L),S1,3.01
+TN (mg/L),S1,3.2
+TN (mg/L),S1,3.21
+TN (mg/L),S1,3.05
+TN (mg/L),S1,3.04
+TN (mg/L),S1,2.97
+TN (mg/L),S1,2.93
+TN (mg/L),S1,2.95
+TN (mg/L),S1,3.03
+TN (mg/L),S1,3.08
+TN (mg/L),S1,3.22
+TN (mg/L),S1,3.03
+TN (mg/L),S1,3.19
+TN (mg/L),S1,2.9
+TN (mg/L),S1,3.23
+TN (mg/L),S1,3.32
+TN (mg/L),S1,3.39
+TN (mg/L),S1,3.51
+TN (mg/L),S1,3.27
+TN (mg/L),S1,3.34
+TN (mg/L),S1,3.46
+TN (mg/L),S1,3.4
+TN (mg/L),S1,3.26
+TN (mg/L),S1,3.42
+TN (mg/L),S1,3.45
+TN (mg/L),S1,3.6
+TN (mg/L),S1,3.23
+TN (mg/L),S1,3.58
+TN (mg/L),S1,3.45
+TN (mg/L),S1,3.7
+TN (mg/L),S1,3.6
+TN (mg/L),S1,3.67
+TN (mg/L),S1,3.66
+TN (mg/L),S1,3.64
+TN (mg/L),S1,3.35
+TN (mg/L),S1,3.53
+TN (mg/L),S1,3.67
+TN (mg/L),S1,3.62
+TN (mg/L),S1,3.6
+TN (mg/L),S1,3.37
+TN (mg/L),S1,3.57
+TN (mg/L),S1,3.64
+TN (mg/L),S1,3.41
+TN (mg/L),S1,3.48
+TN (mg/L),S1,3.35
+TN (mg/L),S1,3.06
+TN (mg/L),S1,3.12
+TN (mg/L),S1,3.33
+TN (mg/L),S1,3.27
+TN (mg/L),S1,3.29
+TN (mg/L),S1,3.1
+TN (mg/L),S1,3.11
+TN (mg/L),S1,3.23
+TN (mg/L),S1,3.23
+TN (mg/L),S1,3.34
+TN (mg/L),S1,3.23
+TN (mg/L),S1,3.19
+TN (mg/L),S1,3.1
+TN (mg/L),S1,3.2
+TN (mg/L),S1,3.33
+TN (mg/L),S1,3.05
+TN (mg/L),S1,2.7
+TN (mg/L),S1,2.77
+TN (mg/L),S1,2.88
+TN (mg/L),S1,2.88
+TN (mg/L),S1,2.88
+TN (mg/L),S1,2.91
+TN (mg/L),S1,3.02
+TN (mg/L),S1,2.76
+TN (mg/L),S1,2.92
+TN (mg/L),S1,2.69
+TN (mg/L),S1,2.74
+TN (mg/L),S1,2.79
+TN (mg/L),S1,2.83
+TN (mg/L),S1,2.92
+TN (mg/L),S1,2.65
+TN (mg/L),S1,2.63
+TN (mg/L),S1,2.6
+TN (mg/L),S1,2.52
+TN (mg/L),S1,2.57
+TN (mg/L),S1,2.48
+TN (mg/L),S1,2.47
+TN (mg/L),S1,2.62
+TN (mg/L),S1,2.64
+TN (mg/L),S1,2.48
+TN (mg/L),S1,2.61
+TN (mg/L),S1,2.61
+TN (mg/L),S1,2.6
+TN (mg/L),S1,2.61
+TN (mg/L),S1,2.59
+TN (mg/L),S1,2.47
+TN (mg/L),S1,2.43
+TN (mg/L),S1,2.45
+TN (mg/L),S1,2.37
+TN (mg/L),S1,2.18
+TN (mg/L),S1,2.27
+TN (mg/L),S1,2.19
+TN (mg/L),S1,2.31
+TN (mg/L),S1,2.38
+TN (mg/L),S1,2.23
+TN (mg/L),S1,2.25
+TN (mg/L),S1,2.45
+TN (mg/L),S1,2.15
+TN (mg/L),S1,2.26
+TN (mg/L),S1,2.46
+TN (mg/L),S1,2.15
+TN (mg/L),S1,2.12
+TN (mg/L),S1,2.14
+TN (mg/L),S1,2.15
+TN (mg/L),S1,2.14
+TN (mg/L),S1,2.15
+TN (mg/L),S1,2.12
+TN (mg/L),S1,2.13
+TN (mg/L),S1,2.13
+TN (mg/L),S1,2.12
+TN (mg/L),S1,2.12
+TN (mg/L),S1,2.13
+TN (mg/L),S1,2.13
+TN (mg/L),S1,2.15
+TN (mg/L),S1,2.13
+TN (mg/L),S1,2.12
+TN (mg/L),S1,2.11
+TN (mg/L),S1,2.12
+TN (mg/L),S1,2.14
+TN (mg/L),S1,2.15
+TN (mg/L),S1,2.14
+TN (mg/L),S1,2.15
+TN (mg/L),S1,2.12
+TN (mg/L),S1,2.13
+TN (mg/L),S1,2.13
+TN (mg/L),S1,2.12
+TN (mg/L),S1,2.12
+TN (mg/L),S1,2.13
+TN (mg/L),S1,2.13
+TN (mg/L),S1,2.15
+TN (mg/L),S1,2.13
+TN (mg/L),S1,1.97
+TN (mg/L),S1,1.89
+TN (mg/L),S1,1.95
+TN (mg/L),S1,1.9
+TN (mg/L),S1,1.95
+TN (mg/L),S1,1.91
+TN (mg/L),S1,1.92
+TN (mg/L),S1,1.93
+TN (mg/L),S1,1.94
+TN (mg/L),S1,1.9
+TN (mg/L),S1,1.96
+TN (mg/L),S1,1.89
+TN (mg/L),S1,1.89
+TN (mg/L),S1,1.89
+TN (mg/L),S1,1.91
+TN (mg/L),S1,1.9
+TN (mg/L),S1,1.87
+TN (mg/L),S1,1.62
+TN (mg/L),S1,1.79
+TN (mg/L),S1,1.61
+TN (mg/L),S1,1.69
+TN (mg/L),S1,1.65
+TN (mg/L),S1,1.62
+TN (mg/L),S1,1.73
+TN (mg/L),S1,1.81
+TN (mg/L),S1,1.65
+TN (mg/L),S1,1.83
+TN (mg/L),S1,1.78
+TN (mg/L),S1,1.62
+TN (mg/L),S1,1.64
+TN (mg/L),S1,1.8
+TN (mg/L),S1,1.55
+TN (mg/L),S1,1.55
+TN (mg/L),S1,1.6
+TN (mg/L),S1,1.61
+TN (mg/L),S1,1.57
+TN (mg/L),S1,1.57
+TN (mg/L),S1,1.61
+TN (mg/L),S1,1.6
+TN (mg/L),S1,1.56
+TN (mg/L),S1,1.61
+TN (mg/L),S1,1.56
+TN (mg/L),S1,1.57
+TN (mg/L),S1,1.57
+TN (mg/L),S1,1.62
+TN (mg/L),S1,1.6
+TN (mg/L),S1,1.62
+TN (mg/L),S1,1.46
+TN (mg/L),S1,1.46
+TN (mg/L),S1,1.38
+TN (mg/L),S1,1.35
+TN (mg/L),S1,1.56
+TN (mg/L),S1,1.49
+TN (mg/L),S1,1.47
+TN (mg/L),S1,1.39
+TN (mg/L),S1,1.53
+TN (mg/L),S1,1.53
+TN (mg/L),S1,1.32
+TN (mg/L),S1,1.34
+TN (mg/L),S1,1.4
+TN (mg/L),S1,1.47
+TN (mg/L),S1,1.28
+TN (mg/L),S1,1.28
+TN (mg/L),S1,1.22
+TN (mg/L),S1,1.24
+TN (mg/L),S1,1.19
+TN (mg/L),S1,1.25
+TN (mg/L),S1,1.27
+TN (mg/L),S1,1.27
+TN (mg/L),S1,1.27
+TN (mg/L),S1,1.24
+TN (mg/L),S1,1.27
+TN (mg/L),S1,1.21
+TN (mg/L),S1,1.21
+TN (mg/L),S1,1.22
+TN (mg/L),S1,1.26
+TN (mg/L),S1,1.24
+TN (mg/L),S1,1.18
+TN (mg/L),S1,1.22
+TN (mg/L),S1,1.2
+TN (mg/L),S1,1.24
+TN (mg/L),S1,1.18
+TN (mg/L),S1,1.26
+TN (mg/L),S1,1.27
+TN (mg/L),S1,1.23
+TN (mg/L),S1,1.26
+TN (mg/L),S1,1.23
+TN (mg/L),S1,1.23
+TN (mg/L),S1,1.25
+TN (mg/L),S1,1.26
+TN (mg/L),S1,1.2
+TN (mg/L),S1,1.2
+TN (mg/L),S1,1.27
+TN (mg/L),S1,1.3
+TN (mg/L),S1,1.31
+TN (mg/L),S1,1.31
+TN (mg/L),S1,1.29
+TN (mg/L),S1,1.29
+TN (mg/L),S1,1.31
+TN (mg/L),S1,1.28
+TN (mg/L),S1,1.31
+TN (mg/L),S1,1.29
+TN (mg/L),S1,1.28
+TN (mg/L),S1,1.29
+TN (mg/L),S1,1.31
+TN (mg/L),S1,1.27
+TN (mg/L),S1,1.29
+TN (mg/L),S2,1.25
+TN (mg/L),S2,1.2
+TN (mg/L),S2,1.24
+TN (mg/L),S2,1.22
+TN (mg/L),S2,1.18
+TN (mg/L),S2,1.2
+TN (mg/L),S2,1.1
+TN (mg/L),S2,1.22
+TN (mg/L),S2,1.24
+TN (mg/L),S2,1.19
+TN (mg/L),S2,1.13
+TN (mg/L),S2,1.1
+TN (mg/L),S2,1.17
+TN (mg/L),S2,1.25
+TN (mg/L),S2,1.23
+TN (mg/L),S2,1.1
+TN (mg/L),S2,0.97
+TN (mg/L),S2,1.0
+TN (mg/L),S2,0.95
+TN (mg/L),S2,1.04
+TN (mg/L),S2,0.8
+TN (mg/L),S2,0.85
+TN (mg/L),S2,0.88
+TN (mg/L),S2,0.96
+TN (mg/L),S2,0.79
+TN (mg/L),S2,0.86
+TN (mg/L),S2,1.04
+TN (mg/L),S2,0.91
+TN (mg/L),S2,1.01
+TN (mg/L),S2,1.07
+TN (mg/L),S2,1.01
+TN (mg/L),S2,0.75
+TN (mg/L),S2,0.75
+TN (mg/L),S2,0.78
+TN (mg/L),S2,0.9
+TN (mg/L),S2,0.87
+TN (mg/L),S2,0.91
+TN (mg/L),S2,0.89
+TN (mg/L),S2,0.8
+TN (mg/L),S2,0.83
+TN (mg/L),S2,0.85
+TN (mg/L),S2,0.84
+TN (mg/L),S2,0.79
+TN (mg/L),S2,0.9
+TN (mg/L),S2,0.87
+TN (mg/L),S2,0.82
+TN (mg/L),S2,0.93
+TN (mg/L),S2,0.95
+TN (mg/L),S2,0.93
+TN (mg/L),S2,0.95
+TN (mg/L),S2,0.97
+TN (mg/L),S2,0.93
+TN (mg/L),S2,0.99
+TN (mg/L),S2,0.95
+TN (mg/L),S2,0.94
+TN (mg/L),S2,0.96
+TN (mg/L),S2,0.97
+TN (mg/L),S2,0.95
+TN (mg/L),S2,0.97
+TN (mg/L),S2,0.96
+TN (mg/L),S2,0.98
+TN (mg/L),S2,0.93
+TN (mg/L),S2,1.0
+TN (mg/L),S2,1.25
+TN (mg/L),S2,1.18
+TN (mg/L),S2,1.07
+TN (mg/L),S2,1.31
+TN (mg/L),S2,1.27
+TN (mg/L),S2,1.05
+TN (mg/L),S2,1.1
+TN (mg/L),S2,1.0
+TN (mg/L),S2,1.23
+TN (mg/L),S2,1.25
+TN (mg/L),S2,1.26
+TN (mg/L),S2,1.22
+TN (mg/L),S2,1.35
+TN (mg/L),S2,1.53
+TN (mg/L),S2,1.61
+TN (mg/L),S2,1.71
+TN (mg/L),S2,1.37
+TN (mg/L),S2,1.59
+TN (mg/L),S2,1.51
+TN (mg/L),S2,1.49
+TN (mg/L),S2,1.36
+TN (mg/L),S2,1.38
+TN (mg/L),S2,1.41
+TN (mg/L),S2,1.43
+TN (mg/L),S2,1.61
+TN (mg/L),S2,1.36
+TN (mg/L),S2,1.61
+TN (mg/L),S2,1.72
+TN (mg/L),S2,1.89
+TN (mg/L),S2,1.79
+TN (mg/L),S2,1.93
+TN (mg/L),S2,1.83
+TN (mg/L),S2,1.96
+TN (mg/L),S2,1.79
+TN (mg/L),S2,1.94
+TN (mg/L),S2,1.94
+TN (mg/L),S2,1.72
+TN (mg/L),S2,1.75
+TN (mg/L),S2,1.75
+TN (mg/L),S2,1.77
+TN (mg/L),S2,1.97
+TN (mg/L),S2,1.8
+TN (mg/L),S2,1.98
+TN (mg/L),S2,2.49
+TN (mg/L),S2,2.37
+TN (mg/L),S2,2.33
+TN (mg/L),S2,2.09
+TN (mg/L),S2,2.78
+TN (mg/L),S2,2.62
+TN (mg/L),S2,2.11
+TN (mg/L),S2,2.7
+TN (mg/L),S2,1.99
+TN (mg/L),S2,2.52
+TN (mg/L),S2,2.69
+TN (mg/L),S2,2.0
+TN (mg/L),S2,2.34
+TN (mg/L),S2,2.43
+TN (mg/L),S2,2.75
+TN (mg/L),S2,2.78
+TN (mg/L),S2,3.13
+TN (mg/L),S2,2.91
+TN (mg/L),S2,2.93
+TN (mg/L),S2,3.12
+TN (mg/L),S2,2.85
+TN (mg/L),S2,3.02
+TN (mg/L),S2,3.13
+TN (mg/L),S2,2.85
+TN (mg/L),S2,3.04
+TN (mg/L),S2,2.91
+TN (mg/L),S2,3.13
+TN (mg/L),S2,2.88
+TN (mg/L),S2,2.89
+TN (mg/L),S2,2.82
+TN (mg/L),S2,3.21
+TN (mg/L),S2,3.49
+TN (mg/L),S2,3.3
+TN (mg/L),S2,3.63
+TN (mg/L),S2,3.38
+TN (mg/L),S2,3.3
+TN (mg/L),S2,3.45
+TN (mg/L),S2,3.3
+TN (mg/L),S2,3.32
+TN (mg/L),S2,3.46
+TN (mg/L),S2,3.55
+TN (mg/L),S2,3.31
+TN (mg/L),S2,3.28
+TN (mg/L),S2,3.31
+TN (mg/L),S2,3.43
+TN (mg/L),S2,3.65
+TN (mg/L),S2,3.43
+TN (mg/L),S2,3.49
+TN (mg/L),S2,3.65
+TN (mg/L),S2,3.45
+TN (mg/L),S2,3.5
+TN (mg/L),S2,3.41
+TN (mg/L),S2,3.54
+TN (mg/L),S2,3.43
+TN (mg/L),S2,3.36
+TN (mg/L),S2,3.3
+TN (mg/L),S2,3.4
+TN (mg/L),S2,3.47
+TN (mg/L),S2,3.59
+TN (mg/L),S2,3.35
+TN (mg/L),S2,3.3
+TN (mg/L),S2,3.21
+TN (mg/L),S2,3.26
+TN (mg/L),S2,3.09
+TN (mg/L),S2,3.07
+TN (mg/L),S2,3.23
+TN (mg/L),S2,3.04
+TN (mg/L),S2,3.16
+TN (mg/L),S2,3.1
+TN (mg/L),S2,3.23
+TN (mg/L),S2,3.13
+TN (mg/L),S2,3.03
+TN (mg/L),S2,3.05
+TN (mg/L),S2,3.27
+TN (mg/L),S2,3.04
+TN (mg/L),S2,3.28
+TN (mg/L),S2,2.98
+TN (mg/L),S2,2.82
+TN (mg/L),S2,2.85
+TN (mg/L),S2,2.64
+TN (mg/L),S2,2.92
+TN (mg/L),S2,2.79
+TN (mg/L),S2,2.92
+TN (mg/L),S2,2.71
+TN (mg/L),S2,2.67
+TN (mg/L),S2,2.72
+TN (mg/L),S2,2.83
+TN (mg/L),S2,2.64
+TN (mg/L),S2,2.8
+TN (mg/L),S2,2.62
+TN (mg/L),S2,2.78
+TN (mg/L),S2,2.61
+TN (mg/L),S2,2.49
+TN (mg/L),S2,2.48
+TN (mg/L),S2,2.48
+TN (mg/L),S2,2.49
+TN (mg/L),S2,2.53
+TN (mg/L),S2,2.39
+TN (mg/L),S2,2.48
+TN (mg/L),S2,2.39
+TN (mg/L),S2,2.54
+TN (mg/L),S2,2.4
+TN (mg/L),S2,2.58
+TN (mg/L),S2,2.51
+TN (mg/L),S2,2.48
+TN (mg/L),S2,2.37
+TN (mg/L),S2,2.36
+TN (mg/L),S2,2.32
+TN (mg/L),S2,2.31
+TN (mg/L),S2,2.22
+TN (mg/L),S2,2.35
+TN (mg/L),S2,2.28
+TN (mg/L),S2,2.26
+TN (mg/L),S2,2.21
+TN (mg/L),S2,2.29
+TN (mg/L),S2,2.28
+TN (mg/L),S2,2.29
+TN (mg/L),S2,2.33
+TN (mg/L),S2,2.18
+TN (mg/L),S2,2.16
+TN (mg/L),S2,2.35
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,2.14
+TN (mg/L),S2,1.89
+TN (mg/L),S2,1.89
+TN (mg/L),S2,1.89
+TN (mg/L),S2,1.89
+TN (mg/L),S2,1.89
+TN (mg/L),S2,1.89
+TN (mg/L),S2,1.89
+TN (mg/L),S2,1.89
+TN (mg/L),S2,1.89
+TN (mg/L),S2,1.89
+TN (mg/L),S2,1.89
+TN (mg/L),S2,1.89
+TN (mg/L),S2,1.89
+TN (mg/L),S2,1.89
+TN (mg/L),S2,1.89
+TN (mg/L),S2,1.89
+TN (mg/L),S2,1.89
+TN (mg/L),S2,1.75
+TN (mg/L),S2,1.82
+TN (mg/L),S2,1.79
+TN (mg/L),S2,1.6
+TN (mg/L),S2,1.78
+TN (mg/L),S2,1.79
+TN (mg/L),S2,1.77
+TN (mg/L),S2,1.88
+TN (mg/L),S2,1.82
+TN (mg/L),S2,1.62
+TN (mg/L),S2,1.86
+TN (mg/L),S2,1.86
+TN (mg/L),S2,1.64
+TN (mg/L),S2,1.81
+TN (mg/L),S2,1.59
+TN (mg/L),S2,1.59
+TN (mg/L),S2,1.59
+TN (mg/L),S2,1.59
+TN (mg/L),S2,1.59
+TN (mg/L),S2,1.59
+TN (mg/L),S2,1.59
+TN (mg/L),S2,1.59
+TN (mg/L),S2,1.59
+TN (mg/L),S2,1.59
+TN (mg/L),S2,1.59
+TN (mg/L),S2,1.59
+TN (mg/L),S2,1.59
+TN (mg/L),S2,1.59
+TN (mg/L),S2,1.59
+TN (mg/L),S2,1.59
+TN (mg/L),S2,1.32
+TN (mg/L),S2,1.22
+TN (mg/L),S2,1.28
+TN (mg/L),S2,1.52
+TN (mg/L),S2,1.22
+TN (mg/L),S2,1.25
+TN (mg/L),S2,1.4
+TN (mg/L),S2,1.23
+TN (mg/L),S2,1.52
+TN (mg/L),S2,1.48
+TN (mg/L),S2,1.39
+TN (mg/L),S2,1.36
+TN (mg/L),S2,1.48
+TN (mg/L),S2,1.3
+TN (mg/L),S2,1.21
+TN (mg/L),S2,1.23
+TN (mg/L),S2,1.21
+TN (mg/L),S2,1.22
+TN (mg/L),S2,1.22
+TN (mg/L),S2,1.23
+TN (mg/L),S2,1.22
+TN (mg/L),S2,1.23
+TN (mg/L),S2,1.22
+TN (mg/L),S2,1.22
+TN (mg/L),S2,1.22
+TN (mg/L),S2,1.23
+TN (mg/L),S2,1.23
+TN (mg/L),S2,1.22
+TN (mg/L),S2,1.22
+TN (mg/L),S2,1.23
+TN (mg/L),S2,1.23
+TN (mg/L),S2,1.24
+TN (mg/L),S2,1.24
+TN (mg/L),S2,1.24
+TN (mg/L),S2,1.24
+TN (mg/L),S2,1.23
+TN (mg/L),S2,1.24
+TN (mg/L),S2,1.24
+TN (mg/L),S2,1.23
+TN (mg/L),S2,1.26
+TN (mg/L),S2,1.25
+TN (mg/L),S2,1.24
+TN (mg/L),S2,1.24
+TN (mg/L),S2,1.23
+TN (mg/L),S2,1.25
+TN (mg/L),S2,1.26
+TN (mg/L),S2,1.27
+TN (mg/L),S2,1.29
+TN (mg/L),S2,1.29
+TN (mg/L),S2,1.27
+TN (mg/L),S2,1.28
+TN (mg/L),S2,1.29
+TN (mg/L),S2,1.27
+TN (mg/L),S2,1.26
+TN (mg/L),S2,1.3
+TN (mg/L),S2,1.28
+TN (mg/L),S2,1.29
+TN (mg/L),S2,1.27
+TN (mg/L),S2,1.27
+TN (mg/L),S2,1.28
+TN (mg/L),S3,1.26
+TN (mg/L),S3,1.18
+TN (mg/L),S3,1.2
+TN (mg/L),S3,1.12
+TN (mg/L),S3,1.12
+TN (mg/L),S3,1.11
+TN (mg/L),S3,1.1
+TN (mg/L),S3,1.16
+TN (mg/L),S3,1.26
+TN (mg/L),S3,1.11
+TN (mg/L),S3,1.1
+TN (mg/L),S3,1.08
+TN (mg/L),S3,1.23
+TN (mg/L),S3,1.13
+TN (mg/L),S3,1.15
+TN (mg/L),S3,1.08
+TN (mg/L),S3,0.82
+TN (mg/L),S3,0.9
+TN (mg/L),S3,0.86
+TN (mg/L),S3,0.86
+TN (mg/L),S3,0.99
+TN (mg/L),S3,1.04
+TN (mg/L),S3,0.88
+TN (mg/L),S3,0.81
+TN (mg/L),S3,0.93
+TN (mg/L),S3,0.83
+TN (mg/L),S3,0.8
+TN (mg/L),S3,1.0
+TN (mg/L),S3,1.05
+TN (mg/L),S3,1.07
+TN (mg/L),S3,0.87
+TN (mg/L),S3,0.79
+TN (mg/L),S3,0.84
+TN (mg/L),S3,0.79
+TN (mg/L),S3,0.94
+TN (mg/L),S3,0.88
+TN (mg/L),S3,0.93
+TN (mg/L),S3,0.92
+TN (mg/L),S3,0.89
+TN (mg/L),S3,0.81
+TN (mg/L),S3,0.93
+TN (mg/L),S3,0.8
+TN (mg/L),S3,0.88
+TN (mg/L),S3,0.83
+TN (mg/L),S3,0.91
+TN (mg/L),S3,0.91
+TN (mg/L),S3,0.94
+TN (mg/L),S3,1.05
+TN (mg/L),S3,1.04
+TN (mg/L),S3,1.0
+TN (mg/L),S3,1.09
+TN (mg/L),S3,1.03
+TN (mg/L),S3,1.04
+TN (mg/L),S3,0.95
+TN (mg/L),S3,0.96
+TN (mg/L),S3,0.97
+TN (mg/L),S3,1.0
+TN (mg/L),S3,0.99
+TN (mg/L),S3,1.02
+TN (mg/L),S3,1.04
+TN (mg/L),S3,1.01
+TN (mg/L),S3,1.05
+TN (mg/L),S3,1.09
+TN (mg/L),S3,1.11
+TN (mg/L),S3,1.13
+TN (mg/L),S3,1.16
+TN (mg/L),S3,1.15
+TN (mg/L),S3,1.19
+TN (mg/L),S3,1.12
+TN (mg/L),S3,1.1
+TN (mg/L),S3,1.2
+TN (mg/L),S3,1.13
+TN (mg/L),S3,1.09
+TN (mg/L),S3,1.12
+TN (mg/L),S3,1.09
+TN (mg/L),S3,1.22
+TN (mg/L),S3,1.7
+TN (mg/L),S3,1.31
+TN (mg/L),S3,1.39
+TN (mg/L),S3,1.42
+TN (mg/L),S3,1.67
+TN (mg/L),S3,1.29
+TN (mg/L),S3,1.36
+TN (mg/L),S3,1.58
+TN (mg/L),S3,1.62
+TN (mg/L),S3,1.6
+TN (mg/L),S3,1.24
+TN (mg/L),S3,1.28
+TN (mg/L),S3,1.45
+TN (mg/L),S3,1.29
+TN (mg/L),S3,1.7
+TN (mg/L),S3,1.84
+TN (mg/L),S3,1.75
+TN (mg/L),S3,1.87
+TN (mg/L),S3,1.8
+TN (mg/L),S3,2.01
+TN (mg/L),S3,1.88
+TN (mg/L),S3,1.83
+TN (mg/L),S3,1.88
+TN (mg/L),S3,2.08
+TN (mg/L),S3,1.86
+TN (mg/L),S3,2.1
+TN (mg/L),S3,1.98
+TN (mg/L),S3,2.02
+TN (mg/L),S3,1.74
+TN (mg/L),S3,2.11
+TN (mg/L),S3,2.83
+TN (mg/L),S3,2.48
+TN (mg/L),S3,2.44
+TN (mg/L),S3,2.72
+TN (mg/L),S3,2.63
+TN (mg/L),S3,2.79
+TN (mg/L),S3,2.6
+TN (mg/L),S3,2.42
+TN (mg/L),S3,2.71
+TN (mg/L),S3,2.27
+TN (mg/L),S3,2.25
+TN (mg/L),S3,2.79
+TN (mg/L),S3,2.45
+TN (mg/L),S3,2.41
+TN (mg/L),S3,2.23
+TN (mg/L),S3,2.85
+TN (mg/L),S3,3.03
+TN (mg/L),S3,2.86
+TN (mg/L),S3,3.1
+TN (mg/L),S3,3.12
+TN (mg/L),S3,2.86
+TN (mg/L),S3,2.86
+TN (mg/L),S3,2.95
+TN (mg/L),S3,2.88
+TN (mg/L),S3,3.0
+TN (mg/L),S3,2.97
+TN (mg/L),S3,3.06
+TN (mg/L),S3,2.88
+TN (mg/L),S3,3.05
+TN (mg/L),S3,3.0
+TN (mg/L),S3,3.14
+TN (mg/L),S3,3.48
+TN (mg/L),S3,3.22
+TN (mg/L),S3,3.21
+TN (mg/L),S3,3.43
+TN (mg/L),S3,3.26
+TN (mg/L),S3,3.33
+TN (mg/L),S3,3.37
+TN (mg/L),S3,3.43
+TN (mg/L),S3,3.51
+TN (mg/L),S3,3.3
+TN (mg/L),S3,3.58
+TN (mg/L),S3,3.26
+TN (mg/L),S3,3.43
+TN (mg/L),S3,3.51
+TN (mg/L),S3,3.6
+TN (mg/L),S3,3.4
+TN (mg/L),S3,3.56
+TN (mg/L),S3,3.4
+TN (mg/L),S3,3.59
+TN (mg/L),S3,3.32
+TN (mg/L),S3,3.48
+TN (mg/L),S3,3.35
+TN (mg/L),S3,3.36
+TN (mg/L),S3,3.44
+TN (mg/L),S3,3.33
+TN (mg/L),S3,3.43
+TN (mg/L),S3,3.45
+TN (mg/L),S3,3.31
+TN (mg/L),S3,3.59
+TN (mg/L),S3,3.29
+TN (mg/L),S3,3.23
+TN (mg/L),S3,3.07
+TN (mg/L),S3,3.0
+TN (mg/L),S3,3.08
+TN (mg/L),S3,3.04
+TN (mg/L),S3,3.26
+TN (mg/L),S3,3.07
+TN (mg/L),S3,3.13
+TN (mg/L),S3,3.07
+TN (mg/L),S3,2.98
+TN (mg/L),S3,3.01
+TN (mg/L),S3,3.06
+TN (mg/L),S3,3.2
+TN (mg/L),S3,3.05
+TN (mg/L),S3,3.28
+TN (mg/L),S3,2.95
+TN (mg/L),S3,2.7
+TN (mg/L),S3,2.82
+TN (mg/L),S3,2.84
+TN (mg/L),S3,2.92
+TN (mg/L),S3,2.75
+TN (mg/L),S3,2.62
+TN (mg/L),S3,2.79
+TN (mg/L),S3,2.65
+TN (mg/L),S3,2.94
+TN (mg/L),S3,2.64
+TN (mg/L),S3,2.91
+TN (mg/L),S3,2.93
+TN (mg/L),S3,2.76
+TN (mg/L),S3,2.94
+TN (mg/L),S3,2.6
+TN (mg/L),S3,2.36
+TN (mg/L),S3,2.3
+TN (mg/L),S3,2.37
+TN (mg/L),S3,2.54
+TN (mg/L),S3,2.54
+TN (mg/L),S3,2.43
+TN (mg/L),S3,2.51
+TN (mg/L),S3,2.36
+TN (mg/L),S3,2.52
+TN (mg/L),S3,2.49
+TN (mg/L),S3,2.49
+TN (mg/L),S3,2.55
+TN (mg/L),S3,2.32
+TN (mg/L),S3,2.54
+TN (mg/L),S3,2.29
+TN (mg/L),S3,2.18
+TN (mg/L),S3,2.29
+TN (mg/L),S3,2.21
+TN (mg/L),S3,2.17
+TN (mg/L),S3,2.21
+TN (mg/L),S3,2.17
+TN (mg/L),S3,2.25
+TN (mg/L),S3,2.18
+TN (mg/L),S3,2.19
+TN (mg/L),S3,2.16
+TN (mg/L),S3,2.15
+TN (mg/L),S3,2.13
+TN (mg/L),S3,2.28
+TN (mg/L),S3,2.24
+TN (mg/L),S3,2.11
+TN (mg/L),S3,2.08
+TN (mg/L),S3,2.09
+TN (mg/L),S3,2.07
+TN (mg/L),S3,2.11
+TN (mg/L),S3,2.11
+TN (mg/L),S3,2.07
+TN (mg/L),S3,2.06
+TN (mg/L),S3,2.09
+TN (mg/L),S3,2.06
+TN (mg/L),S3,2.1
+TN (mg/L),S3,2.07
+TN (mg/L),S3,2.08
+TN (mg/L),S3,2.1
+TN (mg/L),S3,2.07
+TN (mg/L),S3,2.08
+TN (mg/L),S3,2.06
+TN (mg/L),S3,2.08
+TN (mg/L),S3,2.09
+TN (mg/L),S3,2.07
+TN (mg/L),S3,2.11
+TN (mg/L),S3,2.11
+TN (mg/L),S3,2.07
+TN (mg/L),S3,2.06
+TN (mg/L),S3,2.09
+TN (mg/L),S3,2.06
+TN (mg/L),S3,2.1
+TN (mg/L),S3,2.07
+TN (mg/L),S3,2.08
+TN (mg/L),S3,2.1
+TN (mg/L),S3,2.07
+TN (mg/L),S3,2.01
+TN (mg/L),S3,2.01
+TN (mg/L),S3,2.01
+TN (mg/L),S3,2.01
+TN (mg/L),S3,2.01
+TN (mg/L),S3,2.01
+TN (mg/L),S3,2.01
+TN (mg/L),S3,2.01
+TN (mg/L),S3,2.01
+TN (mg/L),S3,2.01
+TN (mg/L),S3,2.01
+TN (mg/L),S3,2.01
+TN (mg/L),S3,2.01
+TN (mg/L),S3,2.01
+TN (mg/L),S3,2.01
+TN (mg/L),S3,2.01
+TN (mg/L),S3,2.01
+TN (mg/L),S3,1.72
+TN (mg/L),S3,1.73
+TN (mg/L),S3,1.69
+TN (mg/L),S3,1.81
+TN (mg/L),S3,1.9
+TN (mg/L),S3,1.7
+TN (mg/L),S3,2.0
+TN (mg/L),S3,1.72
+TN (mg/L),S3,1.76
+TN (mg/L),S3,1.97
+TN (mg/L),S3,1.7
+TN (mg/L),S3,1.85
+TN (mg/L),S3,1.95
+TN (mg/L),S3,1.92
+TN (mg/L),S3,1.68
+TN (mg/L),S3,1.68
+TN (mg/L),S3,1.66
+TN (mg/L),S3,1.62
+TN (mg/L),S3,1.67
+TN (mg/L),S3,1.58
+TN (mg/L),S3,1.62
+TN (mg/L),S3,1.61
+TN (mg/L),S3,1.64
+TN (mg/L),S3,1.67
+TN (mg/L),S3,1.6
+TN (mg/L),S3,1.58
+TN (mg/L),S3,1.63
+TN (mg/L),S3,1.66
+TN (mg/L),S3,1.57
+TN (mg/L),S3,1.55
+TN (mg/L),S3,1.36
+TN (mg/L),S3,1.34
+TN (mg/L),S3,1.29
+TN (mg/L),S3,1.27
+TN (mg/L),S3,1.39
+TN (mg/L),S3,1.48
+TN (mg/L),S3,1.3
+TN (mg/L),S3,1.36
+TN (mg/L),S3,1.55
+TN (mg/L),S3,1.41
+TN (mg/L),S3,1.25
+TN (mg/L),S3,1.27
+TN (mg/L),S3,1.39
+TN (mg/L),S3,1.28
+TN (mg/L),S3,1.23
+TN (mg/L),S3,1.29
+TN (mg/L),S3,1.24
+TN (mg/L),S3,1.24
+TN (mg/L),S3,1.34
+TN (mg/L),S3,1.25
+TN (mg/L),S3,1.3
+TN (mg/L),S3,1.33
+TN (mg/L),S3,1.33
+TN (mg/L),S3,1.31
+TN (mg/L),S3,1.28
+TN (mg/L),S3,1.26
+TN (mg/L),S3,1.3
+TN (mg/L),S3,1.28
+TN (mg/L),S3,1.24
+TN (mg/L),S3,1.25
+TN (mg/L),S3,1.34
+TN (mg/L),S3,1.31
+TN (mg/L),S3,1.2
+TN (mg/L),S3,1.23
+TN (mg/L),S3,1.24
+TN (mg/L),S3,1.28
+TN (mg/L),S3,1.3
+TN (mg/L),S3,1.27
+TN (mg/L),S3,1.23
+TN (mg/L),S3,1.31
+TN (mg/L),S3,1.26
+TN (mg/L),S3,1.29
+TN (mg/L),S3,1.18
+TN (mg/L),S3,1.26
+TN (mg/L),S3,1.28
+TN (mg/L),S3,1.17
+TN (mg/L),S3,1.2
+TN (mg/L),S3,1.19
+TN (mg/L),S3,1.23
+TN (mg/L),S3,1.19
+TN (mg/L),S3,1.21
+TN (mg/L),S3,1.18
+TN (mg/L),S3,1.17
+TN (mg/L),S3,1.2
+TN (mg/L),S3,1.19
+TN (mg/L),S3,1.18
+TN (mg/L),S3,1.19
+TN (mg/L),S3,1.2
+TN (mg/L),S3,1.23
+TN (mg/L),S3,1.22
+TN (mg/L),S4,1.27
+TN (mg/L),S4,1.19
+TN (mg/L),S4,1.23
+TN (mg/L),S4,1.12
+TN (mg/L),S4,1.13
+TN (mg/L),S4,1.11
+TN (mg/L),S4,1.24
+TN (mg/L),S4,1.11
+TN (mg/L),S4,1.24
+TN (mg/L),S4,1.14
+TN (mg/L),S4,1.14
+TN (mg/L),S4,1.16
+TN (mg/L),S4,1.27
+TN (mg/L),S4,1.14
+TN (mg/L),S4,1.21
+TN (mg/L),S4,1.11
+TN (mg/L),S4,0.89
+TN (mg/L),S4,0.85
+TN (mg/L),S4,0.84
+TN (mg/L),S4,0.94
+TN (mg/L),S4,0.99
+TN (mg/L),S4,0.88
+TN (mg/L),S4,1.11
+TN (mg/L),S4,0.94
+TN (mg/L),S4,1.06
+TN (mg/L),S4,0.79
+TN (mg/L),S4,1.02
+TN (mg/L),S4,0.98
+TN (mg/L),S4,0.93
+TN (mg/L),S4,1.07
+TN (mg/L),S4,1.0
+TN (mg/L),S4,0.77
+TN (mg/L),S4,0.81
+TN (mg/L),S4,0.79
+TN (mg/L),S4,0.9
+TN (mg/L),S4,0.79
+TN (mg/L),S4,0.91
+TN (mg/L),S4,0.87
+TN (mg/L),S4,0.85
+TN (mg/L),S4,0.9
+TN (mg/L),S4,0.83
+TN (mg/L),S4,0.83
+TN (mg/L),S4,0.82
+TN (mg/L),S4,0.82
+TN (mg/L),S4,0.82
+TN (mg/L),S4,0.88
+TN (mg/L),S4,0.94
+TN (mg/L),S4,0.96
+TN (mg/L),S4,0.96
+TN (mg/L),S4,1.04
+TN (mg/L),S4,0.96
+TN (mg/L),S4,1.05
+TN (mg/L),S4,0.98
+TN (mg/L),S4,1.03
+TN (mg/L),S4,0.95
+TN (mg/L),S4,1.05
+TN (mg/L),S4,1.0
+TN (mg/L),S4,1.05
+TN (mg/L),S4,1.09
+TN (mg/L),S4,0.95
+TN (mg/L),S4,1.01
+TN (mg/L),S4,1.06
+TN (mg/L),S4,1.1
+TN (mg/L),S4,1.11
+TN (mg/L),S4,1.11
+TN (mg/L),S4,1.18
+TN (mg/L),S4,1.17
+TN (mg/L),S4,1.24
+TN (mg/L),S4,1.17
+TN (mg/L),S4,1.12
+TN (mg/L),S4,1.14
+TN (mg/L),S4,1.12
+TN (mg/L),S4,1.22
+TN (mg/L),S4,1.11
+TN (mg/L),S4,1.2
+TN (mg/L),S4,1.25
+TN (mg/L),S4,1.56
+TN (mg/L),S4,1.49
+TN (mg/L),S4,1.62
+TN (mg/L),S4,1.27
+TN (mg/L),S4,1.44
+TN (mg/L),S4,1.28
+TN (mg/L),S4,1.42
+TN (mg/L),S4,1.53
+TN (mg/L),S4,1.35
+TN (mg/L),S4,1.59
+TN (mg/L),S4,1.36
+TN (mg/L),S4,1.26
+TN (mg/L),S4,1.37
+TN (mg/L),S4,1.51
+TN (mg/L),S4,1.63
+TN (mg/L),S4,1.74
+TN (mg/L),S4,1.87
+TN (mg/L),S4,1.72
+TN (mg/L),S4,1.65
+TN (mg/L),S4,1.91
+TN (mg/L),S4,1.82
+TN (mg/L),S4,1.78
+TN (mg/L),S4,1.79
+TN (mg/L),S4,1.72
+TN (mg/L),S4,1.69
+TN (mg/L),S4,1.82
+TN (mg/L),S4,1.68
+TN (mg/L),S4,2.0
+TN (mg/L),S4,1.72
+TN (mg/L),S4,2.03
+TN (mg/L),S4,2.64
+TN (mg/L),S4,2.79
+TN (mg/L),S4,2.78
+TN (mg/L),S4,2.37
+TN (mg/L),S4,2.2
+TN (mg/L),S4,2.64
+TN (mg/L),S4,2.42
+TN (mg/L),S4,2.05
+TN (mg/L),S4,2.78
+TN (mg/L),S4,2.73
+TN (mg/L),S4,2.42
+TN (mg/L),S4,2.77
+TN (mg/L),S4,2.18
+TN (mg/L),S4,2.21
+TN (mg/L),S4,2.52
+TN (mg/L),S4,2.8
+TN (mg/L),S4,3.0
+TN (mg/L),S4,2.91
+TN (mg/L),S4,3.05
+TN (mg/L),S4,2.96
+TN (mg/L),S4,2.98
+TN (mg/L),S4,2.98
+TN (mg/L),S4,2.81
+TN (mg/L),S4,2.98
+TN (mg/L),S4,2.99
+TN (mg/L),S4,3.08
+TN (mg/L),S4,2.89
+TN (mg/L),S4,3.03
+TN (mg/L),S4,2.92
+TN (mg/L),S4,3.06
+TN (mg/L),S4,3.1
+TN (mg/L),S4,3.38
+TN (mg/L),S4,3.32
+TN (mg/L),S4,3.18
+TN (mg/L),S4,3.17
+TN (mg/L),S4,3.21
+TN (mg/L),S4,3.37
+TN (mg/L),S4,3.15
+TN (mg/L),S4,3.28
+TN (mg/L),S4,3.28
+TN (mg/L),S4,3.26
+TN (mg/L),S4,3.17
+TN (mg/L),S4,3.32
+TN (mg/L),S4,3.2
+TN (mg/L),S4,3.25
+TN (mg/L),S4,3.42
+TN (mg/L),S4,3.37
+TN (mg/L),S4,3.38
+TN (mg/L),S4,3.29
+TN (mg/L),S4,3.33
+TN (mg/L),S4,3.32
+TN (mg/L),S4,3.31
+TN (mg/L),S4,3.29
+TN (mg/L),S4,3.3
+TN (mg/L),S4,3.3
+TN (mg/L),S4,3.38
+TN (mg/L),S4,3.28
+TN (mg/L),S4,3.37
+TN (mg/L),S4,3.42
+TN (mg/L),S4,3.28
+TN (mg/L),S4,3.27
+TN (mg/L),S4,3.0
+TN (mg/L),S4,3.25
+TN (mg/L),S4,3.01
+TN (mg/L),S4,2.94
+TN (mg/L),S4,3.05
+TN (mg/L),S4,3.01
+TN (mg/L),S4,3.25
+TN (mg/L),S4,3.21
+TN (mg/L),S4,3.01
+TN (mg/L),S4,3.25
+TN (mg/L),S4,3.23
+TN (mg/L),S4,3.12
+TN (mg/L),S4,3.08
+TN (mg/L),S4,3.04
+TN (mg/L),S4,3.08
+TN (mg/L),S4,2.9
+TN (mg/L),S4,2.7
+TN (mg/L),S4,2.76
+TN (mg/L),S4,2.7
+TN (mg/L),S4,2.74
+TN (mg/L),S4,2.6
+TN (mg/L),S4,2.81
+TN (mg/L),S4,2.72
+TN (mg/L),S4,2.55
+TN (mg/L),S4,2.74
+TN (mg/L),S4,2.68
+TN (mg/L),S4,2.7
+TN (mg/L),S4,2.77
+TN (mg/L),S4,2.66
+TN (mg/L),S4,2.62
+TN (mg/L),S4,2.55
+TN (mg/L),S4,2.54
+TN (mg/L),S4,2.54
+TN (mg/L),S4,2.36
+TN (mg/L),S4,2.25
+TN (mg/L),S4,2.37
+TN (mg/L),S4,2.26
+TN (mg/L),S4,2.32
+TN (mg/L),S4,2.4
+TN (mg/L),S4,2.25
+TN (mg/L),S4,2.3
+TN (mg/L),S4,2.18
+TN (mg/L),S4,2.42
+TN (mg/L),S4,2.28
+TN (mg/L),S4,2.2
+TN (mg/L),S4,2.17
+TN (mg/L),S4,2.18
+TN (mg/L),S4,2.2
+TN (mg/L),S4,2.19
+TN (mg/L),S4,2.18
+TN (mg/L),S4,2.18
+TN (mg/L),S4,2.18
+TN (mg/L),S4,2.17
+TN (mg/L),S4,2.18
+TN (mg/L),S4,2.19
+TN (mg/L),S4,2.17
+TN (mg/L),S4,2.19
+TN (mg/L),S4,2.19
+TN (mg/L),S4,2.18
+TN (mg/L),S4,2.17
+TN (mg/L),S4,2.2
+TN (mg/L),S4,2.17
+TN (mg/L),S4,2.12
+TN (mg/L),S4,2.14
+TN (mg/L),S4,2.17
+TN (mg/L),S4,2.15
+TN (mg/L),S4,2.16
+TN (mg/L),S4,2.11
+TN (mg/L),S4,2.11
+TN (mg/L),S4,2.13
+TN (mg/L),S4,2.14
+TN (mg/L),S4,2.18
+TN (mg/L),S4,2.09
+TN (mg/L),S4,2.14
+TN (mg/L),S4,2.13
+TN (mg/L),S4,2.17
+TN (mg/L),S4,2.09
+TN (mg/L),S4,2.17
+TN (mg/L),S4,2.12
+TN (mg/L),S4,2.14
+TN (mg/L),S4,2.17
+TN (mg/L),S4,2.15
+TN (mg/L),S4,2.16
+TN (mg/L),S4,2.11
+TN (mg/L),S4,2.11
+TN (mg/L),S4,2.13
+TN (mg/L),S4,2.14
+TN (mg/L),S4,2.18
+TN (mg/L),S4,2.09
+TN (mg/L),S4,2.14
+TN (mg/L),S4,2.13
+TN (mg/L),S4,1.98
+TN (mg/L),S4,1.98
+TN (mg/L),S4,1.98
+TN (mg/L),S4,1.98
+TN (mg/L),S4,1.98
+TN (mg/L),S4,1.98
+TN (mg/L),S4,1.98
+TN (mg/L),S4,1.98
+TN (mg/L),S4,1.98
+TN (mg/L),S4,1.98
+TN (mg/L),S4,1.98
+TN (mg/L),S4,1.98
+TN (mg/L),S4,1.98
+TN (mg/L),S4,1.98
+TN (mg/L),S4,1.98
+TN (mg/L),S4,1.98
+TN (mg/L),S4,1.98
+TN (mg/L),S4,1.89
+TN (mg/L),S4,1.91
+TN (mg/L),S4,1.97
+TN (mg/L),S4,1.95
+TN (mg/L),S4,1.89
+TN (mg/L),S4,1.92
+TN (mg/L),S4,1.92
+TN (mg/L),S4,1.93
+TN (mg/L),S4,1.97
+TN (mg/L),S4,1.89
+TN (mg/L),S4,1.89
+TN (mg/L),S4,1.97
+TN (mg/L),S4,1.9
+TN (mg/L),S4,1.97
+TN (mg/L),S4,1.88
+TN (mg/L),S4,1.52
+TN (mg/L),S4,1.78
+TN (mg/L),S4,1.51
+TN (mg/L),S4,1.54
+TN (mg/L),S4,1.77
+TN (mg/L),S4,1.53
+TN (mg/L),S4,1.81
+TN (mg/L),S4,1.83
+TN (mg/L),S4,1.67
+TN (mg/L),S4,1.83
+TN (mg/L),S4,1.71
+TN (mg/L),S4,1.63
+TN (mg/L),S4,1.5
+TN (mg/L),S4,1.86
+TN (mg/L),S4,1.49
+TN (mg/L),S4,1.3
+TN (mg/L),S4,1.36
+TN (mg/L),S4,1.31
+TN (mg/L),S4,1.23
+TN (mg/L),S4,1.28
+TN (mg/L),S4,1.21
+TN (mg/L),S4,1.21
+TN (mg/L),S4,1.18
+TN (mg/L),S4,1.26
+TN (mg/L),S4,1.43
+TN (mg/L),S4,1.48
+TN (mg/L),S4,1.2
+TN (mg/L),S4,1.28
+TN (mg/L),S4,1.29
+TN (mg/L),S4,1.15
+TN (mg/L),S4,1.24
+TN (mg/L),S4,1.23
+TN (mg/L),S4,1.17
+TN (mg/L),S4,1.21
+TN (mg/L),S4,1.19
+TN (mg/L),S4,1.21
+TN (mg/L),S4,1.24
+TN (mg/L),S4,1.2
+TN (mg/L),S4,1.25
+TN (mg/L),S4,1.27
+TN (mg/L),S4,1.2
+TN (mg/L),S4,1.2
+TN (mg/L),S4,1.27
+TN (mg/L),S4,1.17
+TN (mg/L),S4,1.27
+TN (mg/L),S4,1.27
+TN (mg/L),S4,1.28
+TN (mg/L),S4,1.29
+TN (mg/L),S4,1.29
+TN (mg/L),S4,1.27
+TN (mg/L),S4,1.28
+TN (mg/L),S4,1.29
+TN (mg/L),S4,1.28
+TN (mg/L),S4,1.28
+TN (mg/L),S4,1.29
+TN (mg/L),S4,1.28
+TN (mg/L),S4,1.28
+TN (mg/L),S4,1.28
+TN (mg/L),S4,1.27
+TN (mg/L),S4,1.27
+TN (mg/L),S4,1.29
+TN (mg/L),S4,1.33
+TN (mg/L),S4,1.32
+TN (mg/L),S4,1.29
+TN (mg/L),S4,1.33
+TN (mg/L),S4,1.31
+TN (mg/L),S4,1.29
+TN (mg/L),S4,1.34
+TN (mg/L),S4,1.32
+TN (mg/L),S4,1.29
+TN (mg/L),S4,1.31
+TN (mg/L),S4,1.33
+TN (mg/L),S4,1.3
+TN (mg/L),S4,1.31
+TN (mg/L),S4,1.32
+BOD (mg/L),S1,27.96
+BOD (mg/L),S1,27.9
+BOD (mg/L),S1,27.88
+BOD (mg/L),S1,27.66
+BOD (mg/L),S1,27.71
+BOD (mg/L),S1,27.63
+BOD (mg/L),S1,27.75
+BOD (mg/L),S1,27.87
+BOD (mg/L),S1,27.66
+BOD (mg/L),S1,27.71
+BOD (mg/L),S1,27.68
+BOD (mg/L),S1,27.82
+BOD (mg/L),S1,27.7
+BOD (mg/L),S1,27.79
+BOD (mg/L),S1,27.92
+BOD (mg/L),S1,27.59
+BOD (mg/L),S1,26.8
+BOD (mg/L),S1,27.38
+BOD (mg/L),S1,27.27
+BOD (mg/L),S1,26.55
+BOD (mg/L),S1,26.62
+BOD (mg/L),S1,27.32
+BOD (mg/L),S1,26.51
+BOD (mg/L),S1,27.48
+BOD (mg/L),S1,26.67
+BOD (mg/L),S1,26.78
+BOD (mg/L),S1,27.44
+BOD (mg/L),S1,27.41
+BOD (mg/L),S1,27.39
+BOD (mg/L),S1,27.2
+BOD (mg/L),S1,26.89
+BOD (mg/L),S1,26.48
+BOD (mg/L),S1,26.47
+BOD (mg/L),S1,26.27
+BOD (mg/L),S1,25.99
+BOD (mg/L),S1,26.24
+BOD (mg/L),S1,25.85
+BOD (mg/L),S1,25.77
+BOD (mg/L),S1,26.06
+BOD (mg/L),S1,25.87
+BOD (mg/L),S1,26.16
+BOD (mg/L),S1,26.07
+BOD (mg/L),S1,26.44
+BOD (mg/L),S1,26.07
+BOD (mg/L),S1,25.76
+BOD (mg/L),S1,26.32
+BOD (mg/L),S1,25.55
+BOD (mg/L),S1,25.74
+BOD (mg/L),S1,26.86
+BOD (mg/L),S1,27.04
+BOD (mg/L),S1,26.68
+BOD (mg/L),S1,25.62
+BOD (mg/L),S1,25.62
+BOD (mg/L),S1,27.54
+BOD (mg/L),S1,26.22
+BOD (mg/L),S1,27.15
+BOD (mg/L),S1,26.0
+BOD (mg/L),S1,25.91
+BOD (mg/L),S1,25.96
+BOD (mg/L),S1,26.21
+BOD (mg/L),S1,26.13
+BOD (mg/L),S1,27.34
+BOD (mg/L),S1,27.59
+BOD (mg/L),S1,27.81
+BOD (mg/L),S1,27.84
+BOD (mg/L),S1,27.86
+BOD (mg/L),S1,27.84
+BOD (mg/L),S1,27.71
+BOD (mg/L),S1,27.71
+BOD (mg/L),S1,27.62
+BOD (mg/L),S1,28.0
+BOD (mg/L),S1,27.78
+BOD (mg/L),S1,27.96
+BOD (mg/L),S1,27.66
+BOD (mg/L),S1,27.71
+BOD (mg/L),S1,28.13
+BOD (mg/L),S1,30.27
+BOD (mg/L),S1,31.51
+BOD (mg/L),S1,31.38
+BOD (mg/L),S1,31.03
+BOD (mg/L),S1,29.35
+BOD (mg/L),S1,29.6
+BOD (mg/L),S1,30.14
+BOD (mg/L),S1,30.9
+BOD (mg/L),S1,29.8
+BOD (mg/L),S1,29.32
+BOD (mg/L),S1,29.33
+BOD (mg/L),S1,28.32
+BOD (mg/L),S1,28.22
+BOD (mg/L),S1,31.15
+BOD (mg/L),S1,31.52
+BOD (mg/L),S1,31.71
+BOD (mg/L),S1,32.24
+BOD (mg/L),S1,31.7
+BOD (mg/L),S1,31.57
+BOD (mg/L),S1,32.38
+BOD (mg/L),S1,31.7
+BOD (mg/L),S1,32.06
+BOD (mg/L),S1,31.91
+BOD (mg/L),S1,32.03
+BOD (mg/L),S1,32.11
+BOD (mg/L),S1,31.91
+BOD (mg/L),S1,31.81
+BOD (mg/L),S1,32.36
+BOD (mg/L),S1,32.23
+BOD (mg/L),S1,32.4
+BOD (mg/L),S1,35.91
+BOD (mg/L),S1,35.67
+BOD (mg/L),S1,37.64
+BOD (mg/L),S1,32.56
+BOD (mg/L),S1,32.95
+BOD (mg/L),S1,34.34
+BOD (mg/L),S1,37.45
+BOD (mg/L),S1,33.21
+BOD (mg/L),S1,34.05
+BOD (mg/L),S1,35.68
+BOD (mg/L),S1,37.9
+BOD (mg/L),S1,32.75
+BOD (mg/L),S1,34.67
+BOD (mg/L),S1,36.28
+BOD (mg/L),S1,36.2
+BOD (mg/L),S1,38.17
+BOD (mg/L),S1,38.59
+BOD (mg/L),S1,39.19
+BOD (mg/L),S1,40.45
+BOD (mg/L),S1,40.28
+BOD (mg/L),S1,40.06
+BOD (mg/L),S1,39.63
+BOD (mg/L),S1,38.94
+BOD (mg/L),S1,40.28
+BOD (mg/L),S1,40.03
+BOD (mg/L),S1,40.22
+BOD (mg/L),S1,40.45
+BOD (mg/L),S1,39.14
+BOD (mg/L),S1,41.33
+BOD (mg/L),S1,38.94
+BOD (mg/L),S1,41.53
+BOD (mg/L),S1,43.06
+BOD (mg/L),S1,41.59
+BOD (mg/L),S1,41.54
+BOD (mg/L),S1,43.09
+BOD (mg/L),S1,42.03
+BOD (mg/L),S1,43.5
+BOD (mg/L),S1,43.25
+BOD (mg/L),S1,41.59
+BOD (mg/L),S1,42.44
+BOD (mg/L),S1,42.96
+BOD (mg/L),S1,43.4
+BOD (mg/L),S1,41.71
+BOD (mg/L),S1,43.5
+BOD (mg/L),S1,41.74
+BOD (mg/L),S1,43.52
+BOD (mg/L),S1,43.3
+BOD (mg/L),S1,43.06
+BOD (mg/L),S1,43.35
+BOD (mg/L),S1,43.43
+BOD (mg/L),S1,43.51
+BOD (mg/L),S1,43.25
+BOD (mg/L),S1,43.19
+BOD (mg/L),S1,43.11
+BOD (mg/L),S1,42.9
+BOD (mg/L),S1,43.04
+BOD (mg/L),S1,43.19
+BOD (mg/L),S1,42.94
+BOD (mg/L),S1,43.0
+BOD (mg/L),S1,43.17
+BOD (mg/L),S1,42.87
+BOD (mg/L),S1,39.8
+BOD (mg/L),S1,42.41
+BOD (mg/L),S1,42.37
+BOD (mg/L),S1,41.4
+BOD (mg/L),S1,41.7
+BOD (mg/L),S1,42.22
+BOD (mg/L),S1,42.66
+BOD (mg/L),S1,41.52
+BOD (mg/L),S1,40.45
+BOD (mg/L),S1,40.28
+BOD (mg/L),S1,40.76
+BOD (mg/L),S1,39.89
+BOD (mg/L),S1,41.87
+BOD (mg/L),S1,40.46
+BOD (mg/L),S1,41.81
+BOD (mg/L),S1,39.3
+BOD (mg/L),S1,38.26
+BOD (mg/L),S1,39.25
+BOD (mg/L),S1,38.67
+BOD (mg/L),S1,38.8
+BOD (mg/L),S1,38.87
+BOD (mg/L),S1,38.17
+BOD (mg/L),S1,38.87
+BOD (mg/L),S1,38.15
+BOD (mg/L),S1,38.71
+BOD (mg/L),S1,39.19
+BOD (mg/L),S1,38.33
+BOD (mg/L),S1,38.81
+BOD (mg/L),S1,38.65
+BOD (mg/L),S1,38.4
+BOD (mg/L),S1,38.12
+BOD (mg/L),S1,37.57
+BOD (mg/L),S1,37.92
+BOD (mg/L),S1,36.25
+BOD (mg/L),S1,37.82
+BOD (mg/L),S1,36.58
+BOD (mg/L),S1,37.62
+BOD (mg/L),S1,35.86
+BOD (mg/L),S1,37.69
+BOD (mg/L),S1,36.04
+BOD (mg/L),S1,35.93
+BOD (mg/L),S1,36.89
+BOD (mg/L),S1,35.79
+BOD (mg/L),S1,36.92
+BOD (mg/L),S1,36.72
+BOD (mg/L),S1,35.7
+BOD (mg/L),S1,35.42
+BOD (mg/L),S1,35.24
+BOD (mg/L),S1,35.68
+BOD (mg/L),S1,34.86
+BOD (mg/L),S1,34.8
+BOD (mg/L),S1,34.65
+BOD (mg/L),S1,35.19
+BOD (mg/L),S1,35.29
+BOD (mg/L),S1,35.49
+BOD (mg/L),S1,35.51
+BOD (mg/L),S1,35.04
+BOD (mg/L),S1,35.54
+BOD (mg/L),S1,34.54
+BOD (mg/L),S1,34.71
+BOD (mg/L),S1,34.23
+BOD (mg/L),S1,33.97
+BOD (mg/L),S1,33.75
+BOD (mg/L),S1,33.15
+BOD (mg/L),S1,33.26
+BOD (mg/L),S1,33.73
+BOD (mg/L),S1,32.6
+BOD (mg/L),S1,33.19
+BOD (mg/L),S1,34.2
+BOD (mg/L),S1,33.68
+BOD (mg/L),S1,33.01
+BOD (mg/L),S1,33.14
+BOD (mg/L),S1,32.71
+BOD (mg/L),S1,34.15
+BOD (mg/L),S1,33.61
+BOD (mg/L),S1,33.82
+BOD (mg/L),S1,32.4
+BOD (mg/L),S1,33.97
+BOD (mg/L),S1,33.75
+BOD (mg/L),S1,33.15
+BOD (mg/L),S1,33.26
+BOD (mg/L),S1,33.73
+BOD (mg/L),S1,32.6
+BOD (mg/L),S1,33.19
+BOD (mg/L),S1,34.2
+BOD (mg/L),S1,33.68
+BOD (mg/L),S1,33.01
+BOD (mg/L),S1,33.14
+BOD (mg/L),S1,32.71
+BOD (mg/L),S1,34.15
+BOD (mg/L),S1,33.61
+BOD (mg/L),S1,32.11
+BOD (mg/L),S1,31.72
+BOD (mg/L),S1,32.02
+BOD (mg/L),S1,32.1
+BOD (mg/L),S1,31.59
+BOD (mg/L),S1,31.91
+BOD (mg/L),S1,31.7
+BOD (mg/L),S1,32.05
+BOD (mg/L),S1,31.88
+BOD (mg/L),S1,31.87
+BOD (mg/L),S1,31.85
+BOD (mg/L),S1,31.53
+BOD (mg/L),S1,31.87
+BOD (mg/L),S1,31.92
+BOD (mg/L),S1,31.52
+BOD (mg/L),S1,32.0
+BOD (mg/L),S1,31.52
+BOD (mg/L),S1,30.79
+BOD (mg/L),S1,29.79
+BOD (mg/L),S1,29.8
+BOD (mg/L),S1,30.35
+BOD (mg/L),S1,30.18
+BOD (mg/L),S1,30.41
+BOD (mg/L),S1,31.07
+BOD (mg/L),S1,30.87
+BOD (mg/L),S1,30.8
+BOD (mg/L),S1,30.58
+BOD (mg/L),S1,30.18
+BOD (mg/L),S1,29.91
+BOD (mg/L),S1,30.8
+BOD (mg/L),S1,30.9
+BOD (mg/L),S1,29.75
+BOD (mg/L),S1,29.73
+BOD (mg/L),S1,29.75
+BOD (mg/L),S1,29.64
+BOD (mg/L),S1,29.67
+BOD (mg/L),S1,29.64
+BOD (mg/L),S1,29.71
+BOD (mg/L),S1,29.69
+BOD (mg/L),S1,29.68
+BOD (mg/L),S1,29.71
+BOD (mg/L),S1,29.68
+BOD (mg/L),S1,29.73
+BOD (mg/L),S1,29.75
+BOD (mg/L),S1,29.65
+BOD (mg/L),S1,29.67
+BOD (mg/L),S1,29.63
+BOD (mg/L),S1,29.54
+BOD (mg/L),S1,29.54
+BOD (mg/L),S1,29.57
+BOD (mg/L),S1,29.51
+BOD (mg/L),S1,29.55
+BOD (mg/L),S1,29.52
+BOD (mg/L),S1,29.6
+BOD (mg/L),S1,29.59
+BOD (mg/L),S1,29.57
+BOD (mg/L),S1,29.61
+BOD (mg/L),S1,29.61
+BOD (mg/L),S1,29.57
+BOD (mg/L),S1,29.61
+BOD (mg/L),S1,29.56
+BOD (mg/L),S1,29.5
+BOD (mg/L),S1,29.32
+BOD (mg/L),S1,29.35
+BOD (mg/L),S1,29.45
+BOD (mg/L),S1,29.25
+BOD (mg/L),S1,29.34
+BOD (mg/L),S1,29.26
+BOD (mg/L),S1,29.45
+BOD (mg/L),S1,29.19
+BOD (mg/L),S1,29.27
+BOD (mg/L),S1,29.22
+BOD (mg/L),S1,29.39
+BOD (mg/L),S1,29.41
+BOD (mg/L),S1,29.43
+BOD (mg/L),S1,29.37
+BOD (mg/L),S1,29.39
+BOD (mg/L),S1,29.18
+BOD (mg/L),S1,28.39
+BOD (mg/L),S1,29.08
+BOD (mg/L),S1,28.54
+BOD (mg/L),S1,28.96
+BOD (mg/L),S1,28.88
+BOD (mg/L),S1,28.83
+BOD (mg/L),S1,28.77
+BOD (mg/L),S1,28.57
+BOD (mg/L),S1,28.32
+BOD (mg/L),S1,28.98
+BOD (mg/L),S1,28.49
+BOD (mg/L),S1,28.82
+BOD (mg/L),S1,28.55
+BOD (mg/L),S1,28.73
+BOD (mg/L),S1,28.3
+BOD (mg/L),S1,28.22
+BOD (mg/L),S1,27.93
+BOD (mg/L),S1,27.84
+BOD (mg/L),S1,27.92
+BOD (mg/L),S1,28.24
+BOD (mg/L),S1,28.3
+BOD (mg/L),S1,28.17
+BOD (mg/L),S1,28.13
+BOD (mg/L),S1,27.9
+BOD (mg/L),S1,27.9
+BOD (mg/L),S1,28.19
+BOD (mg/L),S1,28.12
+BOD (mg/L),S1,27.89
+BOD (mg/L),S1,28.24
+BOD (mg/L),S2,27.7
+BOD (mg/L),S2,27.62
+BOD (mg/L),S2,27.25
+BOD (mg/L),S2,27.32
+BOD (mg/L),S2,27.32
+BOD (mg/L),S2,27.34
+BOD (mg/L),S2,27.54
+BOD (mg/L),S2,27.68
+BOD (mg/L),S2,27.23
+BOD (mg/L),S2,27.5
+BOD (mg/L),S2,27.47
+BOD (mg/L),S2,27.48
+BOD (mg/L),S2,27.45
+BOD (mg/L),S2,27.45
+BOD (mg/L),S2,27.32
+BOD (mg/L),S2,27.21
+BOD (mg/L),S2,26.2
+BOD (mg/L),S2,26.96
+BOD (mg/L),S2,26.18
+BOD (mg/L),S2,26.54
+BOD (mg/L),S2,26.28
+BOD (mg/L),S2,25.23
+BOD (mg/L),S2,26.25
+BOD (mg/L),S2,27.07
+BOD (mg/L),S2,26.91
+BOD (mg/L),S2,26.18
+BOD (mg/L),S2,25.85
+BOD (mg/L),S2,25.63
+BOD (mg/L),S2,25.36
+BOD (mg/L),S2,26.37
+BOD (mg/L),S2,26.29
+BOD (mg/L),S2,25.17
+BOD (mg/L),S2,24.48
+BOD (mg/L),S2,25.11
+BOD (mg/L),S2,24.28
+BOD (mg/L),S2,24.91
+BOD (mg/L),S2,25.15
+BOD (mg/L),S2,24.75
+BOD (mg/L),S2,24.23
+BOD (mg/L),S2,24.56
+BOD (mg/L),S2,24.93
+BOD (mg/L),S2,23.94
+BOD (mg/L),S2,24.43
+BOD (mg/L),S2,25.02
+BOD (mg/L),S2,24.3
+BOD (mg/L),S2,24.99
+BOD (mg/L),S2,23.86
+BOD (mg/L),S2,25.52
+BOD (mg/L),S2,25.71
+BOD (mg/L),S2,24.73
+BOD (mg/L),S2,24.4
+BOD (mg/L),S2,25.01
+BOD (mg/L),S2,25.74
+BOD (mg/L),S2,26.57
+BOD (mg/L),S2,24.84
+BOD (mg/L),S2,25.26
+BOD (mg/L),S2,26.02
+BOD (mg/L),S2,25.54
+BOD (mg/L),S2,24.83
+BOD (mg/L),S2,27.04
+BOD (mg/L),S2,24.43
+BOD (mg/L),S2,24.63
+BOD (mg/L),S2,27.14
+BOD (mg/L),S2,27.51
+BOD (mg/L),S2,28.02
+BOD (mg/L),S2,27.87
+BOD (mg/L),S2,27.21
+BOD (mg/L),S2,27.41
+BOD (mg/L),S2,27.41
+BOD (mg/L),S2,27.19
+BOD (mg/L),S2,27.34
+BOD (mg/L),S2,27.42
+BOD (mg/L),S2,27.34
+BOD (mg/L),S2,27.73
+BOD (mg/L),S2,28.07
+BOD (mg/L),S2,28.49
+BOD (mg/L),S2,28.51
+BOD (mg/L),S2,29.24
+BOD (mg/L),S2,28.67
+BOD (mg/L),S2,28.65
+BOD (mg/L),S2,29.24
+BOD (mg/L),S2,29.71
+BOD (mg/L),S2,29.77
+BOD (mg/L),S2,28.5
+BOD (mg/L),S2,29.78
+BOD (mg/L),S2,29.49
+BOD (mg/L),S2,28.88
+BOD (mg/L),S2,29.97
+BOD (mg/L),S2,29.96
+BOD (mg/L),S2,29.3
+BOD (mg/L),S2,30.0
+BOD (mg/L),S2,30.76
+BOD (mg/L),S2,30.77
+BOD (mg/L),S2,31.91
+BOD (mg/L),S2,32.48
+BOD (mg/L),S2,30.12
+BOD (mg/L),S2,32.2
+BOD (mg/L),S2,31.6
+BOD (mg/L),S2,32.49
+BOD (mg/L),S2,32.49
+BOD (mg/L),S2,31.17
+BOD (mg/L),S2,32.52
+BOD (mg/L),S2,30.79
+BOD (mg/L),S2,32.27
+BOD (mg/L),S2,31.87
+BOD (mg/L),S2,32.53
+BOD (mg/L),S2,36.94
+BOD (mg/L),S2,36.56
+BOD (mg/L),S2,32.83
+BOD (mg/L),S2,37.17
+BOD (mg/L),S2,34.55
+BOD (mg/L),S2,35.57
+BOD (mg/L),S2,35.01
+BOD (mg/L),S2,35.14
+BOD (mg/L),S2,32.77
+BOD (mg/L),S2,33.12
+BOD (mg/L),S2,35.31
+BOD (mg/L),S2,34.28
+BOD (mg/L),S2,37.57
+BOD (mg/L),S2,35.45
+BOD (mg/L),S2,35.79
+BOD (mg/L),S2,38.0
+BOD (mg/L),S2,40.26
+BOD (mg/L),S2,38.62
+BOD (mg/L),S2,38.01
+BOD (mg/L),S2,39.29
+BOD (mg/L),S2,40.05
+BOD (mg/L),S2,39.12
+BOD (mg/L),S2,38.33
+BOD (mg/L),S2,38.57
+BOD (mg/L),S2,40.72
+BOD (mg/L),S2,40.61
+BOD (mg/L),S2,40.38
+BOD (mg/L),S2,38.37
+BOD (mg/L),S2,40.81
+BOD (mg/L),S2,38.52
+BOD (mg/L),S2,41.24
+BOD (mg/L),S2,41.94
+BOD (mg/L),S2,42.62
+BOD (mg/L),S2,41.28
+BOD (mg/L),S2,41.67
+BOD (mg/L),S2,41.64
+BOD (mg/L),S2,42.17
+BOD (mg/L),S2,41.72
+BOD (mg/L),S2,41.68
+BOD (mg/L),S2,42.73
+BOD (mg/L),S2,42.56
+BOD (mg/L),S2,43.06
+BOD (mg/L),S2,41.63
+BOD (mg/L),S2,41.89
+BOD (mg/L),S2,41.89
+BOD (mg/L),S2,43.11
+BOD (mg/L),S2,43.06
+BOD (mg/L),S2,42.15
+BOD (mg/L),S2,43.0
+BOD (mg/L),S2,42.34
+BOD (mg/L),S2,43.09
+BOD (mg/L),S2,42.46
+BOD (mg/L),S2,42.2
+BOD (mg/L),S2,42.56
+BOD (mg/L),S2,42.79
+BOD (mg/L),S2,43.11
+BOD (mg/L),S2,42.2
+BOD (mg/L),S2,42.56
+BOD (mg/L),S2,42.63
+BOD (mg/L),S2,42.57
+BOD (mg/L),S2,42.14
+BOD (mg/L),S2,41.98
+BOD (mg/L),S2,40.03
+BOD (mg/L),S2,39.66
+BOD (mg/L),S2,41.5
+BOD (mg/L),S2,40.7
+BOD (mg/L),S2,42.09
+BOD (mg/L),S2,39.89
+BOD (mg/L),S2,40.19
+BOD (mg/L),S2,39.75
+BOD (mg/L),S2,41.23
+BOD (mg/L),S2,40.7
+BOD (mg/L),S2,39.63
+BOD (mg/L),S2,41.82
+BOD (mg/L),S2,40.47
+BOD (mg/L),S2,41.29
+BOD (mg/L),S2,39.47
+BOD (mg/L),S2,38.37
+BOD (mg/L),S2,37.86
+BOD (mg/L),S2,38.43
+BOD (mg/L),S2,39.33
+BOD (mg/L),S2,39.2
+BOD (mg/L),S2,38.5
+BOD (mg/L),S2,38.77
+BOD (mg/L),S2,38.34
+BOD (mg/L),S2,38.39
+BOD (mg/L),S2,38.1
+BOD (mg/L),S2,38.61
+BOD (mg/L),S2,37.74
+BOD (mg/L),S2,38.85
+BOD (mg/L),S2,37.91
+BOD (mg/L),S2,37.65
+BOD (mg/L),S2,37.59
+BOD (mg/L),S2,37.46
+BOD (mg/L),S2,37.45
+BOD (mg/L),S2,37.39
+BOD (mg/L),S2,37.5
+BOD (mg/L),S2,37.59
+BOD (mg/L),S2,37.35
+BOD (mg/L),S2,37.4
+BOD (mg/L),S2,37.36
+BOD (mg/L),S2,37.35
+BOD (mg/L),S2,37.53
+BOD (mg/L),S2,37.57
+BOD (mg/L),S2,37.42
+BOD (mg/L),S2,37.43
+BOD (mg/L),S2,37.35
+BOD (mg/L),S2,37.05
+BOD (mg/L),S2,37.19
+BOD (mg/L),S2,37.0
+BOD (mg/L),S2,36.75
+BOD (mg/L),S2,37.3
+BOD (mg/L),S2,36.81
+BOD (mg/L),S2,35.82
+BOD (mg/L),S2,36.05
+BOD (mg/L),S2,35.9
+BOD (mg/L),S2,36.89
+BOD (mg/L),S2,37.34
+BOD (mg/L),S2,36.7
+BOD (mg/L),S2,35.91
+BOD (mg/L),S2,35.97
+BOD (mg/L),S2,35.79
+BOD (mg/L),S2,35.38
+BOD (mg/L),S2,34.63
+BOD (mg/L),S2,34.37
+BOD (mg/L),S2,33.29
+BOD (mg/L),S2,33.27
+BOD (mg/L),S2,35.03
+BOD (mg/L),S2,32.82
+BOD (mg/L),S2,35.01
+BOD (mg/L),S2,33.53
+BOD (mg/L),S2,34.62
+BOD (mg/L),S2,32.91
+BOD (mg/L),S2,35.58
+BOD (mg/L),S2,33.87
+BOD (mg/L),S2,32.76
+BOD (mg/L),S2,35.3
+BOD (mg/L),S2,32.75
+BOD (mg/L),S2,35.38
+BOD (mg/L),S2,34.63
+BOD (mg/L),S2,34.37
+BOD (mg/L),S2,33.29
+BOD (mg/L),S2,33.27
+BOD (mg/L),S2,35.03
+BOD (mg/L),S2,32.82
+BOD (mg/L),S2,35.01
+BOD (mg/L),S2,33.53
+BOD (mg/L),S2,34.62
+BOD (mg/L),S2,32.91
+BOD (mg/L),S2,35.58
+BOD (mg/L),S2,33.87
+BOD (mg/L),S2,32.76
+BOD (mg/L),S2,32.31
+BOD (mg/L),S2,32.27
+BOD (mg/L),S2,31.71
+BOD (mg/L),S2,32.18
+BOD (mg/L),S2,31.74
+BOD (mg/L),S2,31.81
+BOD (mg/L),S2,32.01
+BOD (mg/L),S2,32.19
+BOD (mg/L),S2,31.73
+BOD (mg/L),S2,32.11
+BOD (mg/L),S2,32.01
+BOD (mg/L),S2,31.79
+BOD (mg/L),S2,32.18
+BOD (mg/L),S2,32.02
+BOD (mg/L),S2,31.89
+BOD (mg/L),S2,32.0
+BOD (mg/L),S2,31.69
+BOD (mg/L),S2,30.46
+BOD (mg/L),S2,29.99
+BOD (mg/L),S2,31.68
+BOD (mg/L),S2,31.09
+BOD (mg/L),S2,30.47
+BOD (mg/L),S2,30.87
+BOD (mg/L),S2,31.68
+BOD (mg/L),S2,31.47
+BOD (mg/L),S2,30.71
+BOD (mg/L),S2,29.97
+BOD (mg/L),S2,31.56
+BOD (mg/L),S2,30.97
+BOD (mg/L),S2,30.73
+BOD (mg/L),S2,31.07
+BOD (mg/L),S2,29.96
+BOD (mg/L),S2,29.84
+BOD (mg/L),S2,29.62
+BOD (mg/L),S2,29.96
+BOD (mg/L),S2,29.59
+BOD (mg/L),S2,29.84
+BOD (mg/L),S2,29.92
+BOD (mg/L),S2,29.65
+BOD (mg/L),S2,29.93
+BOD (mg/L),S2,29.54
+BOD (mg/L),S2,29.86
+BOD (mg/L),S2,29.88
+BOD (mg/L),S2,29.65
+BOD (mg/L),S2,29.62
+BOD (mg/L),S2,29.61
+BOD (mg/L),S2,29.52
+BOD (mg/L),S2,29.32
+BOD (mg/L),S2,29.38
+BOD (mg/L),S2,29.14
+BOD (mg/L),S2,29.31
+BOD (mg/L),S2,29.23
+BOD (mg/L),S2,29.5
+BOD (mg/L),S2,29.47
+BOD (mg/L),S2,29.12
+BOD (mg/L),S2,29.26
+BOD (mg/L),S2,29.35
+BOD (mg/L),S2,29.34
+BOD (mg/L),S2,29.46
+BOD (mg/L),S2,29.32
+BOD (mg/L),S2,29.19
+BOD (mg/L),S2,29.07
+BOD (mg/L),S2,28.96
+BOD (mg/L),S2,28.94
+BOD (mg/L),S2,29.02
+BOD (mg/L),S2,28.82
+BOD (mg/L),S2,29.0
+BOD (mg/L),S2,28.81
+BOD (mg/L),S2,28.79
+BOD (mg/L),S2,28.89
+BOD (mg/L),S2,29.04
+BOD (mg/L),S2,29.0
+BOD (mg/L),S2,28.89
+BOD (mg/L),S2,28.91
+BOD (mg/L),S2,28.93
+BOD (mg/L),S2,28.85
+BOD (mg/L),S2,28.78
+BOD (mg/L),S2,28.76
+BOD (mg/L),S2,28.32
+BOD (mg/L),S2,28.45
+BOD (mg/L),S2,28.37
+BOD (mg/L),S2,28.24
+BOD (mg/L),S2,28.19
+BOD (mg/L),S2,28.63
+BOD (mg/L),S2,28.51
+BOD (mg/L),S2,28.2
+BOD (mg/L),S2,28.37
+BOD (mg/L),S2,28.59
+BOD (mg/L),S2,28.62
+BOD (mg/L),S2,28.41
+BOD (mg/L),S2,28.33
+BOD (mg/L),S2,28.34
+BOD (mg/L),S2,28.0
+BOD (mg/L),S2,27.65
+BOD (mg/L),S2,27.99
+BOD (mg/L),S2,27.62
+BOD (mg/L),S2,27.71
+BOD (mg/L),S2,27.66
+BOD (mg/L),S2,27.54
+BOD (mg/L),S2,27.75
+BOD (mg/L),S2,27.86
+BOD (mg/L),S2,27.61
+BOD (mg/L),S2,27.56
+BOD (mg/L),S2,27.73
+BOD (mg/L),S2,27.75
+BOD (mg/L),S2,27.73
+BOD (mg/L),S2,27.8
+BOD (mg/L),S3,27.88
+BOD (mg/L),S3,27.51
+BOD (mg/L),S3,27.46
+BOD (mg/L),S3,27.2
+BOD (mg/L),S3,26.76
+BOD (mg/L),S3,26.82
+BOD (mg/L),S3,27.39
+BOD (mg/L),S3,27.8
+BOD (mg/L),S3,26.6
+BOD (mg/L),S3,27.29
+BOD (mg/L),S3,26.82
+BOD (mg/L),S3,26.98
+BOD (mg/L),S3,26.55
+BOD (mg/L),S3,26.97
+BOD (mg/L),S3,26.91
+BOD (mg/L),S3,26.48
+BOD (mg/L),S3,26.12
+BOD (mg/L),S3,25.68
+BOD (mg/L),S3,25.83
+BOD (mg/L),S3,26.06
+BOD (mg/L),S3,25.76
+BOD (mg/L),S3,25.85
+BOD (mg/L),S3,26.37
+BOD (mg/L),S3,26.01
+BOD (mg/L),S3,26.0
+BOD (mg/L),S3,26.0
+BOD (mg/L),S3,26.31
+BOD (mg/L),S3,25.81
+BOD (mg/L),S3,25.89
+BOD (mg/L),S3,26.22
+BOD (mg/L),S3,26.08
+BOD (mg/L),S3,25.56
+BOD (mg/L),S3,25.09
+BOD (mg/L),S3,24.29
+BOD (mg/L),S3,25.27
+BOD (mg/L),S3,24.32
+BOD (mg/L),S3,25.25
+BOD (mg/L),S3,25.3
+BOD (mg/L),S3,25.27
+BOD (mg/L),S3,24.64
+BOD (mg/L),S3,24.32
+BOD (mg/L),S3,25.45
+BOD (mg/L),S3,24.81
+BOD (mg/L),S3,24.83
+BOD (mg/L),S3,24.19
+BOD (mg/L),S3,25.39
+BOD (mg/L),S3,24.1
+BOD (mg/L),S3,25.78
+BOD (mg/L),S3,26.33
+BOD (mg/L),S3,26.17
+BOD (mg/L),S3,26.82
+BOD (mg/L),S3,24.22
+BOD (mg/L),S3,24.89
+BOD (mg/L),S3,24.74
+BOD (mg/L),S3,25.95
+BOD (mg/L),S3,25.33
+BOD (mg/L),S3,25.25
+BOD (mg/L),S3,25.63
+BOD (mg/L),S3,24.92
+BOD (mg/L),S3,24.78
+BOD (mg/L),S3,24.23
+BOD (mg/L),S3,25.39
+BOD (mg/L),S3,27.61
+BOD (mg/L),S3,27.64
+BOD (mg/L),S3,27.87
+BOD (mg/L),S3,27.76
+BOD (mg/L),S3,27.88
+BOD (mg/L),S3,27.76
+BOD (mg/L),S3,27.73
+BOD (mg/L),S3,27.93
+BOD (mg/L),S3,27.67
+BOD (mg/L),S3,27.71
+BOD (mg/L),S3,27.81
+BOD (mg/L),S3,27.78
+BOD (mg/L),S3,27.91
+BOD (mg/L),S3,28.0
+BOD (mg/L),S3,30.13
+BOD (mg/L),S3,29.03
+BOD (mg/L),S3,29.43
+BOD (mg/L),S3,28.87
+BOD (mg/L),S3,29.15
+BOD (mg/L),S3,29.42
+BOD (mg/L),S3,28.82
+BOD (mg/L),S3,28.75
+BOD (mg/L),S3,30.25
+BOD (mg/L),S3,29.67
+BOD (mg/L),S3,28.78
+BOD (mg/L),S3,29.37
+BOD (mg/L),S3,30.15
+BOD (mg/L),S3,28.64
+BOD (mg/L),S3,30.25
+BOD (mg/L),S3,30.57
+BOD (mg/L),S3,31.91
+BOD (mg/L),S3,31.87
+BOD (mg/L),S3,31.89
+BOD (mg/L),S3,31.12
+BOD (mg/L),S3,30.58
+BOD (mg/L),S3,32.73
+BOD (mg/L),S3,31.59
+BOD (mg/L),S3,32.0
+BOD (mg/L),S3,31.8
+BOD (mg/L),S3,31.58
+BOD (mg/L),S3,31.24
+BOD (mg/L),S3,30.95
+BOD (mg/L),S3,32.24
+BOD (mg/L),S3,32.79
+BOD (mg/L),S3,33.67
+BOD (mg/L),S3,33.76
+BOD (mg/L),S3,35.86
+BOD (mg/L),S3,34.46
+BOD (mg/L),S3,33.0
+BOD (mg/L),S3,35.53
+BOD (mg/L),S3,36.26
+BOD (mg/L),S3,37.23
+BOD (mg/L),S3,37.38
+BOD (mg/L),S3,35.46
+BOD (mg/L),S3,34.41
+BOD (mg/L),S3,37.23
+BOD (mg/L),S3,35.71
+BOD (mg/L),S3,35.71
+BOD (mg/L),S3,34.77
+BOD (mg/L),S3,38.55
+BOD (mg/L),S3,40.29
+BOD (mg/L),S3,40.63
+BOD (mg/L),S3,38.63
+BOD (mg/L),S3,40.62
+BOD (mg/L),S3,39.29
+BOD (mg/L),S3,38.71
+BOD (mg/L),S3,39.88
+BOD (mg/L),S3,39.86
+BOD (mg/L),S3,40.35
+BOD (mg/L),S3,39.66
+BOD (mg/L),S3,39.76
+BOD (mg/L),S3,39.73
+BOD (mg/L),S3,39.44
+BOD (mg/L),S3,39.05
+BOD (mg/L),S3,40.83
+BOD (mg/L),S3,41.61
+BOD (mg/L),S3,42.65
+BOD (mg/L),S3,41.17
+BOD (mg/L),S3,42.93
+BOD (mg/L),S3,40.89
+BOD (mg/L),S3,41.54
+BOD (mg/L),S3,42.77
+BOD (mg/L),S3,41.17
+BOD (mg/L),S3,41.89
+BOD (mg/L),S3,42.44
+BOD (mg/L),S3,42.84
+BOD (mg/L),S3,42.89
+BOD (mg/L),S3,40.99
+BOD (mg/L),S3,41.48
+BOD (mg/L),S3,43.0
+BOD (mg/L),S3,42.72
+BOD (mg/L),S3,42.93
+BOD (mg/L),S3,42.98
+BOD (mg/L),S3,43.0
+BOD (mg/L),S3,42.72
+BOD (mg/L),S3,42.72
+BOD (mg/L),S3,42.75
+BOD (mg/L),S3,42.97
+BOD (mg/L),S3,42.82
+BOD (mg/L),S3,42.98
+BOD (mg/L),S3,42.76
+BOD (mg/L),S3,42.76
+BOD (mg/L),S3,42.97
+BOD (mg/L),S3,42.85
+BOD (mg/L),S3,42.71
+BOD (mg/L),S3,39.78
+BOD (mg/L),S3,42.63
+BOD (mg/L),S3,40.57
+BOD (mg/L),S3,41.91
+BOD (mg/L),S3,42.01
+BOD (mg/L),S3,40.16
+BOD (mg/L),S3,40.45
+BOD (mg/L),S3,42.04
+BOD (mg/L),S3,39.98
+BOD (mg/L),S3,39.93
+BOD (mg/L),S3,42.46
+BOD (mg/L),S3,39.35
+BOD (mg/L),S3,40.18
+BOD (mg/L),S3,41.18
+BOD (mg/L),S3,39.74
+BOD (mg/L),S3,39.24
+BOD (mg/L),S3,37.57
+BOD (mg/L),S3,37.8
+BOD (mg/L),S3,38.78
+BOD (mg/L),S3,38.97
+BOD (mg/L),S3,37.72
+BOD (mg/L),S3,37.39
+BOD (mg/L),S3,39.05
+BOD (mg/L),S3,38.02
+BOD (mg/L),S3,37.63
+BOD (mg/L),S3,38.14
+BOD (mg/L),S3,37.8
+BOD (mg/L),S3,38.9
+BOD (mg/L),S3,37.64
+BOD (mg/L),S3,37.84
+BOD (mg/L),S3,37.38
+BOD (mg/L),S3,36.97
+BOD (mg/L),S3,37.14
+BOD (mg/L),S3,37.28
+BOD (mg/L),S3,36.68
+BOD (mg/L),S3,37.21
+BOD (mg/L),S3,36.7
+BOD (mg/L),S3,36.78
+BOD (mg/L),S3,37.07
+BOD (mg/L),S3,36.93
+BOD (mg/L),S3,37.1
+BOD (mg/L),S3,37.37
+BOD (mg/L),S3,37.26
+BOD (mg/L),S3,36.52
+BOD (mg/L),S3,36.72
+BOD (mg/L),S3,36.5
+BOD (mg/L),S3,35.43
+BOD (mg/L),S3,34.64
+BOD (mg/L),S3,34.43
+BOD (mg/L),S3,33.53
+BOD (mg/L),S3,33.37
+BOD (mg/L),S3,34.89
+BOD (mg/L),S3,33.8
+BOD (mg/L),S3,36.31
+BOD (mg/L),S3,36.31
+BOD (mg/L),S3,34.86
+BOD (mg/L),S3,34.99
+BOD (mg/L),S3,36.39
+BOD (mg/L),S3,33.29
+BOD (mg/L),S3,35.04
+BOD (mg/L),S3,33.1
+BOD (mg/L),S3,32.61
+BOD (mg/L),S3,32.41
+BOD (mg/L),S3,32.87
+BOD (mg/L),S3,32.52
+BOD (mg/L),S3,32.5
+BOD (mg/L),S3,32.73
+BOD (mg/L),S3,32.81
+BOD (mg/L),S3,32.57
+BOD (mg/L),S3,32.78
+BOD (mg/L),S3,32.78
+BOD (mg/L),S3,32.49
+BOD (mg/L),S3,32.48
+BOD (mg/L),S3,32.56
+BOD (mg/L),S3,32.86
+BOD (mg/L),S3,32.17
+BOD (mg/L),S3,32.15
+BOD (mg/L),S3,32.61
+BOD (mg/L),S3,32.41
+BOD (mg/L),S3,32.87
+BOD (mg/L),S3,32.52
+BOD (mg/L),S3,32.5
+BOD (mg/L),S3,32.73
+BOD (mg/L),S3,32.81
+BOD (mg/L),S3,32.57
+BOD (mg/L),S3,32.78
+BOD (mg/L),S3,32.78
+BOD (mg/L),S3,32.49
+BOD (mg/L),S3,32.48
+BOD (mg/L),S3,32.56
+BOD (mg/L),S3,32.86
+BOD (mg/L),S3,32.19
+BOD (mg/L),S3,32.16
+BOD (mg/L),S3,32.17
+BOD (mg/L),S3,32.11
+BOD (mg/L),S3,32.11
+BOD (mg/L),S3,32.01
+BOD (mg/L),S3,32.09
+BOD (mg/L),S3,32.08
+BOD (mg/L),S3,32.14
+BOD (mg/L),S3,32.03
+BOD (mg/L),S3,32.03
+BOD (mg/L),S3,32.12
+BOD (mg/L),S3,32.05
+BOD (mg/L),S3,32.12
+BOD (mg/L),S3,32.08
+BOD (mg/L),S3,32.04
+BOD (mg/L),S3,32.0
+BOD (mg/L),S3,30.79
+BOD (mg/L),S3,31.86
+BOD (mg/L),S3,31.81
+BOD (mg/L),S3,31.9
+BOD (mg/L),S3,30.58
+BOD (mg/L),S3,30.96
+BOD (mg/L),S3,31.76
+BOD (mg/L),S3,31.31
+BOD (mg/L),S3,30.79
+BOD (mg/L),S3,30.77
+BOD (mg/L),S3,30.71
+BOD (mg/L),S3,30.95
+BOD (mg/L),S3,31.72
+BOD (mg/L),S3,31.49
+BOD (mg/L),S3,30.27
+BOD (mg/L),S3,29.85
+BOD (mg/L),S3,30.05
+BOD (mg/L),S3,29.71
+BOD (mg/L),S3,29.94
+BOD (mg/L),S3,29.96
+BOD (mg/L),S3,30.15
+BOD (mg/L),S3,29.67
+BOD (mg/L),S3,30.06
+BOD (mg/L),S3,29.63
+BOD (mg/L),S3,29.88
+BOD (mg/L),S3,29.74
+BOD (mg/L),S3,29.73
+BOD (mg/L),S3,30.19
+BOD (mg/L),S3,29.96
+BOD (mg/L),S3,29.61
+BOD (mg/L),S3,29.47
+BOD (mg/L),S3,29.31
+BOD (mg/L),S3,29.22
+BOD (mg/L),S3,29.6
+BOD (mg/L),S3,29.42
+BOD (mg/L),S3,29.11
+BOD (mg/L),S3,29.37
+BOD (mg/L),S3,29.56
+BOD (mg/L),S3,29.39
+BOD (mg/L),S3,29.57
+BOD (mg/L),S3,29.61
+BOD (mg/L),S3,29.27
+BOD (mg/L),S3,29.4
+BOD (mg/L),S3,29.38
+BOD (mg/L),S3,29.1
+BOD (mg/L),S3,29.1
+BOD (mg/L),S3,29.06
+BOD (mg/L),S3,29.01
+BOD (mg/L),S3,29.02
+BOD (mg/L),S3,29.0
+BOD (mg/L),S3,29.04
+BOD (mg/L),S3,29.04
+BOD (mg/L),S3,29.09
+BOD (mg/L),S3,28.96
+BOD (mg/L),S3,29.05
+BOD (mg/L),S3,29.01
+BOD (mg/L),S3,29.0
+BOD (mg/L),S3,28.97
+BOD (mg/L),S3,29.0
+BOD (mg/L),S3,29.06
+BOD (mg/L),S3,28.95
+BOD (mg/L),S3,28.62
+BOD (mg/L),S3,28.42
+BOD (mg/L),S3,28.58
+BOD (mg/L),S3,28.94
+BOD (mg/L),S3,28.27
+BOD (mg/L),S3,28.83
+BOD (mg/L),S3,28.76
+BOD (mg/L),S3,28.25
+BOD (mg/L),S3,28.84
+BOD (mg/L),S3,28.77
+BOD (mg/L),S3,28.54
+BOD (mg/L),S3,28.61
+BOD (mg/L),S3,28.37
+BOD (mg/L),S3,28.26
+BOD (mg/L),S3,28.17
+BOD (mg/L),S3,27.92
+BOD (mg/L),S3,27.77
+BOD (mg/L),S3,27.79
+BOD (mg/L),S3,27.82
+BOD (mg/L),S3,27.75
+BOD (mg/L),S3,27.81
+BOD (mg/L),S3,28.1
+BOD (mg/L),S3,27.99
+BOD (mg/L),S3,28.0
+BOD (mg/L),S3,27.83
+BOD (mg/L),S3,28.14
+BOD (mg/L),S3,28.02
+BOD (mg/L),S3,27.84
+BOD (mg/L),S3,27.78
+BOD (mg/L),S4,27.93
+BOD (mg/L),S4,27.86
+BOD (mg/L),S4,27.71
+BOD (mg/L),S4,27.15
+BOD (mg/L),S4,27.19
+BOD (mg/L),S4,27.06
+BOD (mg/L),S4,27.06
+BOD (mg/L),S4,27.28
+BOD (mg/L),S4,27.51
+BOD (mg/L),S4,27.37
+BOD (mg/L),S4,27.52
+BOD (mg/L),S4,27.76
+BOD (mg/L),S4,27.55
+BOD (mg/L),S4,27.16
+BOD (mg/L),S4,27.34
+BOD (mg/L),S4,27.0
+BOD (mg/L),S4,26.39
+BOD (mg/L),S4,25.85
+BOD (mg/L),S4,25.66
+BOD (mg/L),S4,26.57
+BOD (mg/L),S4,25.94
+BOD (mg/L),S4,26.89
+BOD (mg/L),S4,25.11
+BOD (mg/L),S4,25.31
+BOD (mg/L),S4,25.8
+BOD (mg/L),S4,25.46
+BOD (mg/L),S4,26.22
+BOD (mg/L),S4,26.64
+BOD (mg/L),S4,26.44
+BOD (mg/L),S4,25.88
+BOD (mg/L),S4,25.19
+BOD (mg/L),S4,25.0
+BOD (mg/L),S4,24.9
+BOD (mg/L),S4,24.79
+BOD (mg/L),S4,24.94
+BOD (mg/L),S4,24.94
+BOD (mg/L),S4,24.9
+BOD (mg/L),S4,24.86
+BOD (mg/L),S4,24.85
+BOD (mg/L),S4,24.87
+BOD (mg/L),S4,24.91
+BOD (mg/L),S4,24.86
+BOD (mg/L),S4,24.81
+BOD (mg/L),S4,24.92
+BOD (mg/L),S4,24.9
+BOD (mg/L),S4,24.94
+BOD (mg/L),S4,24.79
+BOD (mg/L),S4,24.87
+BOD (mg/L),S4,26.52
+BOD (mg/L),S4,27.21
+BOD (mg/L),S4,24.82
+BOD (mg/L),S4,27.4
+BOD (mg/L),S4,26.52
+BOD (mg/L),S4,26.97
+BOD (mg/L),S4,26.92
+BOD (mg/L),S4,27.13
+BOD (mg/L),S4,25.14
+BOD (mg/L),S4,25.52
+BOD (mg/L),S4,26.13
+BOD (mg/L),S4,25.42
+BOD (mg/L),S4,25.41
+BOD (mg/L),S4,27.45
+BOD (mg/L),S4,27.74
+BOD (mg/L),S4,27.75
+BOD (mg/L),S4,27.92
+BOD (mg/L),S4,27.82
+BOD (mg/L),S4,27.84
+BOD (mg/L),S4,27.76
+BOD (mg/L),S4,27.95
+BOD (mg/L),S4,27.87
+BOD (mg/L),S4,27.89
+BOD (mg/L),S4,28.01
+BOD (mg/L),S4,28.07
+BOD (mg/L),S4,28.04
+BOD (mg/L),S4,27.76
+BOD (mg/L),S4,28.09
+BOD (mg/L),S4,29.97
+BOD (mg/L),S4,28.42
+BOD (mg/L),S4,29.34
+BOD (mg/L),S4,28.48
+BOD (mg/L),S4,29.89
+BOD (mg/L),S4,28.17
+BOD (mg/L),S4,30.02
+BOD (mg/L),S4,29.14
+BOD (mg/L),S4,28.42
+BOD (mg/L),S4,29.38
+BOD (mg/L),S4,29.64
+BOD (mg/L),S4,29.62
+BOD (mg/L),S4,28.31
+BOD (mg/L),S4,28.64
+BOD (mg/L),S4,30.14
+BOD (mg/L),S4,30.54
+BOD (mg/L),S4,32.24
+BOD (mg/L),S4,31.67
+BOD (mg/L),S4,30.57
+BOD (mg/L),S4,31.81
+BOD (mg/L),S4,30.9
+BOD (mg/L),S4,31.05
+BOD (mg/L),S4,30.77
+BOD (mg/L),S4,31.17
+BOD (mg/L),S4,30.6
+BOD (mg/L),S4,31.5
+BOD (mg/L),S4,32.22
+BOD (mg/L),S4,32.3
+BOD (mg/L),S4,32.42
+BOD (mg/L),S4,32.54
+BOD (mg/L),S4,37.74
+BOD (mg/L),S4,33.22
+BOD (mg/L),S4,35.53
+BOD (mg/L),S4,36.42
+BOD (mg/L),S4,33.9
+BOD (mg/L),S4,33.04
+BOD (mg/L),S4,33.21
+BOD (mg/L),S4,32.91
+BOD (mg/L),S4,32.67
+BOD (mg/L),S4,33.8
+BOD (mg/L),S4,36.76
+BOD (mg/L),S4,34.83
+BOD (mg/L),S4,36.87
+BOD (mg/L),S4,33.16
+BOD (mg/L),S4,32.59
+BOD (mg/L),S4,38.29
+BOD (mg/L),S4,38.69
+BOD (mg/L),S4,39.83
+BOD (mg/L),S4,39.52
+BOD (mg/L),S4,40.03
+BOD (mg/L),S4,40.33
+BOD (mg/L),S4,40.41
+BOD (mg/L),S4,38.59
+BOD (mg/L),S4,38.67
+BOD (mg/L),S4,39.63
+BOD (mg/L),S4,38.7
+BOD (mg/L),S4,38.77
+BOD (mg/L),S4,39.7
+BOD (mg/L),S4,40.33
+BOD (mg/L),S4,38.41
+BOD (mg/L),S4,40.55
+BOD (mg/L),S4,41.46
+BOD (mg/L),S4,41.31
+BOD (mg/L),S4,42.35
+BOD (mg/L),S4,41.85
+BOD (mg/L),S4,41.78
+BOD (mg/L),S4,41.62
+BOD (mg/L),S4,40.59
+BOD (mg/L),S4,41.76
+BOD (mg/L),S4,41.63
+BOD (mg/L),S4,42.3
+BOD (mg/L),S4,40.95
+BOD (mg/L),S4,41.6
+BOD (mg/L),S4,41.38
+BOD (mg/L),S4,42.36
+BOD (mg/L),S4,42.91
+BOD (mg/L),S4,42.61
+BOD (mg/L),S4,42.73
+BOD (mg/L),S4,42.8
+BOD (mg/L),S4,42.5
+BOD (mg/L),S4,42.47
+BOD (mg/L),S4,42.62
+BOD (mg/L),S4,42.42
+BOD (mg/L),S4,42.66
+BOD (mg/L),S4,42.62
+BOD (mg/L),S4,42.69
+BOD (mg/L),S4,42.33
+BOD (mg/L),S4,42.69
+BOD (mg/L),S4,42.72
+BOD (mg/L),S4,42.38
+BOD (mg/L),S4,42.14
+BOD (mg/L),S4,40.28
+BOD (mg/L),S4,39.25
+BOD (mg/L),S4,42.03
+BOD (mg/L),S4,39.37
+BOD (mg/L),S4,41.09
+BOD (mg/L),S4,40.16
+BOD (mg/L),S4,41.88
+BOD (mg/L),S4,41.6
+BOD (mg/L),S4,39.77
+BOD (mg/L),S4,39.87
+BOD (mg/L),S4,39.49
+BOD (mg/L),S4,41.67
+BOD (mg/L),S4,39.49
+BOD (mg/L),S4,39.95
+BOD (mg/L),S4,40.98
+BOD (mg/L),S4,39.0
+BOD (mg/L),S4,36.61
+BOD (mg/L),S4,38.5
+BOD (mg/L),S4,36.57
+BOD (mg/L),S4,37.16
+BOD (mg/L),S4,38.01
+BOD (mg/L),S4,38.03
+BOD (mg/L),S4,37.82
+BOD (mg/L),S4,37.41
+BOD (mg/L),S4,38.67
+BOD (mg/L),S4,37.11
+BOD (mg/L),S4,36.85
+BOD (mg/L),S4,36.89
+BOD (mg/L),S4,38.79
+BOD (mg/L),S4,36.59
+BOD (mg/L),S4,36.51
+BOD (mg/L),S4,36.13
+BOD (mg/L),S4,36.26
+BOD (mg/L),S4,35.76
+BOD (mg/L),S4,36.5
+BOD (mg/L),S4,36.04
+BOD (mg/L),S4,36.13
+BOD (mg/L),S4,36.25
+BOD (mg/L),S4,36.38
+BOD (mg/L),S4,35.88
+BOD (mg/L),S4,36.02
+BOD (mg/L),S4,35.81
+BOD (mg/L),S4,35.99
+BOD (mg/L),S4,36.27
+BOD (mg/L),S4,36.28
+BOD (mg/L),S4,35.74
+BOD (mg/L),S4,35.24
+BOD (mg/L),S4,33.64
+BOD (mg/L),S4,33.16
+BOD (mg/L),S4,32.97
+BOD (mg/L),S4,35.3
+BOD (mg/L),S4,35.48
+BOD (mg/L),S4,34.53
+BOD (mg/L),S4,33.15
+BOD (mg/L),S4,34.17
+BOD (mg/L),S4,34.02
+BOD (mg/L),S4,34.9
+BOD (mg/L),S4,34.91
+BOD (mg/L),S4,34.15
+BOD (mg/L),S4,35.04
+BOD (mg/L),S4,32.97
+BOD (mg/L),S4,32.59
+BOD (mg/L),S4,32.13
+BOD (mg/L),S4,32.97
+BOD (mg/L),S4,32.65
+BOD (mg/L),S4,32.26
+BOD (mg/L),S4,32.43
+BOD (mg/L),S4,32.91
+BOD (mg/L),S4,32.44
+BOD (mg/L),S4,32.36
+BOD (mg/L),S4,32.79
+BOD (mg/L),S4,32.38
+BOD (mg/L),S4,32.25
+BOD (mg/L),S4,32.92
+BOD (mg/L),S4,32.12
+BOD (mg/L),S4,32.29
+BOD (mg/L),S4,32.1
+BOD (mg/L),S4,32.59
+BOD (mg/L),S4,32.13
+BOD (mg/L),S4,32.97
+BOD (mg/L),S4,32.65
+BOD (mg/L),S4,32.26
+BOD (mg/L),S4,32.43
+BOD (mg/L),S4,32.91
+BOD (mg/L),S4,32.44
+BOD (mg/L),S4,32.36
+BOD (mg/L),S4,32.79
+BOD (mg/L),S4,32.38
+BOD (mg/L),S4,32.25
+BOD (mg/L),S4,32.92
+BOD (mg/L),S4,32.12
+BOD (mg/L),S4,32.07
+BOD (mg/L),S4,31.95
+BOD (mg/L),S4,31.92
+BOD (mg/L),S4,32.0
+BOD (mg/L),S4,32.03
+BOD (mg/L),S4,31.99
+BOD (mg/L),S4,31.94
+BOD (mg/L),S4,32.04
+BOD (mg/L),S4,32.05
+BOD (mg/L),S4,31.98
+BOD (mg/L),S4,31.89
+BOD (mg/L),S4,32.03
+BOD (mg/L),S4,31.91
+BOD (mg/L),S4,32.06
+BOD (mg/L),S4,32.07
+BOD (mg/L),S4,31.91
+BOD (mg/L),S4,31.86
+BOD (mg/L),S4,30.65
+BOD (mg/L),S4,31.37
+BOD (mg/L),S4,31.65
+BOD (mg/L),S4,31.26
+BOD (mg/L),S4,31.18
+BOD (mg/L),S4,30.13
+BOD (mg/L),S4,30.69
+BOD (mg/L),S4,30.79
+BOD (mg/L),S4,31.07
+BOD (mg/L),S4,30.61
+BOD (mg/L),S4,30.17
+BOD (mg/L),S4,30.65
+BOD (mg/L),S4,31.38
+BOD (mg/L),S4,30.62
+BOD (mg/L),S4,30.1
+BOD (mg/L),S4,30.01
+BOD (mg/L),S4,29.99
+BOD (mg/L),S4,30.09
+BOD (mg/L),S4,29.52
+BOD (mg/L),S4,29.56
+BOD (mg/L),S4,29.98
+BOD (mg/L),S4,29.62
+BOD (mg/L),S4,29.79
+BOD (mg/L),S4,30.01
+BOD (mg/L),S4,29.66
+BOD (mg/L),S4,29.89
+BOD (mg/L),S4,29.92
+BOD (mg/L),S4,29.97
+BOD (mg/L),S4,29.72
+BOD (mg/L),S4,29.5
+BOD (mg/L),S4,29.13
+BOD (mg/L),S4,29.33
+BOD (mg/L),S4,29.06
+BOD (mg/L),S4,29.47
+BOD (mg/L),S4,29.33
+BOD (mg/L),S4,29.47
+BOD (mg/L),S4,29.04
+BOD (mg/L),S4,29.38
+BOD (mg/L),S4,29.12
+BOD (mg/L),S4,29.09
+BOD (mg/L),S4,29.27
+BOD (mg/L),S4,29.22
+BOD (mg/L),S4,29.01
+BOD (mg/L),S4,29.31
+BOD (mg/L),S4,29.0
+BOD (mg/L),S4,28.93
+BOD (mg/L),S4,28.36
+BOD (mg/L),S4,28.35
+BOD (mg/L),S4,28.78
+BOD (mg/L),S4,28.71
+BOD (mg/L),S4,28.57
+BOD (mg/L),S4,28.55
+BOD (mg/L),S4,28.5
+BOD (mg/L),S4,28.42
+BOD (mg/L),S4,28.92
+BOD (mg/L),S4,28.48
+BOD (mg/L),S4,28.88
+BOD (mg/L),S4,28.98
+BOD (mg/L),S4,28.55
+BOD (mg/L),S4,28.42
+BOD (mg/L),S4,28.33
+BOD (mg/L),S4,28.31
+BOD (mg/L),S4,28.25
+BOD (mg/L),S4,28.23
+BOD (mg/L),S4,28.29
+BOD (mg/L),S4,28.15
+BOD (mg/L),S4,28.17
+BOD (mg/L),S4,28.17
+BOD (mg/L),S4,28.16
+BOD (mg/L),S4,28.31
+BOD (mg/L),S4,28.23
+BOD (mg/L),S4,28.2
+BOD (mg/L),S4,28.2
+BOD (mg/L),S4,28.16
+BOD (mg/L),S4,28.29
+BOD (mg/L),S4,28.14
+BOD (mg/L),S4,28.08
+BOD (mg/L),S4,27.92
+BOD (mg/L),S4,27.77
+BOD (mg/L),S4,28.05
+BOD (mg/L),S4,27.75
+BOD (mg/L),S4,28.13
+BOD (mg/L),S4,27.75
+BOD (mg/L),S4,27.86
+BOD (mg/L),S4,27.72
+BOD (mg/L),S4,27.9
+BOD (mg/L),S4,28.11
+BOD (mg/L),S4,28.06
+BOD (mg/L),S4,27.98
+BOD (mg/L),S4,27.92
+DO (mg/L),S1,2.55
+DO (mg/L),S1,2.6
+DO (mg/L),S1,2.59
+DO (mg/L),S1,2.63
+DO (mg/L),S1,2.6
+DO (mg/L),S1,2.57
+DO (mg/L),S1,2.56
+DO (mg/L),S1,2.62
+DO (mg/L),S1,2.6
+DO (mg/L),S1,2.64
+DO (mg/L),S1,2.56
+DO (mg/L),S1,2.62
+DO (mg/L),S1,2.61
+DO (mg/L),S1,2.63
+DO (mg/L),S1,2.64
+DO (mg/L),S1,2.65
+DO (mg/L),S1,2.67
+DO (mg/L),S1,2.75
+DO (mg/L),S1,2.67
+DO (mg/L),S1,2.69
+DO (mg/L),S1,2.75
+DO (mg/L),S1,2.75
+DO (mg/L),S1,2.75
+DO (mg/L),S1,2.67
+DO (mg/L),S1,2.67
+DO (mg/L),S1,2.71
+DO (mg/L),S1,2.76
+DO (mg/L),S1,2.72
+DO (mg/L),S1,2.68
+DO (mg/L),S1,2.72
+DO (mg/L),S1,2.73
+DO (mg/L),S1,2.77
+DO (mg/L),S1,2.82
+DO (mg/L),S1,2.81
+DO (mg/L),S1,2.8
+DO (mg/L),S1,2.77
+DO (mg/L),S1,2.78
+DO (mg/L),S1,2.77
+DO (mg/L),S1,2.83
+DO (mg/L),S1,2.77
+DO (mg/L),S1,2.82
+DO (mg/L),S1,2.79
+DO (mg/L),S1,2.82
+DO (mg/L),S1,2.82
+DO (mg/L),S1,2.78
+DO (mg/L),S1,2.78
+DO (mg/L),S1,2.83
+DO (mg/L),S1,2.82
+DO (mg/L),S1,2.69
+DO (mg/L),S1,2.73
+DO (mg/L),S1,2.79
+DO (mg/L),S1,2.78
+DO (mg/L),S1,2.67
+DO (mg/L),S1,2.76
+DO (mg/L),S1,2.7
+DO (mg/L),S1,2.73
+DO (mg/L),S1,2.7
+DO (mg/L),S1,2.69
+DO (mg/L),S1,2.67
+DO (mg/L),S1,2.71
+DO (mg/L),S1,2.68
+DO (mg/L),S1,2.7
+DO (mg/L),S1,2.65
+DO (mg/L),S1,2.63
+DO (mg/L),S1,2.58
+DO (mg/L),S1,2.53
+DO (mg/L),S1,2.51
+DO (mg/L),S1,2.62
+DO (mg/L),S1,2.65
+DO (mg/L),S1,2.6
+DO (mg/L),S1,2.62
+DO (mg/L),S1,2.51
+DO (mg/L),S1,2.52
+DO (mg/L),S1,2.64
+DO (mg/L),S1,2.54
+DO (mg/L),S1,2.5
+DO (mg/L),S1,2.42
+DO (mg/L),S1,2.18
+DO (mg/L),S1,2.34
+DO (mg/L),S1,2.12
+DO (mg/L),S1,2.28
+DO (mg/L),S1,2.34
+DO (mg/L),S1,2.34
+DO (mg/L),S1,2.02
+DO (mg/L),S1,2.05
+DO (mg/L),S1,2.21
+DO (mg/L),S1,2.44
+DO (mg/L),S1,2.1
+DO (mg/L),S1,2.03
+DO (mg/L),S1,2.23
+DO (mg/L),S1,2.0
+DO (mg/L),S1,1.9
+DO (mg/L),S1,1.89
+DO (mg/L),S1,1.9
+DO (mg/L),S1,1.81
+DO (mg/L),S1,1.75
+DO (mg/L),S1,1.9
+DO (mg/L),S1,1.83
+DO (mg/L),S1,1.89
+DO (mg/L),S1,1.87
+DO (mg/L),S1,1.95
+DO (mg/L),S1,1.99
+DO (mg/L),S1,1.94
+DO (mg/L),S1,1.76
+DO (mg/L),S1,1.88
+DO (mg/L),S1,1.73
+DO (mg/L),S1,0.94
+DO (mg/L),S1,0.94
+DO (mg/L),S1,1.05
+DO (mg/L),S1,1.4
+DO (mg/L),S1,1.69
+DO (mg/L),S1,1.43
+DO (mg/L),S1,1.15
+DO (mg/L),S1,1.42
+DO (mg/L),S1,1.71
+DO (mg/L),S1,1.58
+DO (mg/L),S1,1.31
+DO (mg/L),S1,1.15
+DO (mg/L),S1,1.62
+DO (mg/L),S1,0.77
+DO (mg/L),S1,1.7
+DO (mg/L),S1,0.75
+DO (mg/L),S1,0.66
+DO (mg/L),S1,0.12
+DO (mg/L),S1,0.28
+DO (mg/L),S1,0.7
+DO (mg/L),S1,0.56
+DO (mg/L),S1,0.49
+DO (mg/L),S1,0.2
+DO (mg/L),S1,0.72
+DO (mg/L),S1,0.24
+DO (mg/L),S1,0.59
+DO (mg/L),S1,0.19
+DO (mg/L),S1,0.11
+DO (mg/L),S1,0.54
+DO (mg/L),S1,0.4
+DO (mg/L),S1,0.08
+DO (mg/L),S1,0.01
+DO (mg/L),S1,0.07
+DO (mg/L),S1,0.04
+DO (mg/L),S1,0.01
+DO (mg/L),S1,0.04
+DO (mg/L),S1,0.02
+DO (mg/L),S1,0.08
+DO (mg/L),S1,0.07
+DO (mg/L),S1,0.06
+DO (mg/L),S1,0.08
+DO (mg/L),S1,0.07
+DO (mg/L),S1,0.05
+DO (mg/L),S1,0.07
+DO (mg/L),S1,0.02
+DO (mg/L),S1,0.01
+DO (mg/L),S1,0.03
+DO (mg/L),S1,0.03
+DO (mg/L),S1,0.03
+DO (mg/L),S1,0.03
+DO (mg/L),S1,0.01
+DO (mg/L),S1,0.02
+DO (mg/L),S1,0.01
+DO (mg/L),S1,0.02
+DO (mg/L),S1,0.02
+DO (mg/L),S1,0.01
+DO (mg/L),S1,0.02
+DO (mg/L),S1,0.03
+DO (mg/L),S1,0.02
+DO (mg/L),S1,0.03
+DO (mg/L),S1,0.03
+DO (mg/L),S1,0.1
+DO (mg/L),S1,0.31
+DO (mg/L),S1,0.12
+DO (mg/L),S1,0.1
+DO (mg/L),S1,0.22
+DO (mg/L),S1,0.08
+DO (mg/L),S1,0.19
+DO (mg/L),S1,0.29
+DO (mg/L),S1,0.04
+DO (mg/L),S1,0.15
+DO (mg/L),S1,0.11
+DO (mg/L),S1,0.05
+DO (mg/L),S1,0.14
+DO (mg/L),S1,0.23
+DO (mg/L),S1,0.13
+DO (mg/L),S1,0.31
+DO (mg/L),S1,0.72
+DO (mg/L),S1,0.33
+DO (mg/L),S1,0.71
+DO (mg/L),S1,0.47
+DO (mg/L),S1,0.53
+DO (mg/L),S1,0.73
+DO (mg/L),S1,0.33
+DO (mg/L),S1,0.45
+DO (mg/L),S1,0.73
+DO (mg/L),S1,0.6
+DO (mg/L),S1,0.58
+DO (mg/L),S1,0.78
+DO (mg/L),S1,0.56
+DO (mg/L),S1,0.79
+DO (mg/L),S1,0.79
+DO (mg/L),S1,0.92
+DO (mg/L),S1,0.82
+DO (mg/L),S1,0.79
+DO (mg/L),S1,0.88
+DO (mg/L),S1,0.81
+DO (mg/L),S1,1.08
+DO (mg/L),S1,1.08
+DO (mg/L),S1,0.94
+DO (mg/L),S1,0.88
+DO (mg/L),S1,0.8
+DO (mg/L),S1,0.81
+DO (mg/L),S1,1.01
+DO (mg/L),S1,0.94
+DO (mg/L),S1,1.01
+DO (mg/L),S1,1.12
+DO (mg/L),S1,1.13
+DO (mg/L),S1,1.12
+DO (mg/L),S1,1.15
+DO (mg/L),S1,1.14
+DO (mg/L),S1,1.15
+DO (mg/L),S1,1.15
+DO (mg/L),S1,1.14
+DO (mg/L),S1,1.14
+DO (mg/L),S1,1.13
+DO (mg/L),S1,1.13
+DO (mg/L),S1,1.13
+DO (mg/L),S1,1.14
+DO (mg/L),S1,1.15
+DO (mg/L),S1,1.15
+DO (mg/L),S1,1.15
+DO (mg/L),S1,1.64
+DO (mg/L),S1,1.36
+DO (mg/L),S1,1.3
+DO (mg/L),S1,1.53
+DO (mg/L),S1,1.45
+DO (mg/L),S1,1.36
+DO (mg/L),S1,1.51
+DO (mg/L),S1,1.68
+DO (mg/L),S1,1.62
+DO (mg/L),S1,1.21
+DO (mg/L),S1,1.3
+DO (mg/L),S1,1.43
+DO (mg/L),S1,1.55
+DO (mg/L),S1,1.15
+DO (mg/L),S1,1.67
+DO (mg/L),S1,1.72
+DO (mg/L),S1,1.64
+DO (mg/L),S1,1.36
+DO (mg/L),S1,1.3
+DO (mg/L),S1,1.53
+DO (mg/L),S1,1.45
+DO (mg/L),S1,1.36
+DO (mg/L),S1,1.51
+DO (mg/L),S1,1.68
+DO (mg/L),S1,1.62
+DO (mg/L),S1,1.21
+DO (mg/L),S1,1.3
+DO (mg/L),S1,1.43
+DO (mg/L),S1,1.55
+DO (mg/L),S1,1.15
+DO (mg/L),S1,1.92
+DO (mg/L),S1,1.96
+DO (mg/L),S1,1.94
+DO (mg/L),S1,2.0
+DO (mg/L),S1,1.96
+DO (mg/L),S1,1.96
+DO (mg/L),S1,1.97
+DO (mg/L),S1,1.96
+DO (mg/L),S1,1.93
+DO (mg/L),S1,1.92
+DO (mg/L),S1,1.95
+DO (mg/L),S1,1.99
+DO (mg/L),S1,1.95
+DO (mg/L),S1,1.96
+DO (mg/L),S1,1.98
+DO (mg/L),S1,1.98
+DO (mg/L),S1,2.0
+DO (mg/L),S1,2.06
+DO (mg/L),S1,2.09
+DO (mg/L),S1,2.06
+DO (mg/L),S1,2.07
+DO (mg/L),S1,2.0
+DO (mg/L),S1,2.09
+DO (mg/L),S1,2.05
+DO (mg/L),S1,2.01
+DO (mg/L),S1,2.09
+DO (mg/L),S1,2.09
+DO (mg/L),S1,2.04
+DO (mg/L),S1,2.06
+DO (mg/L),S1,2.01
+DO (mg/L),S1,2.01
+DO (mg/L),S1,2.1
+DO (mg/L),S1,2.1
+DO (mg/L),S1,2.14
+DO (mg/L),S1,2.11
+DO (mg/L),S1,2.11
+DO (mg/L),S1,2.14
+DO (mg/L),S1,2.13
+DO (mg/L),S1,2.14
+DO (mg/L),S1,2.12
+DO (mg/L),S1,2.13
+DO (mg/L),S1,2.11
+DO (mg/L),S1,2.13
+DO (mg/L),S1,2.1
+DO (mg/L),S1,2.14
+DO (mg/L),S1,2.11
+DO (mg/L),S1,2.14
+DO (mg/L),S1,2.14
+DO (mg/L),S1,2.18
+DO (mg/L),S1,2.18
+DO (mg/L),S1,2.17
+DO (mg/L),S1,2.15
+DO (mg/L),S1,2.16
+DO (mg/L),S1,2.19
+DO (mg/L),S1,2.14
+DO (mg/L),S1,2.17
+DO (mg/L),S1,2.16
+DO (mg/L),S1,2.16
+DO (mg/L),S1,2.18
+DO (mg/L),S1,2.14
+DO (mg/L),S1,2.16
+DO (mg/L),S1,2.19
+DO (mg/L),S1,2.19
+DO (mg/L),S1,2.3
+DO (mg/L),S1,2.2
+DO (mg/L),S1,2.24
+DO (mg/L),S1,2.22
+DO (mg/L),S1,2.22
+DO (mg/L),S1,2.2
+DO (mg/L),S1,2.23
+DO (mg/L),S1,2.2
+DO (mg/L),S1,2.22
+DO (mg/L),S1,2.23
+DO (mg/L),S1,2.2
+DO (mg/L),S1,2.29
+DO (mg/L),S1,2.27
+DO (mg/L),S1,2.29
+DO (mg/L),S1,2.3
+DO (mg/L),S1,2.37
+DO (mg/L),S1,2.3
+DO (mg/L),S1,2.34
+DO (mg/L),S1,2.38
+DO (mg/L),S1,2.39
+DO (mg/L),S1,2.3
+DO (mg/L),S1,2.4
+DO (mg/L),S1,2.38
+DO (mg/L),S1,2.4
+DO (mg/L),S1,2.36
+DO (mg/L),S1,2.38
+DO (mg/L),S1,2.39
+DO (mg/L),S1,2.33
+DO (mg/L),S1,2.39
+DO (mg/L),S1,2.41
+DO (mg/L),S1,2.43
+DO (mg/L),S1,2.42
+DO (mg/L),S1,2.44
+DO (mg/L),S1,2.42
+DO (mg/L),S1,2.41
+DO (mg/L),S1,2.43
+DO (mg/L),S1,2.43
+DO (mg/L),S1,2.44
+DO (mg/L),S1,2.42
+DO (mg/L),S1,2.45
+DO (mg/L),S1,2.42
+DO (mg/L),S1,2.43
+DO (mg/L),S1,2.43
+DO (mg/L),S1,2.44
+DO (mg/L),S2,2.62
+DO (mg/L),S2,2.68
+DO (mg/L),S2,2.67
+DO (mg/L),S2,2.65
+DO (mg/L),S2,2.69
+DO (mg/L),S2,2.68
+DO (mg/L),S2,2.64
+DO (mg/L),S2,2.7
+DO (mg/L),S2,2.67
+DO (mg/L),S2,2.67
+DO (mg/L),S2,2.64
+DO (mg/L),S2,2.64
+DO (mg/L),S2,2.67
+DO (mg/L),S2,2.69
+DO (mg/L),S2,2.66
+DO (mg/L),S2,2.7
+DO (mg/L),S2,2.7
+DO (mg/L),S2,2.74
+DO (mg/L),S2,2.72
+DO (mg/L),S2,2.72
+DO (mg/L),S2,2.73
+DO (mg/L),S2,2.78
+DO (mg/L),S2,2.83
+DO (mg/L),S2,2.73
+DO (mg/L),S2,2.71
+DO (mg/L),S2,2.71
+DO (mg/L),S2,2.77
+DO (mg/L),S2,2.78
+DO (mg/L),S2,2.76
+DO (mg/L),S2,2.78
+DO (mg/L),S2,2.82
+DO (mg/L),S2,2.84
+DO (mg/L),S2,2.85
+DO (mg/L),S2,2.86
+DO (mg/L),S2,2.84
+DO (mg/L),S2,2.85
+DO (mg/L),S2,2.84
+DO (mg/L),S2,2.85
+DO (mg/L),S2,2.87
+DO (mg/L),S2,2.86
+DO (mg/L),S2,2.86
+DO (mg/L),S2,2.85
+DO (mg/L),S2,2.86
+DO (mg/L),S2,2.85
+DO (mg/L),S2,2.86
+DO (mg/L),S2,2.86
+DO (mg/L),S2,2.87
+DO (mg/L),S2,2.82
+DO (mg/L),S2,2.84
+DO (mg/L),S2,2.78
+DO (mg/L),S2,2.76
+DO (mg/L),S2,2.85
+DO (mg/L),S2,2.86
+DO (mg/L),S2,2.86
+DO (mg/L),S2,2.81
+DO (mg/L),S2,2.76
+DO (mg/L),S2,2.84
+DO (mg/L),S2,2.8
+DO (mg/L),S2,2.87
+DO (mg/L),S2,2.8
+DO (mg/L),S2,2.85
+DO (mg/L),S2,2.82
+DO (mg/L),S2,2.75
+DO (mg/L),S2,2.65
+DO (mg/L),S2,2.68
+DO (mg/L),S2,2.67
+DO (mg/L),S2,2.47
+DO (mg/L),S2,2.46
+DO (mg/L),S2,2.62
+DO (mg/L),S2,2.46
+DO (mg/L),S2,2.71
+DO (mg/L),S2,2.64
+DO (mg/L),S2,2.62
+DO (mg/L),S2,2.5
+DO (mg/L),S2,2.73
+DO (mg/L),S2,2.45
+DO (mg/L),S2,2.07
+DO (mg/L),S2,2.24
+DO (mg/L),S2,2.34
+DO (mg/L),S2,2.11
+DO (mg/L),S2,2.15
+DO (mg/L),S2,2.37
+DO (mg/L),S2,2.08
+DO (mg/L),S2,2.42
+DO (mg/L),S2,2.34
+DO (mg/L),S2,2.36
+DO (mg/L),S2,2.24
+DO (mg/L),S2,2.27
+DO (mg/L),S2,2.11
+DO (mg/L),S2,2.18
+DO (mg/L),S2,2.06
+DO (mg/L),S2,2.01
+DO (mg/L),S2,1.7
+DO (mg/L),S2,2.01
+DO (mg/L),S2,1.93
+DO (mg/L),S2,1.82
+DO (mg/L),S2,1.86
+DO (mg/L),S2,1.93
+DO (mg/L),S2,1.82
+DO (mg/L),S2,2.0
+DO (mg/L),S2,1.88
+DO (mg/L),S2,1.95
+DO (mg/L),S2,1.87
+DO (mg/L),S2,1.74
+DO (mg/L),S2,2.01
+DO (mg/L),S2,1.7
+DO (mg/L),S2,1.62
+DO (mg/L),S2,1.23
+DO (mg/L),S2,1.12
+DO (mg/L),S2,1.69
+DO (mg/L),S2,0.93
+DO (mg/L),S2,1.2
+DO (mg/L),S2,1.61
+DO (mg/L),S2,0.95
+DO (mg/L),S2,1.59
+DO (mg/L),S2,1.35
+DO (mg/L),S2,1.02
+DO (mg/L),S2,1.32
+DO (mg/L),S2,1.57
+DO (mg/L),S2,1.07
+DO (mg/L),S2,0.99
+DO (mg/L),S2,0.82
+DO (mg/L),S2,0.71
+DO (mg/L),S2,0.35
+DO (mg/L),S2,0.58
+DO (mg/L),S2,0.69
+DO (mg/L),S2,0.11
+DO (mg/L),S2,0.73
+DO (mg/L),S2,0.79
+DO (mg/L),S2,0.31
+DO (mg/L),S2,0.31
+DO (mg/L),S2,0.4
+DO (mg/L),S2,0.21
+DO (mg/L),S2,0.76
+DO (mg/L),S2,0.26
+DO (mg/L),S2,0.19
+DO (mg/L),S2,0.09
+DO (mg/L),S2,0.03
+DO (mg/L),S2,0.08
+DO (mg/L),S2,0.06
+DO (mg/L),S2,0.07
+DO (mg/L),S2,0.02
+DO (mg/L),S2,0.04
+DO (mg/L),S2,0.07
+DO (mg/L),S2,0.08
+DO (mg/L),S2,0.06
+DO (mg/L),S2,0.06
+DO (mg/L),S2,0.07
+DO (mg/L),S2,0.09
+DO (mg/L),S2,0.09
+DO (mg/L),S2,0.04
+DO (mg/L),S2,0.02
+DO (mg/L),S2,0.03
+DO (mg/L),S2,0.06
+DO (mg/L),S2,0.05
+DO (mg/L),S2,0.04
+DO (mg/L),S2,0.02
+DO (mg/L),S2,0.02
+DO (mg/L),S2,0.03
+DO (mg/L),S2,0.02
+DO (mg/L),S2,0.05
+DO (mg/L),S2,0.03
+DO (mg/L),S2,0.04
+DO (mg/L),S2,0.03
+DO (mg/L),S2,0.05
+DO (mg/L),S2,0.02
+DO (mg/L),S2,0.06
+DO (mg/L),S2,0.17
+DO (mg/L),S2,0.21
+DO (mg/L),S2,0.07
+DO (mg/L),S2,0.28
+DO (mg/L),S2,0.13
+DO (mg/L),S2,0.25
+DO (mg/L),S2,0.18
+DO (mg/L),S2,0.27
+DO (mg/L),S2,0.1
+DO (mg/L),S2,0.07
+DO (mg/L),S2,0.2
+DO (mg/L),S2,0.17
+DO (mg/L),S2,0.22
+DO (mg/L),S2,0.11
+DO (mg/L),S2,0.27
+DO (mg/L),S2,0.29
+DO (mg/L),S2,0.87
+DO (mg/L),S2,0.84
+DO (mg/L),S2,0.47
+DO (mg/L),S2,0.68
+DO (mg/L),S2,0.7
+DO (mg/L),S2,0.79
+DO (mg/L),S2,0.7
+DO (mg/L),S2,0.76
+DO (mg/L),S2,0.34
+DO (mg/L),S2,0.88
+DO (mg/L),S2,0.86
+DO (mg/L),S2,0.67
+DO (mg/L),S2,0.53
+DO (mg/L),S2,0.76
+DO (mg/L),S2,0.93
+DO (mg/L),S2,0.97
+DO (mg/L),S2,0.95
+DO (mg/L),S2,0.97
+DO (mg/L),S2,0.95
+DO (mg/L),S2,0.95
+DO (mg/L),S2,0.97
+DO (mg/L),S2,0.93
+DO (mg/L),S2,0.97
+DO (mg/L),S2,0.96
+DO (mg/L),S2,0.95
+DO (mg/L),S2,0.96
+DO (mg/L),S2,0.97
+DO (mg/L),S2,0.93
+DO (mg/L),S2,0.95
+DO (mg/L),S2,0.98
+DO (mg/L),S2,0.99
+DO (mg/L),S2,1.0
+DO (mg/L),S2,1.07
+DO (mg/L),S2,1.0
+DO (mg/L),S2,0.99
+DO (mg/L),S2,1.05
+DO (mg/L),S2,1.02
+DO (mg/L),S2,1.0
+DO (mg/L),S2,1.03
+DO (mg/L),S2,1.02
+DO (mg/L),S2,0.98
+DO (mg/L),S2,1.02
+DO (mg/L),S2,1.01
+DO (mg/L),S2,1.05
+DO (mg/L),S2,1.08
+DO (mg/L),S2,1.56
+DO (mg/L),S2,1.21
+DO (mg/L),S2,1.55
+DO (mg/L),S2,1.3
+DO (mg/L),S2,1.49
+DO (mg/L),S2,1.47
+DO (mg/L),S2,1.39
+DO (mg/L),S2,1.18
+DO (mg/L),S2,1.1
+DO (mg/L),S2,1.6
+DO (mg/L),S2,1.24
+DO (mg/L),S2,1.09
+DO (mg/L),S2,1.36
+DO (mg/L),S2,1.18
+DO (mg/L),S2,1.43
+DO (mg/L),S2,1.65
+DO (mg/L),S2,1.56
+DO (mg/L),S2,1.21
+DO (mg/L),S2,1.55
+DO (mg/L),S2,1.3
+DO (mg/L),S2,1.49
+DO (mg/L),S2,1.47
+DO (mg/L),S2,1.39
+DO (mg/L),S2,1.18
+DO (mg/L),S2,1.1
+DO (mg/L),S2,1.6
+DO (mg/L),S2,1.24
+DO (mg/L),S2,1.09
+DO (mg/L),S2,1.36
+DO (mg/L),S2,1.18
+DO (mg/L),S2,1.9
+DO (mg/L),S2,2.01
+DO (mg/L),S2,2.01
+DO (mg/L),S2,1.9
+DO (mg/L),S2,1.96
+DO (mg/L),S2,1.96
+DO (mg/L),S2,2.02
+DO (mg/L),S2,1.92
+DO (mg/L),S2,1.93
+DO (mg/L),S2,2.0
+DO (mg/L),S2,1.98
+DO (mg/L),S2,1.96
+DO (mg/L),S2,1.91
+DO (mg/L),S2,1.94
+DO (mg/L),S2,2.03
+DO (mg/L),S2,2.01
+DO (mg/L),S2,2.03
+DO (mg/L),S2,2.04
+DO (mg/L),S2,2.06
+DO (mg/L),S2,2.07
+DO (mg/L),S2,2.07
+DO (mg/L),S2,2.08
+DO (mg/L),S2,2.05
+DO (mg/L),S2,2.08
+DO (mg/L),S2,2.07
+DO (mg/L),S2,2.07
+DO (mg/L),S2,2.03
+DO (mg/L),S2,2.04
+DO (mg/L),S2,2.08
+DO (mg/L),S2,2.08
+DO (mg/L),S2,2.06
+DO (mg/L),S2,2.09
+DO (mg/L),S2,2.13
+DO (mg/L),S2,2.1
+DO (mg/L),S2,2.14
+DO (mg/L),S2,2.13
+DO (mg/L),S2,2.1
+DO (mg/L),S2,2.15
+DO (mg/L),S2,2.18
+DO (mg/L),S2,2.12
+DO (mg/L),S2,2.15
+DO (mg/L),S2,2.11
+DO (mg/L),S2,2.12
+DO (mg/L),S2,2.13
+DO (mg/L),S2,2.13
+DO (mg/L),S2,2.11
+DO (mg/L),S2,2.18
+DO (mg/L),S2,2.19
+DO (mg/L),S2,2.21
+DO (mg/L),S2,2.18
+DO (mg/L),S2,2.24
+DO (mg/L),S2,2.2
+DO (mg/L),S2,2.22
+DO (mg/L),S2,2.19
+DO (mg/L),S2,2.19
+DO (mg/L),S2,2.21
+DO (mg/L),S2,2.22
+DO (mg/L),S2,2.22
+DO (mg/L),S2,2.2
+DO (mg/L),S2,2.21
+DO (mg/L),S2,2.25
+DO (mg/L),S2,2.25
+DO (mg/L),S2,2.32
+DO (mg/L),S2,2.36
+DO (mg/L),S2,2.32
+DO (mg/L),S2,2.33
+DO (mg/L),S2,2.36
+DO (mg/L),S2,2.25
+DO (mg/L),S2,2.33
+DO (mg/L),S2,2.31
+DO (mg/L),S2,2.31
+DO (mg/L),S2,2.31
+DO (mg/L),S2,2.31
+DO (mg/L),S2,2.34
+DO (mg/L),S2,2.37
+DO (mg/L),S2,2.36
+DO (mg/L),S2,2.29
+DO (mg/L),S2,2.39
+DO (mg/L),S2,2.5
+DO (mg/L),S2,2.43
+DO (mg/L),S2,2.47
+DO (mg/L),S2,2.43
+DO (mg/L),S2,2.53
+DO (mg/L),S2,2.43
+DO (mg/L),S2,2.51
+DO (mg/L),S2,2.49
+DO (mg/L),S2,2.39
+DO (mg/L),S2,2.45
+DO (mg/L),S2,2.46
+DO (mg/L),S2,2.4
+DO (mg/L),S2,2.4
+DO (mg/L),S2,2.51
+DO (mg/L),S2,2.53
+DO (mg/L),S2,2.58
+DO (mg/L),S2,2.54
+DO (mg/L),S2,2.53
+DO (mg/L),S2,2.56
+DO (mg/L),S2,2.57
+DO (mg/L),S2,2.54
+DO (mg/L),S2,2.58
+DO (mg/L),S2,2.56
+DO (mg/L),S2,2.57
+DO (mg/L),S2,2.54
+DO (mg/L),S2,2.54
+DO (mg/L),S2,2.57
+DO (mg/L),S2,2.55
+DO (mg/L),S2,2.56
+DO (mg/L),S3,2.6
+DO (mg/L),S3,2.75
+DO (mg/L),S3,2.72
+DO (mg/L),S3,2.73
+DO (mg/L),S3,2.7
+DO (mg/L),S3,2.64
+DO (mg/L),S3,2.69
+DO (mg/L),S3,2.77
+DO (mg/L),S3,2.74
+DO (mg/L),S3,2.74
+DO (mg/L),S3,2.73
+DO (mg/L),S3,2.66
+DO (mg/L),S3,2.69
+DO (mg/L),S3,2.77
+DO (mg/L),S3,2.65
+DO (mg/L),S3,2.77
+DO (mg/L),S3,2.77
+DO (mg/L),S3,2.8
+DO (mg/L),S3,2.77
+DO (mg/L),S3,2.78
+DO (mg/L),S3,2.81
+DO (mg/L),S3,2.8
+DO (mg/L),S3,2.83
+DO (mg/L),S3,2.81
+DO (mg/L),S3,2.78
+DO (mg/L),S3,2.79
+DO (mg/L),S3,2.79
+DO (mg/L),S3,2.79
+DO (mg/L),S3,2.81
+DO (mg/L),S3,2.78
+DO (mg/L),S3,2.82
+DO (mg/L),S3,2.83
+DO (mg/L),S3,2.84
+DO (mg/L),S3,2.86
+DO (mg/L),S3,2.84
+DO (mg/L),S3,2.85
+DO (mg/L),S3,2.84
+DO (mg/L),S3,2.85
+DO (mg/L),S3,2.83
+DO (mg/L),S3,2.86
+DO (mg/L),S3,2.83
+DO (mg/L),S3,2.84
+DO (mg/L),S3,2.83
+DO (mg/L),S3,2.84
+DO (mg/L),S3,2.85
+DO (mg/L),S3,2.85
+DO (mg/L),S3,2.86
+DO (mg/L),S3,2.77
+DO (mg/L),S3,2.85
+DO (mg/L),S3,2.64
+DO (mg/L),S3,2.75
+DO (mg/L),S3,2.71
+DO (mg/L),S3,2.79
+DO (mg/L),S3,2.71
+DO (mg/L),S3,2.7
+DO (mg/L),S3,2.71
+DO (mg/L),S3,2.74
+DO (mg/L),S3,2.83
+DO (mg/L),S3,2.74
+DO (mg/L),S3,2.8
+DO (mg/L),S3,2.65
+DO (mg/L),S3,2.66
+DO (mg/L),S3,2.63
+DO (mg/L),S3,2.59
+DO (mg/L),S3,2.62
+DO (mg/L),S3,2.59
+DO (mg/L),S3,2.54
+DO (mg/L),S3,2.54
+DO (mg/L),S3,2.55
+DO (mg/L),S3,2.58
+DO (mg/L),S3,2.61
+DO (mg/L),S3,2.54
+DO (mg/L),S3,2.58
+DO (mg/L),S3,2.54
+DO (mg/L),S3,2.54
+DO (mg/L),S3,2.53
+DO (mg/L),S3,2.45
+DO (mg/L),S3,2.38
+DO (mg/L),S3,2.13
+DO (mg/L),S3,2.24
+DO (mg/L),S3,2.26
+DO (mg/L),S3,2.36
+DO (mg/L),S3,2.46
+DO (mg/L),S3,2.18
+DO (mg/L),S3,2.35
+DO (mg/L),S3,2.4
+DO (mg/L),S3,2.22
+DO (mg/L),S3,2.21
+DO (mg/L),S3,2.45
+DO (mg/L),S3,2.06
+DO (mg/L),S3,2.03
+DO (mg/L),S3,1.97
+DO (mg/L),S3,1.78
+DO (mg/L),S3,1.84
+DO (mg/L),S3,2.02
+DO (mg/L),S3,1.93
+DO (mg/L),S3,2.0
+DO (mg/L),S3,1.76
+DO (mg/L),S3,1.72
+DO (mg/L),S3,1.87
+DO (mg/L),S3,2.02
+DO (mg/L),S3,1.92
+DO (mg/L),S3,1.81
+DO (mg/L),S3,2.03
+DO (mg/L),S3,2.02
+DO (mg/L),S3,1.65
+DO (mg/L),S3,1.56
+DO (mg/L),S3,1.35
+DO (mg/L),S3,0.69
+DO (mg/L),S3,1.22
+DO (mg/L),S3,1.64
+DO (mg/L),S3,1.34
+DO (mg/L),S3,0.96
+DO (mg/L),S3,1.56
+DO (mg/L),S3,0.92
+DO (mg/L),S3,1.46
+DO (mg/L),S3,1.55
+DO (mg/L),S3,1.33
+DO (mg/L),S3,1.13
+DO (mg/L),S3,1.01
+DO (mg/L),S3,0.8
+DO (mg/L),S3,0.66
+DO (mg/L),S3,0.61
+DO (mg/L),S3,0.6
+DO (mg/L),S3,0.4
+DO (mg/L),S3,0.56
+DO (mg/L),S3,0.3
+DO (mg/L),S3,0.27
+DO (mg/L),S3,0.42
+DO (mg/L),S3,0.4
+DO (mg/L),S3,0.53
+DO (mg/L),S3,0.56
+DO (mg/L),S3,0.22
+DO (mg/L),S3,0.23
+DO (mg/L),S3,0.43
+DO (mg/L),S3,0.24
+DO (mg/L),S3,0.11
+DO (mg/L),S3,0.04
+DO (mg/L),S3,0.02
+DO (mg/L),S3,0.05
+DO (mg/L),S3,0.05
+DO (mg/L),S3,0.1
+DO (mg/L),S3,0.11
+DO (mg/L),S3,0.05
+DO (mg/L),S3,0.03
+DO (mg/L),S3,0.07
+DO (mg/L),S3,0.08
+DO (mg/L),S3,0.07
+DO (mg/L),S3,0.09
+DO (mg/L),S3,0.05
+DO (mg/L),S3,0.09
+DO (mg/L),S3,0.02
+DO (mg/L),S3,0.04
+DO (mg/L),S3,0.02
+DO (mg/L),S3,0.02
+DO (mg/L),S3,0.03
+DO (mg/L),S3,0.05
+DO (mg/L),S3,0.02
+DO (mg/L),S3,0.05
+DO (mg/L),S3,0.02
+DO (mg/L),S3,0.02
+DO (mg/L),S3,0.03
+DO (mg/L),S3,0.05
+DO (mg/L),S3,0.04
+DO (mg/L),S3,0.04
+DO (mg/L),S3,0.04
+DO (mg/L),S3,0.05
+DO (mg/L),S3,0.23
+DO (mg/L),S3,0.33
+DO (mg/L),S3,0.23
+DO (mg/L),S3,0.1
+DO (mg/L),S3,0.36
+DO (mg/L),S3,0.3
+DO (mg/L),S3,0.29
+DO (mg/L),S3,0.36
+DO (mg/L),S3,0.21
+DO (mg/L),S3,0.17
+DO (mg/L),S3,0.08
+DO (mg/L),S3,0.37
+DO (mg/L),S3,0.18
+DO (mg/L),S3,0.1
+DO (mg/L),S3,0.08
+DO (mg/L),S3,0.38
+DO (mg/L),S3,0.61
+DO (mg/L),S3,0.92
+DO (mg/L),S3,0.72
+DO (mg/L),S3,0.48
+DO (mg/L),S3,0.67
+DO (mg/L),S3,0.44
+DO (mg/L),S3,0.4
+DO (mg/L),S3,0.81
+DO (mg/L),S3,0.65
+DO (mg/L),S3,0.79
+DO (mg/L),S3,0.62
+DO (mg/L),S3,0.45
+DO (mg/L),S3,0.91
+DO (mg/L),S3,0.55
+DO (mg/L),S3,0.95
+DO (mg/L),S3,0.95
+DO (mg/L),S3,0.99
+DO (mg/L),S3,0.99
+DO (mg/L),S3,0.97
+DO (mg/L),S3,1.0
+DO (mg/L),S3,0.98
+DO (mg/L),S3,0.99
+DO (mg/L),S3,0.95
+DO (mg/L),S3,0.96
+DO (mg/L),S3,0.99
+DO (mg/L),S3,0.96
+DO (mg/L),S3,1.0
+DO (mg/L),S3,0.97
+DO (mg/L),S3,1.02
+DO (mg/L),S3,1.02
+DO (mg/L),S3,1.31
+DO (mg/L),S3,1.2
+DO (mg/L),S3,1.2
+DO (mg/L),S3,1.21
+DO (mg/L),S3,1.04
+DO (mg/L),S3,1.16
+DO (mg/L),S3,1.32
+DO (mg/L),S3,1.03
+DO (mg/L),S3,1.07
+DO (mg/L),S3,1.16
+DO (mg/L),S3,1.21
+DO (mg/L),S3,1.27
+DO (mg/L),S3,1.16
+DO (mg/L),S3,1.16
+DO (mg/L),S3,1.36
+DO (mg/L),S3,1.7
+DO (mg/L),S3,1.68
+DO (mg/L),S3,1.52
+DO (mg/L),S3,1.4
+DO (mg/L),S3,1.71
+DO (mg/L),S3,1.71
+DO (mg/L),S3,1.36
+DO (mg/L),S3,1.62
+DO (mg/L),S3,1.83
+DO (mg/L),S3,1.53
+DO (mg/L),S3,1.87
+DO (mg/L),S3,1.64
+DO (mg/L),S3,1.74
+DO (mg/L),S3,1.68
+DO (mg/L),S3,1.58
+DO (mg/L),S3,1.91
+DO (mg/L),S3,1.7
+DO (mg/L),S3,1.68
+DO (mg/L),S3,1.52
+DO (mg/L),S3,1.4
+DO (mg/L),S3,1.71
+DO (mg/L),S3,1.71
+DO (mg/L),S3,1.36
+DO (mg/L),S3,1.62
+DO (mg/L),S3,1.83
+DO (mg/L),S3,1.53
+DO (mg/L),S3,1.87
+DO (mg/L),S3,1.64
+DO (mg/L),S3,1.74
+DO (mg/L),S3,1.68
+DO (mg/L),S3,1.94
+DO (mg/L),S3,1.94
+DO (mg/L),S3,1.97
+DO (mg/L),S3,1.96
+DO (mg/L),S3,1.94
+DO (mg/L),S3,1.96
+DO (mg/L),S3,1.94
+DO (mg/L),S3,1.96
+DO (mg/L),S3,1.96
+DO (mg/L),S3,1.95
+DO (mg/L),S3,1.94
+DO (mg/L),S3,1.96
+DO (mg/L),S3,1.97
+DO (mg/L),S3,1.96
+DO (mg/L),S3,1.94
+DO (mg/L),S3,1.96
+DO (mg/L),S3,1.97
+DO (mg/L),S3,1.97
+DO (mg/L),S3,2.0
+DO (mg/L),S3,1.98
+DO (mg/L),S3,1.98
+DO (mg/L),S3,2.0
+DO (mg/L),S3,1.99
+DO (mg/L),S3,1.98
+DO (mg/L),S3,1.98
+DO (mg/L),S3,2.01
+DO (mg/L),S3,2.02
+DO (mg/L),S3,1.97
+DO (mg/L),S3,2.0
+DO (mg/L),S3,2.0
+DO (mg/L),S3,2.01
+DO (mg/L),S3,2.03
+DO (mg/L),S3,2.12
+DO (mg/L),S3,2.11
+DO (mg/L),S3,2.06
+DO (mg/L),S3,2.04
+DO (mg/L),S3,2.07
+DO (mg/L),S3,2.04
+DO (mg/L),S3,2.1
+DO (mg/L),S3,2.09
+DO (mg/L),S3,2.07
+DO (mg/L),S3,2.1
+DO (mg/L),S3,2.1
+DO (mg/L),S3,2.08
+DO (mg/L),S3,2.08
+DO (mg/L),S3,2.12
+DO (mg/L),S3,2.15
+DO (mg/L),S3,2.2
+DO (mg/L),S3,2.23
+DO (mg/L),S3,2.23
+DO (mg/L),S3,2.21
+DO (mg/L),S3,2.21
+DO (mg/L),S3,2.22
+DO (mg/L),S3,2.16
+DO (mg/L),S3,2.15
+DO (mg/L),S3,2.19
+DO (mg/L),S3,2.22
+DO (mg/L),S3,2.21
+DO (mg/L),S3,2.18
+DO (mg/L),S3,2.21
+DO (mg/L),S3,2.16
+DO (mg/L),S3,2.24
+DO (mg/L),S3,2.24
+DO (mg/L),S3,2.26
+DO (mg/L),S3,2.3
+DO (mg/L),S3,2.25
+DO (mg/L),S3,2.27
+DO (mg/L),S3,2.29
+DO (mg/L),S3,2.29
+DO (mg/L),S3,2.32
+DO (mg/L),S3,2.26
+DO (mg/L),S3,2.29
+DO (mg/L),S3,2.25
+DO (mg/L),S3,2.3
+DO (mg/L),S3,2.24
+DO (mg/L),S3,2.24
+DO (mg/L),S3,2.3
+DO (mg/L),S3,2.33
+DO (mg/L),S3,2.4
+DO (mg/L),S3,2.37
+DO (mg/L),S3,2.45
+DO (mg/L),S3,2.42
+DO (mg/L),S3,2.39
+DO (mg/L),S3,2.48
+DO (mg/L),S3,2.46
+DO (mg/L),S3,2.34
+DO (mg/L),S3,2.33
+DO (mg/L),S3,2.33
+DO (mg/L),S3,2.46
+DO (mg/L),S3,2.36
+DO (mg/L),S3,2.43
+DO (mg/L),S3,2.42
+DO (mg/L),S3,2.49
+DO (mg/L),S3,2.5
+DO (mg/L),S3,2.52
+DO (mg/L),S3,2.51
+DO (mg/L),S3,2.51
+DO (mg/L),S3,2.51
+DO (mg/L),S3,2.51
+DO (mg/L),S3,2.5
+DO (mg/L),S3,2.52
+DO (mg/L),S3,2.49
+DO (mg/L),S3,2.51
+DO (mg/L),S3,2.51
+DO (mg/L),S3,2.49
+DO (mg/L),S3,2.5
+DO (mg/L),S3,2.5
+DO (mg/L),S4,2.59
+DO (mg/L),S4,2.64
+DO (mg/L),S4,2.61
+DO (mg/L),S4,2.67
+DO (mg/L),S4,2.68
+DO (mg/L),S4,2.62
+DO (mg/L),S4,2.68
+DO (mg/L),S4,2.61
+DO (mg/L),S4,2.66
+DO (mg/L),S4,2.69
+DO (mg/L),S4,2.65
+DO (mg/L),S4,2.7
+DO (mg/L),S4,2.61
+DO (mg/L),S4,2.64
+DO (mg/L),S4,2.63
+DO (mg/L),S4,2.71
+DO (mg/L),S4,2.81
+DO (mg/L),S4,2.82
+DO (mg/L),S4,2.75
+DO (mg/L),S4,2.83
+DO (mg/L),S4,2.73
+DO (mg/L),S4,2.84
+DO (mg/L),S4,2.83
+DO (mg/L),S4,2.78
+DO (mg/L),S4,2.83
+DO (mg/L),S4,2.84
+DO (mg/L),S4,2.81
+DO (mg/L),S4,2.75
+DO (mg/L),S4,2.72
+DO (mg/L),S4,2.84
+DO (mg/L),S4,2.73
+DO (mg/L),S4,2.85
+DO (mg/L),S4,2.86
+DO (mg/L),S4,2.86
+DO (mg/L),S4,2.86
+DO (mg/L),S4,2.87
+DO (mg/L),S4,2.86
+DO (mg/L),S4,2.86
+DO (mg/L),S4,2.86
+DO (mg/L),S4,2.87
+DO (mg/L),S4,2.87
+DO (mg/L),S4,2.89
+DO (mg/L),S4,2.88
+DO (mg/L),S4,2.89
+DO (mg/L),S4,2.87
+DO (mg/L),S4,2.89
+DO (mg/L),S4,2.89
+DO (mg/L),S4,2.72
+DO (mg/L),S4,2.71
+DO (mg/L),S4,2.69
+DO (mg/L),S4,2.82
+DO (mg/L),S4,2.8
+DO (mg/L),S4,2.73
+DO (mg/L),S4,2.79
+DO (mg/L),S4,2.89
+DO (mg/L),S4,2.82
+DO (mg/L),S4,2.78
+DO (mg/L),S4,2.83
+DO (mg/L),S4,2.75
+DO (mg/L),S4,2.74
+DO (mg/L),S4,2.88
+DO (mg/L),S4,2.81
+DO (mg/L),S4,2.68
+DO (mg/L),S4,2.6
+DO (mg/L),S4,2.56
+DO (mg/L),S4,2.66
+DO (mg/L),S4,2.6
+DO (mg/L),S4,2.61
+DO (mg/L),S4,2.66
+DO (mg/L),S4,2.61
+DO (mg/L),S4,2.55
+DO (mg/L),S4,2.58
+DO (mg/L),S4,2.68
+DO (mg/L),S4,2.61
+DO (mg/L),S4,2.62
+DO (mg/L),S4,2.54
+DO (mg/L),S4,2.2
+DO (mg/L),S4,2.54
+DO (mg/L),S4,2.08
+DO (mg/L),S4,2.05
+DO (mg/L),S4,2.23
+DO (mg/L),S4,2.47
+DO (mg/L),S4,2.04
+DO (mg/L),S4,2.11
+DO (mg/L),S4,2.3
+DO (mg/L),S4,2.16
+DO (mg/L),S4,2.48
+DO (mg/L),S4,2.08
+DO (mg/L),S4,2.5
+DO (mg/L),S4,2.12
+DO (mg/L),S4,2.03
+DO (mg/L),S4,1.91
+DO (mg/L),S4,1.79
+DO (mg/L),S4,1.95
+DO (mg/L),S4,1.72
+DO (mg/L),S4,1.88
+DO (mg/L),S4,1.97
+DO (mg/L),S4,1.78
+DO (mg/L),S4,2.03
+DO (mg/L),S4,1.96
+DO (mg/L),S4,1.71
+DO (mg/L),S4,1.82
+DO (mg/L),S4,1.91
+DO (mg/L),S4,1.93
+DO (mg/L),S4,1.75
+DO (mg/L),S4,1.7
+DO (mg/L),S4,1.01
+DO (mg/L),S4,1.38
+DO (mg/L),S4,1.57
+DO (mg/L),S4,1.3
+DO (mg/L),S4,1.35
+DO (mg/L),S4,0.85
+DO (mg/L),S4,1.45
+DO (mg/L),S4,1.61
+DO (mg/L),S4,1.01
+DO (mg/L),S4,1.61
+DO (mg/L),S4,0.9
+DO (mg/L),S4,1.25
+DO (mg/L),S4,1.23
+DO (mg/L),S4,1.55
+DO (mg/L),S4,1.6
+DO (mg/L),S4,0.71
+DO (mg/L),S4,0.39
+DO (mg/L),S4,0.59
+DO (mg/L),S4,0.24
+DO (mg/L),S4,0.48
+DO (mg/L),S4,0.35
+DO (mg/L),S4,0.36
+DO (mg/L),S4,0.67
+DO (mg/L),S4,0.57
+DO (mg/L),S4,0.55
+DO (mg/L),S4,0.71
+DO (mg/L),S4,0.35
+DO (mg/L),S4,0.33
+DO (mg/L),S4,0.41
+DO (mg/L),S4,0.45
+DO (mg/L),S4,0.13
+DO (mg/L),S4,0.1
+DO (mg/L),S4,0.11
+DO (mg/L),S4,0.07
+DO (mg/L),S4,0.09
+DO (mg/L),S4,0.12
+DO (mg/L),S4,0.06
+DO (mg/L),S4,0.1
+DO (mg/L),S4,0.06
+DO (mg/L),S4,0.12
+DO (mg/L),S4,0.1
+DO (mg/L),S4,0.08
+DO (mg/L),S4,0.04
+DO (mg/L),S4,0.1
+DO (mg/L),S4,0.11
+DO (mg/L),S4,0.03
+DO (mg/L),S4,0.03
+DO (mg/L),S4,0.04
+DO (mg/L),S4,0.05
+DO (mg/L),S4,0.03
+DO (mg/L),S4,0.05
+DO (mg/L),S4,0.05
+DO (mg/L),S4,0.05
+DO (mg/L),S4,0.03
+DO (mg/L),S4,0.04
+DO (mg/L),S4,0.05
+DO (mg/L),S4,0.03
+DO (mg/L),S4,0.04
+DO (mg/L),S4,0.04
+DO (mg/L),S4,0.06
+DO (mg/L),S4,0.06
+DO (mg/L),S4,0.18
+DO (mg/L),S4,0.19
+DO (mg/L),S4,0.31
+DO (mg/L),S4,0.25
+DO (mg/L),S4,0.37
+DO (mg/L),S4,0.08
+DO (mg/L),S4,0.35
+DO (mg/L),S4,0.24
+DO (mg/L),S4,0.06
+DO (mg/L),S4,0.14
+DO (mg/L),S4,0.16
+DO (mg/L),S4,0.21
+DO (mg/L),S4,0.37
+DO (mg/L),S4,0.36
+DO (mg/L),S4,0.35
+DO (mg/L),S4,0.43
+DO (mg/L),S4,0.43
+DO (mg/L),S4,0.45
+DO (mg/L),S4,0.84
+DO (mg/L),S4,0.69
+DO (mg/L),S4,0.7
+DO (mg/L),S4,0.89
+DO (mg/L),S4,0.71
+DO (mg/L),S4,0.75
+DO (mg/L),S4,0.9
+DO (mg/L),S4,0.7
+DO (mg/L),S4,0.87
+DO (mg/L),S4,0.61
+DO (mg/L),S4,0.75
+DO (mg/L),S4,0.51
+DO (mg/L),S4,1.0
+DO (mg/L),S4,1.0
+DO (mg/L),S4,1.01
+DO (mg/L),S4,1.02
+DO (mg/L),S4,1.0
+DO (mg/L),S4,1.01
+DO (mg/L),S4,1.01
+DO (mg/L),S4,1.03
+DO (mg/L),S4,1.02
+DO (mg/L),S4,1.02
+DO (mg/L),S4,1.0
+DO (mg/L),S4,1.01
+DO (mg/L),S4,1.02
+DO (mg/L),S4,1.0
+DO (mg/L),S4,1.01
+DO (mg/L),S4,1.03
+DO (mg/L),S4,1.38
+DO (mg/L),S4,1.18
+DO (mg/L),S4,1.13
+DO (mg/L),S4,1.09
+DO (mg/L),S4,1.1
+DO (mg/L),S4,1.09
+DO (mg/L),S4,1.07
+DO (mg/L),S4,1.37
+DO (mg/L),S4,1.34
+DO (mg/L),S4,1.41
+DO (mg/L),S4,1.21
+DO (mg/L),S4,1.2
+DO (mg/L),S4,1.27
+DO (mg/L),S4,1.04
+DO (mg/L),S4,1.44
+DO (mg/L),S4,1.54
+DO (mg/L),S4,1.51
+DO (mg/L),S4,1.61
+DO (mg/L),S4,1.84
+DO (mg/L),S4,1.93
+DO (mg/L),S4,1.56
+DO (mg/L),S4,1.53
+DO (mg/L),S4,1.7
+DO (mg/L),S4,1.58
+DO (mg/L),S4,1.92
+DO (mg/L),S4,1.76
+DO (mg/L),S4,1.58
+DO (mg/L),S4,1.64
+DO (mg/L),S4,1.73
+DO (mg/L),S4,1.67
+DO (mg/L),S4,1.94
+DO (mg/L),S4,1.54
+DO (mg/L),S4,1.51
+DO (mg/L),S4,1.61
+DO (mg/L),S4,1.84
+DO (mg/L),S4,1.93
+DO (mg/L),S4,1.56
+DO (mg/L),S4,1.53
+DO (mg/L),S4,1.7
+DO (mg/L),S4,1.58
+DO (mg/L),S4,1.92
+DO (mg/L),S4,1.76
+DO (mg/L),S4,1.58
+DO (mg/L),S4,1.64
+DO (mg/L),S4,1.73
+DO (mg/L),S4,1.95
+DO (mg/L),S4,1.97
+DO (mg/L),S4,1.97
+DO (mg/L),S4,1.97
+DO (mg/L),S4,1.96
+DO (mg/L),S4,1.97
+DO (mg/L),S4,1.97
+DO (mg/L),S4,1.95
+DO (mg/L),S4,1.97
+DO (mg/L),S4,1.96
+DO (mg/L),S4,1.95
+DO (mg/L),S4,1.95
+DO (mg/L),S4,1.97
+DO (mg/L),S4,1.96
+DO (mg/L),S4,1.97
+DO (mg/L),S4,1.96
+DO (mg/L),S4,1.98
+DO (mg/L),S4,1.98
+DO (mg/L),S4,2.0
+DO (mg/L),S4,2.0
+DO (mg/L),S4,2.0
+DO (mg/L),S4,2.05
+DO (mg/L),S4,2.02
+DO (mg/L),S4,2.02
+DO (mg/L),S4,2.01
+DO (mg/L),S4,2.03
+DO (mg/L),S4,2.0
+DO (mg/L),S4,2.0
+DO (mg/L),S4,1.99
+DO (mg/L),S4,1.99
+DO (mg/L),S4,1.98
+DO (mg/L),S4,2.05
+DO (mg/L),S4,2.12
+DO (mg/L),S4,2.11
+DO (mg/L),S4,2.06
+DO (mg/L),S4,2.18
+DO (mg/L),S4,2.11
+DO (mg/L),S4,2.13
+DO (mg/L),S4,2.14
+DO (mg/L),S4,2.16
+DO (mg/L),S4,2.16
+DO (mg/L),S4,2.13
+DO (mg/L),S4,2.07
+DO (mg/L),S4,2.14
+DO (mg/L),S4,2.06
+DO (mg/L),S4,2.06
+DO (mg/L),S4,2.19
+DO (mg/L),S4,2.19
+DO (mg/L),S4,2.25
+DO (mg/L),S4,2.27
+DO (mg/L),S4,2.25
+DO (mg/L),S4,2.23
+DO (mg/L),S4,2.26
+DO (mg/L),S4,2.2
+DO (mg/L),S4,2.28
+DO (mg/L),S4,2.22
+DO (mg/L),S4,2.28
+DO (mg/L),S4,2.19
+DO (mg/L),S4,2.27
+DO (mg/L),S4,2.25
+DO (mg/L),S4,2.3
+DO (mg/L),S4,2.3
+DO (mg/L),S4,2.36
+DO (mg/L),S4,2.37
+DO (mg/L),S4,2.4
+DO (mg/L),S4,2.36
+DO (mg/L),S4,2.38
+DO (mg/L),S4,2.37
+DO (mg/L),S4,2.37
+DO (mg/L),S4,2.34
+DO (mg/L),S4,2.32
+DO (mg/L),S4,2.32
+DO (mg/L),S4,2.36
+DO (mg/L),S4,2.4
+DO (mg/L),S4,2.35
+DO (mg/L),S4,2.31
+DO (mg/L),S4,2.37
+DO (mg/L),S4,2.41
+DO (mg/L),S4,2.44
+DO (mg/L),S4,2.49
+DO (mg/L),S4,2.49
+DO (mg/L),S4,2.47
+DO (mg/L),S4,2.49
+DO (mg/L),S4,2.46
+DO (mg/L),S4,2.42
+DO (mg/L),S4,2.42
+DO (mg/L),S4,2.43
+DO (mg/L),S4,2.49
+DO (mg/L),S4,2.48
+DO (mg/L),S4,2.48
+DO (mg/L),S4,2.46
+DO (mg/L),S4,2.47
+DO (mg/L),S4,2.5
+DO (mg/L),S4,2.5
+DO (mg/L),S4,2.54
+DO (mg/L),S4,2.52
+DO (mg/L),S4,2.54
+DO (mg/L),S4,2.53
+DO (mg/L),S4,2.54
+DO (mg/L),S4,2.5
+DO (mg/L),S4,2.52
+DO (mg/L),S4,2.53
+DO (mg/L),S4,2.53
+DO (mg/L),S4,2.54
+DO (mg/L),S4,2.5
+DO (mg/L),S4,2.51
+DO (mg/L),S4,2.55
